@@ -180,6 +180,7 @@ http://dnsx.co:80/7885037935/fireurl.co/90536
 
 #EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="●Alternativos●", ESPN Brasil SD [Alter]
 http://dnsx.co:80/7885037935/fireurl.co/90537
+
 #EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="●Alternativos●", ESPN Extra HD [Alter]
 http://dnsx.co:80/7885037935/fireurl.co/90533
 
@@ -977,11 +978,8 @@ http://dnsx.co:80/live/7885037935/fireurl.co/71911.ts
 #EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="Esportes", ESPN Brasil FHD [H265]
 http://dnsx.co:80/live/7885037935/fireurl.co/71912.ts
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-5-1536x380.png" group-title="Esportes",ESPN BRASIL HD²
-http://vvraw.com:2082/Altair567/356738473/4560
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-5-1536x380.png" group-title="Esportes",ESPN BRASIL SD²
-http://vvraw.com:2082/Altair567/356738473/4557
+#EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="Esportes", ESPN Brasil HD
+http://dnsx.co:80/7885037935/fireurl.co/90536
 
 #EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="Esportes", ESPN Extra HD
 http://dnsx.co:80/live/7885037935/fireurl.co/71917.ts
