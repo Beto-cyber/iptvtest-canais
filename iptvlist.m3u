@@ -1,13 +1,14 @@
 #EXTM3U x-tvg-url="https://bit.ly/epglistasuprema"
 
 
+
 #EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="●4K●", A&E 4K [FHDR]
 http://b5.vc:80/9JJCdQuZpt/fireurl.co/90647
 
 #EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="●4K●", AMC 4K [FHDR]
 http://b5.vc:80/9JJCdQuZpt/fireurl.co/90646
 
-#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="●4K●", Animal Planet 4K FHDR
+#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="●4K●", Animal Planet 4K [FHDR]
 http://b5.vc:80/9JJCdQuZpt/fireurl.co/71774
 
 #EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="●4K●", AXN 4K [FHDR]
@@ -147,199 +148,161 @@ http://b5.vc:80/9JJCdQuZpt/fireurl.co/90236
 
 
 
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB 1 HD
-http://dnsx.co:80/7885037935/fireurl.co/89720
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB 1 FHD
+http://dnsx.co:80/7885037935/fireurl.co/89722
 
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB 1 SD
-http://dnsx.co:80/7885037935/fireurl.co/89719
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB 1 FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/89721
 
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB 2 HD
-http://dnsx.co:80/7885037935/fireurl.co/89712
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB 2 FHD
+http://dnsx.co:80/7885037935/fireurl.co/89714
 
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB 2 SD
-http://dnsx.co:80/7885037935/fireurl.co/89711
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB 2 FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/89713
 
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Acompanhe a Casa 2 HD
-http://dnsx.co:80/7885037935/fireurl.co/93490
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Acompanhe a Casa 2 FHD
+http://dnsx.co:80/7885037935/fireurl.co/93489
 
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Acompanhe a Casa 2 SD
-http://dnsx.co:80/7885037935/fireurl.co/93491
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Acompanhe a Casa Extra FHD
+http://dnsx.co:80/7885037935/fireurl.co/93492
 
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Acompanhe a Casa Extra HD
-http://dnsx.co:80/7885037935/fireurl.co/93493
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Acompanhe a Casa FHD
+http://dnsx.co:80/7885037935/fireurl.co/93495
 
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Acompanhe a Casa Extra SD
-http://dnsx.co:80/7885037935/fireurl.co/93494
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Confessionario FHD
+http://dnsx.co:80/7885037935/fireurl.co/93498
 
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Acompanhe a Casa HD
-http://dnsx.co:80/7885037935/fireurl.co/93496
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Cozinha Vip Xepa FHD
+http://dnsx.co:80/7885037935/fireurl.co/93501
 
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Acompanhe a Casa SD
-http://dnsx.co:80/7885037935/fireurl.co/93497
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Jardim FHD
+http://dnsx.co:80/7885037935/fireurl.co/93504
 
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Confessionario HD
-http://dnsx.co:80/7885037935/fireurl.co/93499
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Mosaico FHD
+http://dnsx.co:80/7885037935/fireurl.co/89718
 
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Confessionario SD
-http://dnsx.co:80/7885037935/fireurl.co/93500
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Mosaico FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/89717
 
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Cozinha Vip Xepa HD
-http://dnsx.co:80/7885037935/fireurl.co/93502
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Piscina FHD
+http://dnsx.co:80/7885037935/fireurl.co/93507
 
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Cozinha Vip Xepa SD
-http://dnsx.co:80/7885037935/fireurl.co/93503
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Quarto Colorido FHD
+http://dnsx.co:80/7885037935/fireurl.co/93510
 
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Jardim HD
-http://dnsx.co:80/7885037935/fireurl.co/93505
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Quarto Cordel FHD
+http://dnsx.co:80/7885037935/fireurl.co/93513
 
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Jardim SD
-http://dnsx.co:80/7885037935/fireurl.co/93506
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Sala da Casa Extra FHD
+http://dnsx.co:80/7885037935/fireurl.co/93516
 
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Mosaico HD
-http://dnsx.co:80/7885037935/fireurl.co/89716
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Mosaico SD
-http://dnsx.co:80/7885037935/fireurl.co/89715
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Piscina HD
-http://dnsx.co:80/7885037935/fireurl.co/93508
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Piscina SD
-http://dnsx.co:80/7885037935/fireurl.co/93509
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Quarto Colorido HD
-http://dnsx.co:80/7885037935/fireurl.co/93511
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Quarto Colorido SD
-http://dnsx.co:80/7885037935/fireurl.co/93512
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Quarto Cordel HD
-http://dnsx.co:80/7885037935/fireurl.co/93514
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Quarto Cordel SD
-http://dnsx.co:80/7885037935/fireurl.co/93515
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Sala da Casa Extra HD
-http://dnsx.co:80/7885037935/fireurl.co/93517
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Sala da Casa Extra SD
-http://dnsx.co:80/7885037935/fireurl.co/93518
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Sala de Estar HD
-http://dnsx.co:80/7885037935/fireurl.co/93520
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Sala de Estar SD
-http://dnsx.co:80/7885037935/fireurl.co/93521
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Sala de Estar FHD
+http://dnsx.co:80/7885037935/fireurl.co/93519
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/94LL42q.png" group-title="●Cine●", Cine Pipoca 1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/94LL42q.png" group-title="●Cine Pipoca●", Cine Pipoca 1
 http://load.casaplayer.com.br:80/060020/414151/19382
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/94LL42q.png" group-title="●Cine●", Cine Pipoca 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/94LL42q.png" group-title="●Cine Pipoca●", Cine Pipoca 2
 http://load.casaplayer.com.br:80/060020/414151/19383
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/94LL42q.png" group-title="●Cine●", Cine Pipoca 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/94LL42q.png" group-title="●Cine Pipoca●", Cine Pipoca 3
 http://load.casaplayer.com.br:80/060020/414151/19384
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/94LL42q.png" group-title="●Cine●", Cine Pipoca 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/94LL42q.png" group-title="●Cine Pipoca●", Cine Pipoca 4
 http://load.casaplayer.com.br:80/060020/414151/23760
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/94LL42q.png" group-title="●Cine●", Cine Pipoca 5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/94LL42q.png" group-title="●Cine Pipoca●", Cine Pipoca 5
 http://load.casaplayer.com.br:80/060020/414151/19386
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/94LL42q.png" group-title="●Cine●", Cine Pipoca 6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/94LL42q.png" group-title="●Cine Pipoca●", Cine Pipoca 6
 http://load.casaplayer.com.br:80/060020/414151/19387
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/94LL42q.png" group-title="●Cine●", Cine Pipoca 7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/94LL42q.png" group-title="●Cine Pipoca●", Cine Pipoca 7
 http://load.casaplayer.com.br:80/060020/414151/19388
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/94LL42q.png" group-title="●Cine●", Cine Pipoca 8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/94LL42q.png" group-title="●Cine Pipoca●", Cine Pipoca 8
 http://load.casaplayer.com.br:80/060020/414151/19389
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/94LL42q.png" group-title="●Cine●", Cine Pipoca 9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/94LL42q.png" group-title="●Cine Pipoca●", Cine Pipoca 9
 http://load.casaplayer.com.br:80/060020/414151/19390
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/94LL42q.png" group-title="●Cine●", Cine Pipoca 10
+#EXTINF:-1 tvg-logo="https://i.imgur.com/94LL42q.png" group-title="●Cine Pipoca●", Cine Pipoca 10
 http://load.casaplayer.com.br:80/060020/414151/19391
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/94LL42q.png" group-title="●Cine●", Cine Pipoca 11
+#EXTINF:-1 tvg-logo="https://i.imgur.com/94LL42q.png" group-title="●Cine Pipoca●", Cine Pipoca 11
 http://load.casaplayer.com.br:80/060020/414151/23761
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/94LL42q.png" group-title="●Cine●", Cine Pipoca 12
+#EXTINF:-1 tvg-logo="https://i.imgur.com/94LL42q.png" group-title="●Cine Pipoca●", Cine Pipoca 12
 http://load.casaplayer.com.br:80/060020/414151/23762
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/94LL42q.png" group-title="●Cine●", Cine Pipoca 13
+#EXTINF:-1 tvg-logo="https://i.imgur.com/94LL42q.png" group-title="●Cine Pipoca●", Cine Pipoca 13
 http://load.casaplayer.com.br:80/060020/414151/23763
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/94LL42q.png" group-title="●Cine●", Cine Pipoca 14
+#EXTINF:-1 tvg-logo="https://i.imgur.com/94LL42q.png" group-title="●Cine Pipoca●", Cine Pipoca 14
 http://load.casaplayer.com.br:80/060020/414151/23764
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r2Tu86N.png" group-title="●Cine●", Cine SKY 1 HD
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r2Tu86N.png" group-title="●Cine SKY●", Cine SKY 1 HD
 http://b5.vc:80/9JJCdQuZpt/fireurl.co/72994
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r2Tu86N.png" group-title="●Cine●", Cine SKY 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r2Tu86N.png" group-title="●Cine SKY●", Cine SKY 2 HD
 http://dnsx.co:80/live/7885037935/fireurl.co/72995.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r2Tu86N.png" group-title="●Cine●", Cine SKY 3 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r2Tu86N.png" group-title="●Cine SKY●", Cine SKY 3 HD
 http://dnsx.co:80/live/7885037935/fireurl.co/72996.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r2Tu86N.png" group-title="●Cine●", Cine SKY 4 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r2Tu86N.png" group-title="●Cine SKY●", Cine SKY 4 HD
 http://dnsx.co:80/live/7885037935/fireurl.co/72997.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r2Tu86N.png" group-title="●Cine●", Cine SKY 5 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r2Tu86N.png" group-title="●Cine SKY●", Cine SKY 5 HD
 http://dnsx.co:80/live/7885037935/fireurl.co/72998.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r2Tu86N.png" group-title="●Cine●", Cine SKY 6 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r2Tu86N.png" group-title="●Cine SKY●", Cine SKY 6 HD
 http://dnsx.co:80/live/7885037935/fireurl.co/72999.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r2Tu86N.png" group-title="●Cine●", Cine SKY 7 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r2Tu86N.png" group-title="●Cine SKY●", Cine SKY 7 HD
 http://dnsx.co:80/live/7885037935/fireurl.co/73000.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r2Tu86N.png" group-title="●Cine●", Cine SKY 8 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r2Tu86N.png" group-title="●Cine SKY●", Cine SKY 8 HD
 http://dnsx.co:80/live/7885037935/fireurl.co/73001.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r2Tu86N.png" group-title="●Cine●", Cine SKY 9 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r2Tu86N.png" group-title="●Cine SKY●", Cine SKY 9 HD
 http://dnsx.co:80/live/7885037935/fireurl.co/73002.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r2Tu86N.png" group-title="●Cine●", Cine SKY 10 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r2Tu86N.png" group-title="●Cine SKY●", Cine SKY 10 HD
 http://dnsx.co:80/live/7885037935/fireurl.co/73003.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vBDogfl.png" group-title="●PPV●", Campeonato Carioca 1 HD
-http://b5.vc:80/9JJCdQuZpt/fireurl.co/96515
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vBDogfl.png" group-title="●PPV●", Campeonato Carioca 1 SD
-http://b5.vc:80/9JJCdQuZpt/fireurl.co/96516
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q7PzTSJ.png" group-title="●PPV●", Conmebol TV 1 FHD
+http://dnsx.co:80/7885037935/fireurl.co/72977
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vBDogfl.png" group-title="●PPV●", Campeonato Carioca 2 HD
-http://b5.vc:80/9JJCdQuZpt/fireurl.co/96519
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q7PzTSJ.png" group-title="●PPV●", Conmebol TV 1 FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72978
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vBDogfl.png" group-title="●PPV●", Campeonato Carioca 2 SD
-http://b5.vc:80/9JJCdQuZpt/fireurl.co/96520
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q7PzTSJ.png" group-title="●PPV●", Conmebol TV 2 FHD
+http://dnsx.co:80/7885037935/fireurl.co/72981
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q7PzTSJ.png" group-title="●PPV●", Conmebol TV 1 HD
-http://dnsx.co:80/7885037935/fireurl.co/72979
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q7PzTSJ.png" group-title="●PPV●", Conmebol TV 2 FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72982
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q7PzTSJ.png" group-title="●PPV●", Conmebol TV 1 SD
-http://dnsx.co:80/7885037935/fireurl.co/72980
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q7PzTSJ.png" group-title="●PPV●", Conmebol TV 3 FHD
+http://dnsx.co:80/7885037935/fireurl.co/72985
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q7PzTSJ.png" group-title="●PPV●", Conmebol TV 2 HD
-http://dnsx.co:80/7885037935/fireurl.co/72983
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q7PzTSJ.png" group-title="●PPV●", Conmebol TV 3 FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72986
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q7PzTSJ.png" group-title="●PPV●", Conmebol TV 2 SD
-http://dnsx.co:80/7885037935/fireurl.co/72984
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q7PzTSJ.png" group-title="●PPV●", Conmebol TV 4 FHD
+http://dnsx.co:80/7885037935/fireurl.co/72989
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q7PzTSJ.png" group-title="●PPV●", Conmebol TV 3 HD
-http://dnsx.co:80/7885037935/fireurl.co/72987
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q7PzTSJ.png" group-title="●PPV●", Conmebol TV 4 FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72990
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q7PzTSJ.png" group-title="●PPV●", Conmebol TV 3 SD
-http://dnsx.co:80/7885037935/fireurl.co/72988
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q7PzTSJ.png" group-title="●PPV●", Conmebol TV 4 HD
-http://dnsx.co:80/7885037935/fireurl.co/72991
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sy9Jvbh.png" group-title="●PPV●", Copa do Nordeste 1
 http://diretogo.com:80/a694360/6125381/19686
@@ -404,65 +367,55 @@ http://b5.vc:80/7885037935/fireurl.co/79316
 #EXTINF:-1 tvg-logo="https://i.imgur.com/upVGNqd.png" group-title="●PPV●", Facebook Watch 3 
 http://b5.vc:80/7885037935/fireurl.co/79317
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vBDogfl.png" group-title="●PPV●", Campeonato Carioca 1 FHD
+http://b5.vc:80/9JJCdQuZpt/fireurl.co/96513
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vBDogfl.png" group-title="●PPV●", Campeonato Carioca 1 FHD [H265]
+http://b5.vc:80/9JJCdQuZpt/fireurl.co/96514
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vBDogfl.png" group-title="●PPV●", Campeonato Carioca 2 FHD
+http://b5.vc:80/9JJCdQuZpt/fireurl.co/96517
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vBDogfl.png" group-title="●PPV●", Campeonato Carioca 2 FHD [H265]
+http://b5.vc:80/9JJCdQuZpt/fireurl.co/96518
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EBteuiQ.png" group-title="Abertos", AgroMais HD
-http://dnsx.co:80/live/7885037935/fireurl.co/71766.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Abertos", Band SP FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/79311.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EBteuiQ.png" group-title="Abertos", AgroMais SD
-http://dnsx.co:80/live/7885037935/fireurl.co/71767.ts
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Abertos", Cultura FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/71851.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Abertos", Band SP HD
-http://dnsx.co:80/live/7885037935/fireurl.co/72597.ts
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Abertos", Cultura FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/71852.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Abertos", Band SP SD
-http://dnsx.co:80/live/7885037935/fireurl.co/79312.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/dgd" group-title="Abertos", Futura FHD
+http://dnsx.co:80/7885037935/fireurl.co/71962
 
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Abertos", Cultura HD
-http://dnsx.co:80/live/7885037935/fireurl.co/71853.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/dgd" group-title="Abertos", Futura FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/71963
 
-#EXTINF:-1 tvg-logo="http://a5.vc/CyU" group-title="Abertos", Cultura SD
-http://dnsx.co:80/live/7885037935/fireurl.co/71854.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Abertos", Globo SP FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/72040.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/dgd" group-title="Abertos", Futura HD
-http://dnsx.co:80/7885037935/fireurl.co/71964
+#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Abertos", RecordTV SP FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/77654.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/dgd" group-title="Abertos", Futura SD
-http://dnsx.co:80/7885037935/fireurl.co/71965
+#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Abertos", RecordTV SP FHD  [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/72595.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Abertos", Globo SP HD
-http://dnsx.co:80/live/7885037935/fireurl.co/72041.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/NuR" group-title="Abertos", RedeTV FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/72297.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Abertos", Globo SP SD
-http://dnsx.co:80/live/7885037935/fireurl.co/72042.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Abertos", SBT SP FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/77963.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Abertos", RecordTV SP HD
-http://dnsx.co:80/live/7885037935/fireurl.co/72973.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R3QFN6Q.png" group-title="Abertos", TV Brasil FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/72399.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Abertos", RecordTV HD
-http://dnsx.co:80/live/7885037935/fireurl.co/92668.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Abertos", RecordTV SD
-http://dnsx.co:80/live/7885037935/fireurl.co/92669.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/NuR" group-title="Abertos", RedeTV HD
-http://dnsx.co:80/live/7885037935/fireurl.co/72299.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/NuR" group-title="Abertos", RedeTV SD
-http://dnsx.co:80/live/7885037935/fireurl.co/72300.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Abertos", SBT SP HD
-http://dnsx.co:80/live/7885037935/fireurl.co/72598.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Abertos", SBT SP SD
-http://dnsx.co:80/live/7885037935/fireurl.co/77964.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R3QFN6Q.png" group-title="Abertos", TV Brasil HD
-http://dnsx.co:80/live/7885037935/fireurl.co/72401.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R3QFN6Q.png" group-title="Abertos", TV Brasil SD
-http://dnsx.co:80/live/7885037935/fireurl.co/72402.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R3QFN6Q.png" group-title="Abertos", TV Brasil FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/72400.ts
 
 #EXTINF:-1 tvg-logo="http://a5.vc/QZr" group-title="Abertos", TV Gazeta SP HD
 http://dnsx.co:80/live/7885037935/fireurl.co/72406.ts
@@ -470,477 +423,466 @@ http://dnsx.co:80/live/7885037935/fireurl.co/72406.ts
 #EXTINF:-1 tvg-logo="http://a5.vc/QZr" group-title="Abertos", TV Gazeta SP SD
 http://dnsx.co:80/live/7885037935/fireurl.co/72407.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="Documentários", Animal Planet HD
-http://dnsx.co:80/live/7885037935/fireurl.co/71775.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="Documentários", Animal Planet FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/71772.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="Documentários", Animal Planet SD
-http://dnsx.co:80/live/7885037935/fireurl.co/71776.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="Documentários", Animal Planet FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/71773.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="Documentários", Discovery Channel HD
-http://dnsx.co:80/live/7885037935/fireurl.co/71865.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="Documentários", Discovery Channel FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/71862.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="Documentários", Discovery Channel SD
-http://dnsx.co:80/live/7885037935/fireurl.co/71866.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="Documentários", Discovery Channel FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/71863.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/0gi" group-title="Documentários", Discovery Science HD
-http://dnsx.co:80/live/7885037935/fireurl.co/71877.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/0gi" group-title="Documentários", Discovery Science FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/71875.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/0gi" group-title="Documentários", Discovery Science SD 
-http://dnsx.co:80/live/7885037935/fireurl.co/71878.ts 
+#EXTINF:-1 tvg-logo="http://a5.vc/0gi" group-title="Documentários", Discovery Science FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/71876.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/uCQ" group-title="Documentários", Discovery Turbo HD
-http://b5.vc:80/7885037935/fireurl.co/71885
+#EXTINF:-1 tvg-logo="http://a5.vc/uCQ" group-title="Documentários", Discovery Turbo FHD
+http://b5.vc:80/7885037935/fireurl.co/71883
 
-#EXTINF:-1 tvg-logo="http://a5.vc/uCQ" group-title="Documentários", Discovery Turbo SD
-http://b5.vc:80/7885037935/fireurl.co/71886
+#EXTINF:-1 tvg-logo="http://a5.vc/uCQ" group-title="Documentários", Discovery Turbo FHD [H265]
+http://b5.vc:80/7885037935/fireurl.co/71884
 
-#EXTINF:-1 tvg-logo="http://a5.vc/Nib" group-title="Documentários", Discovery Theater HD
-http://dnsx.co:80/live/7885037935/fireurl.co/71881.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Nib" group-title="Documentários", Discovery Theater FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/71879.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/Nib" group-title="Documentários", Discovery Theater SD
-http://dnsx.co:80/live/7885037935/fireurl.co/71882.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Nib" group-title="Documentários", Discovery Theater FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/71880.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/wgC" group-title="Documentários", Discovery World HD
-http://dnsx.co:80/live/7885037935/fireurl.co/71889.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/wgC" group-title="Documentários", Discovery World FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/71887.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/wgC" group-title="Documentários", Discovery World SD
-http://dnsx.co:80/live/7885037935/fireurl.co/71890.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/wgC" group-title="Documentários", Discovery World FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/71888.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/Zwg" group-title="Documentários", H2 HD
-http://dnsx.co:80/live/7885037935/fireurl.co/72108.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Zwg" group-title="Documentários", H2 FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/72106.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/Zwg" group-title="Documentários", H2 SD
-http://dnsx.co:80/live/7885037935/fireurl.co/72109.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Zwg" group-title="Documentários", H2 FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/72107.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CyW3g9p.png" group-title="Documentários", HGTV HD
-http://dnsx.co:80/live/7885037935/fireurl.co/72144.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CyW3g9p.png" group-title="Documentários", HGTV FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/72142.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CyW3g9p.png" group-title="Documentários", HGTV SD
-http://dnsx.co:80/live/7885037935/fireurl.co/72145.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CyW3g9p.png" group-title="Documentários", HGTV FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/72143.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/VE2" group-title="Documentários", History HD
-http://dnsx.co:80/live/7885037935/fireurl.co/72148.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/VE2" group-title="Documentários", History FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/72146.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/VE2" group-title="Documentários", History SD
-http://dnsx.co:80/live/7885037935/fireurl.co/72149.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/VE2" group-title="Documentários", History FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/72147.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/53O" group-title="Documentários", ID - Investigação Discovery HD
-http://diretogo.com:80/a694360/6125381/109
+#EXTINF:-1 tvg-logo="http://a5.vc/53O" group-title="Documentários", ID - Investigação Discovery FHD
+http://diretogo.com:80/a694360/6125381/9623
 
-#EXTINF:-1 tvg-logo="http://a5.vc/53O" group-title="Documentários", ID - Investigação Discovery SD
-http://diretogo.com:80/a694360/6125381/108
+#EXTINF:-1 tvg-logo="http://a5.vc/53O" group-title="Documentários", ID - Investigação Discovery FHD [H265]
+http://diretogo.com:80/a694360/6125381/17295
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zt9lfNr.png" group-title="Documentários", Love Nature HD
-http://dnsx.co:80/7885037935/fireurl.co/73004
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zt9lfNr.png" group-title="Documentários", Love Nature FHD [H265]
+http://b5.vc:80/7885037935/fireurl.co/73004
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yDYuFdE.png" group-title="Documentários", Nat Geo Wild SD
-http://dnsx.co:80/live/7885037935/fireurl.co/72195.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yDYuFdE.png" group-title="Documentários", Nat Geo Wild FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/72193.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/zO2" group-title="Documentários", National Geographic HD
-http://dnsx.co:80/live/7885037935/fireurl.co/72199.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yDYuFdE.png" group-title="Documentários", Nat Geo Wild FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/72192.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/zO2" group-title="Documentários", National Geographic SD
-http://dnsx.co:80/live/7885037935/fireurl.co/72200.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/zO2" group-title="Documentários", National Geographic FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/72196.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/SbT" group-title="Documentários", Smithsonian HD
-http://dnsx.co:80/live/7885037935/fireurl.co/72315.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/SbT" group-title="Documentários", Smithsonian FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/72313.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/SbT" group-title="Documentários", Smithsonian SD
-http://dnsx.co:80/live/7885037935/fireurl.co/72316.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/SbT" group-title="Documentários", Smithsonian FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/72314.ts
 
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/trutv.png" group-title="Documentários", TruTV HD
-http://dnsx.co:80/live/7885037935/fireurl.co/76669.ts
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/trutv.png" group-title="Documentários", TruTV SD
-http://dnsx.co:80/live/7885037935/fireurl.co/76670.ts
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/trutv.png" group-title="Documentários", TruTV FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/76668.ts
 
 
+#EXTINF:-1 tvg-logo="http://a5.vc/j8Y" group-title="Esportes", Band Sports FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/71801.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/j8Y" group-title="Esportes", Band Sports HD
-http://dnsx.co:80/live/7885037935/fireurl.co/71803.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/j8Y" group-title="Esportes", Band Sports FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/71802.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/j8Y" group-title="Esportes", Band Sports SD
-http://dnsx.co:80/live/7885037935/fireurl.co/71804.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Esportes", Combate FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/71842.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Esportes", Combate HD
-http://dnsx.co:80/live/7885037935/fireurl.co/71845.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Esportes", Combate FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/71843.ts
 
 #EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Esportes", Combate SD
 http://dnsx.co:80/live/7885037935/fireurl.co/71846.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Esportes", ESPN 2 HD
-http://dnsx.co:80/live/7885037935/fireurl.co/71909.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Esportes", ESPN 2 FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/71907.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Esportes", ESPN 2 SD
-http://dnsx.co:80/live/7885037935/fireurl.co/71910.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Esportes", ESPN 2 FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/71908.ts
 
 #EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="Esportes", ESPN Brasil FHD
 http://dnsx.co:80/live/7885037935/fireurl.co/71911.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="Esportes", ESPN Extra HD
-http://dnsx.co:80/live/7885037935/fireurl.co/71917.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="Esportes", ESPN Brasil FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/71912.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="Esportes", ESPN Extra SD
-http://dnsx.co:80/live/7885037935/fireurl.co/71918.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="Esportes", ESPN Extra FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/71915.ts
+
+#EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="Esportes", ESPN Extra FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/71916.ts
 
 #EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Esportes", ESPN FHD
 http://dnsx.co:80/live/7885037935/fireurl.co/71919.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Esportes", Fox Sports HD
-http://dnsx.co:80/live/7885037935/fireurl.co/71960.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Esportes", ESPN FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/71920.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Esportes", Fox Sports SD
-http://dnsx.co:80/live/7885037935/fireurl.co/71961.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Esportes", Fox Sports FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/71957.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Esportes", Fox Sports 2 HD
-http://dnsx.co:80/live/7885037935/fireurl.co/71955.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Esportes", Fox Sports 2 FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/71952.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Esportes", Fox Sports 2 SD
-http://dnsx.co:80/live/7885037935/fireurl.co/71956.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Esportes", Fox Sports 2 FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/71953.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 2 HD
-http://dnsx.co:80/7885037935/fireurl.co/72239
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 2 FHD
+http://dnsx.co:80/7885037935/fireurl.co/72237
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 2 SD
-http://dnsx.co:80/7885037935/fireurl.co/72240
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 2 FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72238
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 3 HD
-http://dnsx.co:80/7885037935/fireurl.co/72243
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 3 FHD
+http://dnsx.co:80/7885037935/fireurl.co/72241
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 3 SD
-http://dnsx.co:80/7885037935/fireurl.co/72244
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 3 FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72242
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 4 HD
-http://dnsx.co:80/7885037935/fireurl.co/72247
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 4 FHD
+http://dnsx.co:80/7885037935/fireurl.co/72245
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 4 SD
-http://dnsx.co:80/7885037935/fireurl.co/72248
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 4 FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72246
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 5 HD
-http://dnsx.co:80/7885037935/fireurl.co/72251
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 5 FHD
+http://dnsx.co:80/7885037935/fireurl.co/72249
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 5 SD
-http://dnsx.co:80/7885037935/fireurl.co/72252
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 5 FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72250
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 6 HD
-http://dnsx.co:80/7885037935/fireurl.co/72255
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 6 FHD
+http://dnsx.co:80/7885037935/fireurl.co/72253
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 6 SD
-http://dnsx.co:80/7885037935/fireurl.co/72256
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 6 FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72254
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 7 HD
-http://dnsx.co:80/7885037935/fireurl.co/72259
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 7 FHD
+http://dnsx.co:80/7885037935/fireurl.co/72257
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 7 SD
-http://dnsx.co:80/7885037935/fireurl.co/72260
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 7 FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72258
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 8 HD
-http://dnsx.co:80/7885037935/fireurl.co/90359
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 8 FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/90358
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 8 SD
-http://dnsx.co:80/7885037935/fireurl.co/72261
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere Clubes FHD
+http://dnsx.co:80/7885037935/fireurl.co/72262
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere Clubes HD
-http://dnsx.co:80/7885037935/fireurl.co/72265
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere Clubes FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72263
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere Clubes SD
-http://dnsx.co:80/7885037935/fireurl.co/72266
+#EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Esportes", SporTV FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/72329.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Esportes", SporTV HD
-http://dnsx.co:80/live/7885037935/fireurl.co/72332.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Esportes", SporTV FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/72330.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Esportes", SporTV SD
-http://dnsx.co:80/live/7885037935/fireurl.co/72333.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="Esportes", SporTV 2 FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/72321.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="Esportes", SporTV 2 HD
-http://dnsx.co:80/live/7885037935/fireurl.co/72323.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="Esportes", SporTV 2 FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/72322.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="Esportes", SporTV 2 SD
-http://dnsx.co:80/live/7885037935/fireurl.co/72324.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="Esportes", SporTV 3 FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/72325.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="Esportes", SporTV 3 HD
-http://dnsx.co:80/live/7885037935/fireurl.co/72327.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="Esportes", SporTV 3 FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/72326.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="Esportes", SporTV 3 SD
-http://dnsx.co:80/live/7885037935/fireurl.co/72328.ts
 
 
+#EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Filmes e Séries", AMC FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/71768.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Filmes e Séries", AMC HD
-http://dnsx.co:80/live/7885037935/fireurl.co/71770.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Filmes e Séries", AMC FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/71769.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Filmes e Séries", AMC SD
-http://dnsx.co:80/live/7885037935/fireurl.co/71771.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Filmes e Séries", AXN FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/71781.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Filmes e Séries", AXN HD
-http://dnsx.co:80/live/7885037935/fireurl.co/71783.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Filmes e Séries", AXN FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/71782.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Filmes e Séries", AXN SD
-http://dnsx.co:80/live/7885037935/fireurl.co/71784.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/1MP" group-title="Filmes e Séries", Canal Brasil FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/71816.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/1MP" group-title="Filmes e Séries", Canal Brasil HD
-http://dnsx.co:80/live/7885037935/fireurl.co/71818.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/1MP" group-title="Filmes e Séries", Canal Brasil FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/71817.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/1MP" group-title="Filmes e Séries", Canal Brasil SD
-http://dnsx.co:80/live/7885037935/fireurl.co/71819.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/j8T" group-title="Filmes e Séries", Cinemax FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/71833.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/j8T" group-title="Filmes e Séries", Cinemax HD
-http://dnsx.co:80/live/7885037935/fireurl.co/71835.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/j8T" group-title="Filmes e Séries", Cinemax FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/71834.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/j8T" group-title="Filmes e Séries", Cinemax SD
-http://dnsx.co:80/live/7885037935/fireurl.co/71836.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/JsW" group-title="Filmes e Séries", FX FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/71966.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/JsW" group-title="Filmes e Séries", FX HD
-http://dnsx.co:80/live/7885037935/fireurl.co/71968.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/JsW" group-title="Filmes e Séries", FX FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/71967.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/JsW" group-title="Filmes e Séries", FX SD
-http://dnsx.co:80/live/7885037935/fireurl.co/71969.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="Filmes e Séries", HBO FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/72118.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="Filmes e Séries", HBO HD
-http://dnsx.co:80/live/7885037935/fireurl.co/72120.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="Filmes e Séries", HBO FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/72119.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="Filmes e Séries", HBO SD
-http://dnsx.co:80/live/7885037935/fireurl.co/72133.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/0qQ" group-title="Filmes e Séries", HBO 2 FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/72110.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/0qQ" group-title="Filmes e Séries", HBO 2 HD
-http://dnsx.co:80/live/7885037935/fireurl.co/72112.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/0qQ" group-title="Filmes e Séries", HBO 2 FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/72111.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/0qQ" group-title="Filmes e Séries", HBO 2 SD
-http://dnsx.co:80/live/7885037935/fireurl.co/72113.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/u4M" group-title="Filmes e Séries", HBO Family FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/72114.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/u4M" group-title="Filmes e Séries", HBO Family HD
-http://dnsx.co:80/live/7885037935/fireurl.co/72116.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/u4M" group-title="Filmes e Séries", HBO Family FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/72115.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/u4M" group-title="Filmes e Séries", HBO Family SD
-http://dnsx.co:80/live/7885037935/fireurl.co/72117.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Filmes e Séries", HBO Mundi FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/72121.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Filmes e Séries", HBO Mundi HD
-http://dnsx.co:80/live/7885037935/fireurl.co/72123.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Filmes e Séries", HBO Mundi FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/72122.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Filmes e Séries", HBO Mundi SD
-http://dnsx.co:80/live/7885037935/fireurl.co/72124.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/60H" group-title="Filmes e Séries", HBO Plus FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/72125.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/60H" group-title="Filmes e Séries", HBO Plus HD
-http://dnsx.co:80/live/7885037935/fireurl.co/72127.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/60H" group-title="Filmes e Séries", HBO Plus FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/72126.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/60H" group-title="Filmes e Séries", HBO Plus SD
-http://dnsx.co:80/live/7885037935/fireurl.co/72128.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Filmes e Séries", HBO Pop FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/72129.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Filmes e Séries", HBO Pop HD
-http://dnsx.co:80/live/7885037935/fireurl.co/72131.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Filmes e Séries", HBO Pop FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/72130.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Filmes e Séries", HBO Pop SD
-http://dnsx.co:80/live/7885037935/fireurl.co/72132.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/2N4" group-title="Filmes e Séries", HBO Signature FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/72134.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/2N4" group-title="Filmes e Séries", HBO Signature HD
-http://dnsx.co:80/live/7885037935/fireurl.co/72136.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/2N4" group-title="Filmes e Séries", HBO Signature FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/72135.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/2N4" group-title="Filmes e Séries", HBO Signature SD
-http://dnsx.co:80/live/7885037935/fireurl.co/72137.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Filmes e Séries", HBO Xtreme FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/72138.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Filmes e Séries", HBO Xtreme HD
-http://dnsx.co:80/live/7885037935/fireurl.co/72140.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Filmes e Séries", HBO Xtreme FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/72139.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Filmes e Séries", HBO Xtreme SD
-http://dnsx.co:80/live/7885037935/fireurl.co/72141.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="Filmes e Séries", Megapix FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/72166.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="Filmes e Séries", Megapix HD
-http://dnsx.co:80/live/7885037935/fireurl.co/72169.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="Filmes e Séries", Megapix FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/72167.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="Filmes e Séries", Megapix SD
-http://dnsx.co:80/live/7885037935/fireurl.co/72170.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/uRn" group-title="Filmes e Séries", Paramount Channel FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/72217.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/uRn" group-title="Filmes e Séries", Paramount Channel HD
-http://dnsx.co:80/live/7885037935/fireurl.co/72219.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/uRn" group-title="Filmes e Séries", Paramount Channel FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/72218.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/uRn" group-title="Filmes e Séries", Paramount Channel SD
-http://dnsx.co:80/live/7885037935/fireurl.co/72220.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/MNj" group-title="Filmes e Séries", Space FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/72317.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/MNj" group-title="Filmes e Séries", Space HD
-http://dnsx.co:80/live/7885037935/fireurl.co/72319.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/MNj" group-title="Filmes e Séries", Space FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/72318.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/MNj" group-title="Filmes e Séries", Space SD
-http://dnsx.co:80/live/7885037935/fireurl.co/72320.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/tSP" group-title="Filmes e Séries", Sony Channel FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/71824.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/tSP" group-title="Filmes e Séries", Sony Channel HD
-http://dnsx.co:80/live/7885037935/fireurl.co/71826.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/tSP" group-title="Filmes e Séries", Sony Channel FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/71825.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/tSP" group-title="Filmes e Séries", Sony Channel SD
-http://dnsx.co:80/live/7885037935/fireurl.co/71827.ts
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Filmes e Séries", Star Channel FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/71936.ts
 
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Filmes e Séries", Star Channel HD
-http://dnsx.co:80/live/7885037935/fireurl.co/71938.ts
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Filmes e Séries", Star Channel FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/71937.ts
 
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Filmes e Séries", Star Channel SD
-http://dnsx.co:80/live/7885037935/fireurl.co/71951.ts
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starhits.png" group-title="Filmes e Séries", Star Hits FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/71943.ts
 
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starhits.png" group-title="Filmes e Séries", Star Hits HD
-http://dnsx.co:80/live/7885037935/fireurl.co/71945.ts
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starhits.png" group-title="Filmes e Séries", Star Hits FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/71944.ts
 
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starhits.png" group-title="Filmes e Séries", Star Hits SD
-http://dnsx.co:80/live/7885037935/fireurl.co/71946.ts
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starhits2.png" group-title="Filmes e Séries", Star Hits 2 FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/71947.ts
 
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starhits2.png" group-title="Filmes e Séries", Star Hits 2 HD
-http://dnsx.co:80/live/7885037935/fireurl.co/71949.ts
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starhits2.png" group-title="Filmes e Séries", Star Hits 2 FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/71948.ts
 
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starhits2.png" group-title="Filmes e Séries", Star Hits 2 SD
-http://dnsx.co:80/live/7885037935/fireurl.co/71950.ts
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starlife.png" group-title="Filmes e Séries", Star Life FHD
+http://b5.vc:80/7885037935/fireurl.co/71939
 
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starlife.png" group-title="Filmes e Séries", Star Life HD
-http://b5.vc:80/7885037935/fireurl.co/71941
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starlife.png" group-title="Filmes e Séries", Star Life FHD [H265]
+http://b5.vc:80/7885037935/fireurl.co/71940
 
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starlife.png" group-title="Filmes e Séries", Star Life SD
-http://b5.vc:80/7885037935/fireurl.co/71942
+#EXTINF:-1 tvg-logo="http://a5.vc/u7I" group-title="Filmes e Séries", Studio Universal FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/72334.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/u7I" group-title="Filmes e Séries", Studio Universal HD
-http://dnsx.co:80/live/7885037935/fireurl.co/72336.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/u7I" group-title="Filmes e Séries", Studio Universal FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/72335.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/u7I" group-title="Filmes e Séries", Studio Universal SD
-http://dnsx.co:80/live/7885037935/fireurl.co/72337.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/cts" group-title="Filmes e Séries", SyFy FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/72338.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/cts" group-title="Filmes e Séries", SyFy HD
-http://dnsx.co:80/live/7885037935/fireurl.co/72340.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/cts" group-title="Filmes e Séries", SyFy FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/72339.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/cts" group-title="Filmes e Séries", SyFy SD
-http://dnsx.co:80/live/7885037935/fireurl.co/72341.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/BsL" group-title="Filmes e Séries", Telecine Action FHD
+http://dnsx.co:80/7885037935/fireurl.co/72346
 
-#EXTINF:-1 tvg-logo="http://a5.vc/BsL" group-title="Filmes e Séries", Telecine Action HD
-http://dnsx.co:80/7885037935/fireurl.co/72348
+#EXTINF:-1 tvg-logo="http://a5.vc/BsL" group-title="Filmes e Séries", Telecine Action FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72347
 
-#EXTINF:-1 tvg-logo="http://a5.vc/BsL" group-title="Filmes e Séries", Telecine Action SD
-http://dnsx.co:80/7885037935/fireurl.co/72349
+#EXTINF:-1 tvg-logo="http://a5.vc/DZP" group-title="Filmes e Séries", Telecine Cult FHD
+http://dnsx.co:80/7885037935/fireurl.co/72350
 
-#EXTINF:-1 tvg-logo="http://a5.vc/DZP" group-title="Filmes e Séries", Telecine Cult HD
-http://dnsx.co:80/7885037935/fireurl.co/72352
+#EXTINF:-1 tvg-logo="http://a5.vc/DZP" group-title="Filmes e Séries", Telecine Cult FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72351
 
-#EXTINF:-1 tvg-logo="http://a5.vc/DZP" group-title="Filmes e Séries", Telecine Cult SD
-http://dnsx.co:80/7885037935/fireurl.co/72353
+#EXTINF:-1 tvg-logo="http://a5.vc/TLE" group-title="Filmes e Séries", Telecine Fun FHD
+http://dnsx.co:80/7885037935/fireurl.co/72354
 
-#EXTINF:-1 tvg-logo="http://a5.vc/TLE" group-title="Filmes e Séries", Telecine Fun HD
-http://dnsx.co:80/7885037935/fireurl.co/72356
+#EXTINF:-1 tvg-logo="http://a5.vc/TLE" group-title="Filmes e Séries", Telecine Fun FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72355
 
-#EXTINF:-1 tvg-logo="http://a5.vc/TLE" group-title="Filmes e Séries", Telecine Fun SD
-http://dnsx.co:80/7885037935/fireurl.co/72357
+#EXTINF:-1 tvg-logo="http://a5.vc/mOL" group-title="Filmes e Séries", Telecine Pipoca FHD
+http://dnsx.co:80/7885037935/fireurl.co/72358
 
-#EXTINF:-1 tvg-logo="http://a5.vc/mOL" group-title="Filmes e Séries", Telecine Pipoca HD
-http://dnsx.co:80/7885037935/fireurl.co/72360
+#EXTINF:-1 tvg-logo="http://a5.vc/mOL" group-title="Filmes e Séries", Telecine Pipoca FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72359
 
-#EXTINF:-1 tvg-logo="http://a5.vc/mOL" group-title="Filmes e Séries", Telecine Pipoca SD
-http://dnsx.co:80/7885037935/fireurl.co/72361
+#EXTINF:-1 tvg-logo="http://a5.vc/N8x" group-title="Filmes e Séries", Telecine Premium FHD
+http://dnsx.co:80/7885037935/fireurl.co/72362
 
-#EXTINF:-1 tvg-logo="http://a5.vc/N8x" group-title="Filmes e Séries", Telecine Premium HD
-http://dnsx.co:80/7885037935/fireurl.co/72364
+#EXTINF:-1 tvg-logo="http://a5.vc/N8x" group-title="Filmes e Séries", Telecine Premium FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72363
 
-#EXTINF:-1 tvg-logo="http://a5.vc/N8x" group-title="Filmes e Séries", Telecine Premium SD
-http://dnsx.co:80/7885037935/fireurl.co/72365
+#EXTINF:-1 tvg-logo="http://a5.vc/rBW" group-title="Filmes e Séries", Telecine Touch FHD
+http://dnsx.co:80/7885037935/fireurl.co/72366
 
-#EXTINF:-1 tvg-logo="http://a5.vc/rBW" group-title="Filmes e Séries", Telecine Touch HD
-http://dnsx.co:80/7885037935/fireurl.co/72368
+#EXTINF:-1 tvg-logo="http://a5.vc/rBW" group-title="Filmes e Séries", Telecine Touch FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72367
 
-#EXTINF:-1 tvg-logo="http://a5.vc/rBW" group-title="Filmes e Séries", Telecine Touch SD
-http://dnsx.co:80/7885037935/fireurl.co/72369
+#EXTINF:-1 tvg-logo="http://a5.vc/Crr" group-title="Filmes e Séries", TBS FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/72342.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/Crr" group-title="Filmes e Séries", TBS HD
-http://dnsx.co:80/live/7885037935/fireurl.co/72344.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Crr" group-title="Filmes e Séries", TBS FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/72343.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/Crr" group-title="Filmes e Séries", TBS SD
-http://dnsx.co:80/live/7885037935/fireurl.co/72345.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x0uPFhs.png" group-title="Filmes e Séries", TCM FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/73251.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x0uPFhs.png" group-title="Filmes e Séries", TCM HD
-http://dnsx.co:80/live/7885037935/fireurl.co/73252.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/gOR" group-title="Filmes e Séries", TNT FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/72375.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x0uPFhs.png" group-title="Filmes e Séries", TCM SD
-http://dnsx.co:80/live/7885037935/fireurl.co/73253.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/gOR" group-title="Filmes e Séries", TNT FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/72376.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/gOR" group-title="Filmes e Séries", TNT HD
-http://dnsx.co:80/live/7885037935/fireurl.co/72378.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/oQe" group-title="Filmes e Séries", TNT Series FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/72380.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/gOR" group-title="Filmes e Séries", TNT SD
-http://dnsx.co:80/live/7885037935/fireurl.co/72379.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/oQe" group-title="Filmes e Séries", TNT Series FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/72381.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/oQe" group-title="Filmes e Séries", TNT Series HD
-http://dnsx.co:80/live/7885037935/fireurl.co/72383.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/8CR" group-title="Filmes e Séries", Universal TV FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/72419.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/oQe" group-title="Filmes e Séries", TNT Series SD
-http://dnsx.co:80/live/7885037935/fireurl.co/72384.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/8CR" group-title="Filmes e Séries", Universal TV FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/72420.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/8CR" group-title="Filmes e Séries", Universal TV HD
-http://dnsx.co:80/live/7885037935/fireurl.co/72421.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Filmes e Séries", Warner Channel FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/72431.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/8CR" group-title="Filmes e Séries", Universal TV SD
-http://dnsx.co:80/live/7885037935/fireurl.co/72422.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Filmes e Séries", Warner Channel HD
-http://dnsx.co:80/live/7885037935/fireurl.co/72433.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Filmes e Séries", Warner Channel SD
-http://dnsx.co:80/live/7885037935/fireurl.co/72434.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/DtS" group-title="Infantis", Boomerang FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/71812.ts
 
+#EXTINF:-1 tvg-logo="http://a5.vc/DtS" group-title="Infantis", Boomerang FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/71813.ts
 
+#EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="Infantis", Cartoon Network FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/71828.ts
 
+#EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="Infantis", Cartoon Network FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/71829.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/DtS" group-title="Infantis", Boomerang HD
-http://dnsx.co:80/live/7885037935/fireurl.co/71814.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/KvX" group-title="Infantis", Discovery Kids FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/71871.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/DtS" group-title="Infantis", Boomerang SD
-http://dnsx.co:80/live/7885037935/fireurl.co/71815.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/KvX" group-title="Infantis", Discovery Kids FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/71872.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="Infantis", Cartoon Network HD
-http://dnsx.co:80/live/7885037935/fireurl.co/71831.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/MJq" group-title="Infantis", Disney Channel FHD
+http://dnsx.co:80/7885037935/fireurl.co/71891
 
-#EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="Infantis", Cartoon Network SD
-http://dnsx.co:80/live/7885037935/fireurl.co/71832.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/MJq" group-title="Infantis", Disney Channel FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/71892
 
-#EXTINF:-1 tvg-logo="http://a5.vc/KvX" group-title="Infantis", Discovery Kids HD
-http://dnsx.co:80/live/7885037935/fireurl.co/71873.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/kzm" group-title="Infantis", Disney Junior FHD
+http://dnsx.co:80/7885037935/fireurl.co/71895
 
-#EXTINF:-1 tvg-logo="http://a5.vc/MJq" group-title="Infantis", Disney Channel HD
-http://dnsx.co:80/7885037935/fireurl.co/71893
-
-#EXTINF:-1 tvg-logo="http://a5.vc/MJq" group-title="Infantis", Disney Channel SD
-http://dnsx.co:80/7885037935/fireurl.co/71894
-
-#EXTINF:-1 tvg-logo="http://a5.vc/kzm" group-title="Infantis", Disney Junior HD
-http://dnsx.co:80/7885037935/fireurl.co/71897
-
-#EXTINF:-1 tvg-logo="http://a5.vc/kzm" group-title="Infantis" , Disney Junior SD
-http://dnsx.co:80/7885037935/fireurl.co/71898
+#EXTINF:-1 tvg-logo="http://a5.vc/kzm" group-title="Infantis", Disney Junior FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/71896
 
 #EXTINF:-1 tvg-logo="http://a5.vc/bUA"  group-title="Infantis", Disney XD HD
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="http://a5.vc/bUA" group-title="Infantis", Disney XD SD
-http://dnsx.co:80/live/7885037935/fireurl.co/71899.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/J6W" group-title="Infantis", Gloob FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/72099.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/J6W" group-title="Infantis", Gloob HD
-http://dnsx.co:80/live/7885037935/fireurl.co/72100.ts
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/gloobinho.png" group-title="Infantis", Gloobinho FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/90631.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/J6W" group-title="Infantis", Gloob SD
-http://dnsx.co:80/live/7885037935/fireurl.co/72101.ts
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/gloobinho.png" group-title="Infantis", Gloobinho FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/90630.ts
 
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/gloobinho.png" group-title="Infantis", Gloobinho HD
-http://dnsx.co:80/live/7885037935/fireurl.co/90629.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="Infantis", Nat Geo Kids FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/72188.ts
 
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/gloobinho.png" group-title="Infantis", Gloobinho SD
-http://dnsx.co:80/live/7885037935/fireurl.co/90628.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="Infantis", Nat Geo Kids FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/72189.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="Infantis", Nat Geo Kids HD
-http://dnsx.co:80/live/7885037935/fireurl.co/72190.ts
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="Infantis", Nickelodeon FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/72205.ts
 
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/natgeokids.png" group-title="Infantis", Nat Geo Kids SD
-http://dnsx.co:80/live/7885037935/fireurl.co/72191.ts
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="Infantis", Nickelodeon FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/72206.ts
 
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="Infantis", Nickelodeon HD
-http://dnsx.co:80/live/7885037935/fireurl.co/72207.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/qYZ" group-title="Infantis", Nick Jr FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/72201.ts
 
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="Infantis", Nickelodeon SD
-http://dnsx.co:80/live/7885037935/fireurl.co/72208.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/qYZ" group-title="Infantis", Nick Jr HD
-http://dnsx.co:80/live/7885037935/fireurl.co/72203.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/qYZ" group-title="Infantis", Nick Jr SD
-http://dnsx.co:80/live/7885037935/fireurl.co/72204.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/qYZ" group-title="Infantis", Nick Jr FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/72202.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dS04Xen.png" group-title="Infantis", Retrô Cartoon 1
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
@@ -951,567 +893,198 @@ https://stmv1.srvstm.com/cartoonr2/cartoonr2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/R28" group-title="Infantis", Tooncast SD
 http://dnsx.co:80/live/7885037935/fireurl.co/72385.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/FSk" group-title="Infantis", TV Ra-Tim-Bum HD
-http://dnsx.co:80/live/7885037935/fireurl.co/72414.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/FSk" group-title="Infantis", TV Ra-Tim-Bum FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/72412.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/FSk" group-title="Infantis", TV Ra-Tim-Bum SD
-http://dnsx.co:80/live/7885037935/fireurl.co/72415.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/FSk" group-title="Infantis", TV Ra-Tim-Bum FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/72413.ts
 
 
 
-#EXTINF:-1 tvg-logo="http://a5.vc/eJG" group-title="Notícias", Band News HD
-http://dnsx.co:80/live/7885037935/fireurl.co/71791.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/eJG" group-title="Notícias", Band News FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/71789.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/eJG" group-title="Notícias", Band News SD
-http://dnsx.co:80/live/7885037935/fireurl.co/71792.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/eJG" group-title="Notícias", Band News FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/71790.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/kBr" group-title="Notícias", CNN Brasil HD
-http://dnsx.co:80/live/7885037935/fireurl.co/71839.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/kBr" group-title="Notícias", CNN Brasil FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/71837.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/kBr" group-title="Notícias", CNN Brasil SD
-http://dnsx.co:80/live/7885037935/fireurl.co/71840.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/kBr" group-title="Notícias", CNN Brasil FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/71838.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/Xmr" group-title="Notícias", Globo News HD
-http://dnsx.co:80/7885037935/fireurl.co/71999
+#EXTINF:-1 tvg-logo="http://a5.vc/Xmr" group-title="Notícias", Globo News FHD
+http://dnsx.co:80/7885037935/fireurl.co/71997
 
-#EXTINF:-1 tvg-logo="http://a5.vc/Xmr" group-title="Notícias", Globo News SD
-http://dnsx.co:80/7885037935/fireurl.co/72000
-
-#EXTINF:-1 tvg-logo="http://a5.vc/DPD" group-title="Notícias", Record News HD
-http://dnsx.co:80/live/7885037935/fireurl.co/72272.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/DPD" group-title="Notícias", Record News SD
-http://dnsx.co:80/live/7885037935/fireurl.co/72273.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IdUHoBt.png" group-title="Notícias", Sky News
-http://skynews-go-hls.ak-cdn.skydvn.com/skynews/1404/latest.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/DPD" group-title="Notícias", Record News FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/72271.ts
 
 
 
 
-#EXTINF:-1 tvg-logo="http://a5.vc/0hM" group-title="Religiosos", Rede Vida HD
-http://dnsx.co:80/live/7885037935/fireurl.co/72295.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/0hM" group-title="Religiosos", Rede Vida FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/72293.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/0hM" group-title="Religiosos", Rede Vida SD
-http://dnsx.co:80/live/7885037935/fireurl.co/72296.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/0hM" group-title="Religiosos", Rede Vida FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/72294.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DNCpO2o.png" group-title="Religiosos", TV Pai Eterno HD
-http://dnsx.co:80/live/7885037935/fireurl.co/72214.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DNCpO2o.png" group-title="Religiosos", TV Pai Eterno FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/72213.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DNCpO2o.png" group-title="Religiosos", TV Pai Eterno SD
-http://dnsx.co:80/live/7885037935/fireurl.co/72215.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DNCpO2o.png" group-title="Religiosos", TV Pai Eterno FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/72216.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/RbB" group-title="Religiosos", TV Aparecida HD
-http://dnsx.co:80/live/7885037935/fireurl.co/72396.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/RbB" group-title="Religiosos", TV Aparecida FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/72394.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/RbB" group-title="Religiosos", TV Aparecida SD
-http://dnsx.co:80/live/7885037935/fireurl.co/72397.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/RbB" group-title="Religiosos", TV Aparecida FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/72395.ts
 
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/cancaonova.png" group-title="Religiosos", TV Cancao Nova SD
 http://dnsx.co:80/live/7885037935/fireurl.co/72404.ts
 
-
-#EXTINF:-1 tvg-logo="http://a5.vc/aDZ" group-title="Variedades", Arte 1 HD
-http://dnsx.co:80/live/7885037935/fireurl.co/71779.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/aDZ" group-title="Variedades", Arte 1 SD
-http://dnsx.co:80/live/7885037935/fireurl.co/71780.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Variedades", A&E HD
-http://dnsx.co:80/7885037935/fireurl.co/71762
-
-#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Variedades", A&E SD
-http://dnsx.co:80/7885037935/fireurl.co/71763
-
-#EXTINF:-1 tvg-logo="http://a5.vc/TDh" group-title="Variedades", BIS HD
-http://dnsx.co:80/7885037935/fireurl.co/71808
-
-#EXTINF:-1 tvg-logo="http://a5.vc/TDh" group-title="Variedades", BIS SD
-http://dnsx.co:80/7885037935/fireurl.co/71809
-
-#EXTINF:-1 tvg-logo="http://a5.vc/mT5" group-title="Variedades", Comedy Central HD
-http://dnsx.co:80/7885037935/fireurl.co/71849
-
-#EXTINF:-1 tvg-logo="http://a5.vc/mT5" group-title="Variedades", Comedy Central SD
-http://dnsx.co:80/7885037935/fireurl.co/71850
-
-#EXTINF:-1 tvg-logo="http://a5.vc/CyU" group-title="Variedades", Curta HD
-http://dnsx.co:80/live/7885037935/fireurl.co/71857.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/CyU" group-title="Variedades", Curta SD
-http://dnsx.co:80/live/7885037935/fireurl.co/71858.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/XcV" group-title="Variedades", Discovery H&H HD
-http://dnsx.co:80/7885037935/fireurl.co/71869
-
-#EXTINF:-1 tvg-logo="http://a5.vc/XcV" group-title="Variedades", Discovery H&H SD
-http://dnsx.co:80/7885037935/fireurl.co/71870
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9kueh1G.png" group-title="Variedades", DOGTV HD
-http://dnsx.co:80/7885037935/fireurl.co/76923
-
-#EXTINF:-1 tvg-logo="http://a5.vc/DKx" group-title="Variedades", E! HD
-http://dnsx.co:80/7885037935/fireurl.co/71902
-
-#EXTINF:-1 tvg-logo="http://a5.vc/DKx" group-title="Variedades", E! SD
-http://dnsx.co:80/7885037935/fireurl.co/71903
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jbJcXpR.png" group-title="Variedades", FashionTV HD
-http://b5.vc:80/7885037935/fireurl.co/71926
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jbJcXpR.png" group-title="Variedades", FashionTV SD
-http://b5.vc:80/7885037935/fireurl.co/71927
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_film-arts_m.png" group-title="Variedades", Film & Arts HD
-http://e.advd.cyou:80/duda2020/duda2020/184859
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_film-arts_m.png" group-title="Variedades", Film & Arts SD
-http://e.advd.cyou:80/duda2020/duda2020/184860
-
-#EXTINF:-1 tvg-logo="http://a5.vc/StA" group-title="Variedades", Fish TV HD
-http://b5.vc:80/7885037935/fireurl.co/71930
-
-#EXTINF:-1 tvg-logo="http://a5.vc/StA" group-title="Variedades", Fish TV SD
-http://b5.vc:80/7885037935/fireurl.co/71931
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede-fonte.png" group-title="Variedades", FonteTV (GO)
-http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://a5.vc/ZHe" group-title="Variedades", Food Network HD
-http://b5.vc:80/7885037935/fireurl.co/71934
-
-#EXTINF:-1 tvg-logo="http://a5.vc/ZHe" group-title="Variedades", Food Network SD
-http://b5.vc:80/7885037935/fireurl.co/71935
-
-#EXTINF:-1 tvg-logo="http://a5.vc/scT" group-title="Variedades", GNT HD
-http://dnsx.co:80/7885037935/fireurl.co/72104
-
-#EXTINF:-1 tvg-logo="http://a5.vc/scT" group-title="Variedades", GNT SD
-http://dnsx.co:80/7885037935/fireurl.co/72105
-
-#EXTINF:-1 tvg-logo="http://a5.vc/ecn" group-title="Variedades", Lifetime HD
-http://b5.vc:80/7885037935/fireurl.co/72156
-
-#EXTINF:-1 tvg-logo="http://a5.vc/ecn" group-title="Variedades", Lifetime SD
-http://b5.vc:80/7885037935/fireurl.co/72157
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MMfezaP.png" group-title="Variedades", Loading TV SD 1
-http://diretogo.com:80/a694360/6125381/10052808
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MMfezaP.png" group-title="Variedades", Loading TV SD 2
-http://dnsx.co:80/7885037935/fireurl.co/89700
-
-#EXTINF:-1 tvg-logo="http://a5.vc/e5K" group-title="Variedades", Mais na Tela HD
-http://dnsx.co:80/7885037935/fireurl.co/72164
-
-#EXTINF:-1 tvg-logo="http://a5.vc/e5K" group-title="Variedades", Mais na Tela SD
-http://dnsx.co:80/7885037935/fireurl.co/72165
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Uet" group-title="Variedades", Multishow HD
-http://dnsx.co:80/live/7885037935/fireurl.co/72182.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Uet" group-title="Variedades", Multishow SD
-http://dnsx.co:80/live/7885037935/fireurl.co/72183.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/deE" group-title=Variedades", MTV HD
-http://dnsx.co:80/live/7885037935/fireurl.co/72173.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/wCS" group-title="Variedades", OFF HD
-http://dnsx.co:80/7885037935/fireurl.co/72211
-
-#EXTINF:-1 tvg-logo="http://a5.vc/wCS" group-title="Variedades", OFF SD
-http://dnsx.co:80/7885037935/fireurl.co/72212
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Drt" group-title="Variedades", Prime Box Brazil HD
-http://dnsx.co:80/7885037935/fireurl.co/72269
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Drt" group-title="Variedades", Prime Box Brazil SD
-http://dnsx.co:80/7885037935/fireurl.co/72270
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Czz" group-title="Variedades", TLC HD
-http://dnsx.co:80/7885037935/fireurl.co/72373
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Czz" group-title="Variedades", TLC SD
-http://dnsx.co:80/7885037935/fireurl.co/72374
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1M08c1k.png" group-title="Variedades", Trace Brazuca HD
-http://dnsx.co:80/7885037935/fireurl.co/72388
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1M08c1k.png" group-title="Variedades", Trace Brazuca SD
-http://dnsx.co:80/7885037935/fireurl.co/72389
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aHzrsmu.png" group-title="Variedades", Travel Box Brazil SD
-http://dnsx.co:80/7885037935/fireurl.co/72393
-
-#EXTINF:-1 tvg-logo="http://a5.vc/i2z" group-title="Variedades", VH1 HD
-http://dnsx.co:80/7885037935/fireurl.co/72425
-
-#EXTINF:-1 tvg-logo="http://a5.vc/i2z" group-title="Variedades", VH1 SD
-http://dnsx.co:80/7885037935/fireurl.co/72426
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Qin" group-title="Variedades", Viva HD
-http://dnsx.co:80/7885037935/fireurl.co/72429
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Qin" group-title="Variedades", Viva SD
-http://dnsx.co:80/7885037935/fireurl.co/72430
-
-#EXTINF:-1 tvg-logo="http://a5.vc/HhI" group-title="Variedades", WooHoo HD
-http://dnsx.co:80/7885037935/fireurl.co/72437
-
-#EXTINF:-1 tvg-logo="http://a5.vc/HhI" group-title="Variedades", WooHoo SD
-http://dnsx.co:80/7885037935/fireurl.co/72438
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1kZy1Lu.png" group-title="Religiosos", TV Evangelizar SD
+http://dnsx.co:80/live/7885037935/fireurl.co/72628.ts
 
 
 
 
-#EXTINF:-1 group-title="◆Pluto | 🇧🇷" tvg-logo="https://images.pluto.tv/channels/5f6df6293a12e10007017396/colorLogoPNG.png", A Vida Moderna de Rocko
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df6293a12e10007017396/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=731&deviceId=5f6df6293a12e10007017396&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
-#EXTINF:-1 group-title="◆Pluto | 🇧🇷" tvg-logo="https://images.pluto.tv/channels/5f99aad4e82db50007fac4b2/colorLogoPNG.png", As  Pistas de Blue
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=707&deviceId=5f99aad4e82db50007fac4b2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
-#EXTINF:-1 group-title="◆Pluto | 🇧🇷" tvg-logo="https://images.pluto.tv/channels/5f5141c1605ddf000748eb1b/colorLogoPNG.png", FailArmy
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=502&deviceId=5f5141c1605ddf000748eb1b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
-#EXTINF:-1 group-title="◆Pluto | 🇧🇷" tvg-logo="https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/colorLogoPNG.png", MTV Are you the One?
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=159&deviceId=5f6108d8cc331900075e98e4&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
-#EXTINF:-1 group-title="◆Pluto | 🇧🇷" tvg-logo="https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/colorLogoPNG.png", MTV Pluto TV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=157&deviceId=5f1212fb81e85c00077ae9ef&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
-#EXTINF:-1 group-title="◆Pluto | 🇧🇷" tvg-logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png", Naruto
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=186&deviceId=5f6df5a173d7340007c559f7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
-#EXTINF:-1 group-title="◆Pluto | 🇧🇷" tvg-logo="https://images.pluto.tv/channels/5f12151794c1800007a8ae63/colorLogoPNG.png", Nick Clássico
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=730&deviceId=5f12151794c1800007a8ae63&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
-#EXTINF:-1 group-title="◆Pluto | 🇧🇷" tvg-logo="https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG.png", Nick Jr. Club
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=706&deviceId=5f121460b73ac6000719fbaf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
-#EXTINF:-1 group-title="◆Pluto | 🇧🇷" tvg-logo="https://images.pluto.tv/channels/5f1eed3c29b39600073e2ec0/colorLogoPNG.png", Os Três Patetas
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1eed3c29b39600073e2ec0/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=108&deviceId=5f1eed3c29b39600073e2ec0&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
-#EXTINF:-1 group-title="◆Pluto | 🇧🇷" tvg-logo="https://images.pluto.tv/channels/5f515d080e738d000739e19c/colorLogoPNG.png", People are Awesome
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f515d080e738d000739e19c/master.m3u8?terminate=false&deviceType=webdeviceMake=web&deviceModel=web&sid=173&deviceId=5f515d080e738d000739e19c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
-#EXTINF:-1 group-title="◆Pluto | 🇧🇷" tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png", Pluto TV Anime
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12136385bccc00070142ed/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=182&deviceId=5f12136385bccc00070142ed&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
-#EXTINF:-1 group-title="◆Pluto | 🇧🇷" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG.png", Pluto TV Cine Comédia
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=60&deviceId=5f12101f0b12f00007844c7c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
-#EXTINF:-1 group-title="◆Pluto | 🇧🇷" tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png", Pluto TV Cine Drama
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=63&deviceId=5f1210d14ae1f80007bafb1d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
-#EXTINF:-1 group-title="◆Pluto | 🇧🇷" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG.png", Pluto TV Cine Família
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=87&deviceId=5f171f032cd22e0007f17f3d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
-#EXTINF:-1 group-title="◆Pluto | 🇧🇷" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png", Pluto TV Cine Sucessos
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=52&deviceId=5f120e94a5714d00074576a1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
-#EXTINF:-1 group-title="◆Pluto | 🇧🇷" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png", Pluto TV Cine Terror
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=72&deviceId=5f12111c9e6c2c00078ef3bb&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
-#EXTINF:-1 group-title="◆Pluto | 🇧🇷" tvg-logo="https://images.pluto.tv/channels/5f516730b78b7600079294f5/colorLogoPNG.png", Pluto TV Fashionbox
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f516730b78b7600079294f5/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=563&deviceId=5f516730b78b7600079294f5&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
-#EXTINF:-1 group-title="◆Pluto | 🇧🇷" tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png", Pluto TV Filmes Ação
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=56&deviceId=5f120f41b7d403000783a6d6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
-#EXTINF:-1 group-title="◆Pluto | 🇧🇷" tvg-logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png", Pluto TV Investigação
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=254&deviceId=5f32cf37c9ff2b00082adbc8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
-#EXTINF:-1 group-title="◆Pluto | 🇧🇷" tvg-logo="https://images.pluto.tv/channels/5f12141b146d760007934ea7/colorLogoPNG.png", Pluto TV Junior
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12141b146d760007934ea7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=703&deviceId=5f12141b146d760007934ea7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
-#EXTINF:-1 group-title="◆Pluto | 🇧🇷" tvg-logo="https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoPNG.png", Pluto TV Kids
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=721&deviceId=5f1214a637c6fd00079c652f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
-#EXTINF:-1 group-title="◆Pluto | 🇧🇷" tvg-logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/colorLogoPNG.png", Pluto TV Natureza
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=271&deviceId=5f1213ba0ecebc00070e170f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
-#EXTINF:-1 group-title="◆Pluto | 🇧🇷" tvg-logo="https://images.pluto.tv/channels/5f1212ad1728050007a523b8/colorLogoPNG.png", Pluto TV Retrô
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212ad1728050007a523b8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=106&deviceId=5f1212ad1728050007a523b8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
-#EXTINF:-1 group-title="◆Pluto | 🇧🇷" tvg-logo="https://images.pluto.tv/channels/5f99ac4fded33000078f29ab/colorLogoPNG.png", Pluto TV Star Trek
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99ac4fded33000078f29ab/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=50&deviceId=5f99ac4fded33000078f29ab&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
-#EXTINF:-1 group-title="◆Pluto | 🇧🇷" tvg-logo="https://images.pluto.tv/channels/5f121262a189a800076b9386/colorLogoPNG.png", Pluto TV Séries
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121262a189a800076b9386/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=101&deviceId=5f121262a189a800076b9386&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
-#EXTINF:-1 group-title="◆Pluto | 🇧🇷" tvg-id="5f36f2346ede750007332d11" tvg-logo="https://images.pluto.tv/channels/5f36f2346ede750007332d11/colorLogoPNG.png", Porta dos Fundos
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f36f2346ede750007332d11/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=512&deviceId=5f36f2346ede750007332d11&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5716&deviceLon=-46.6443&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
-#EXTINF:-1 group-title="◆Pluto | 🇧🇷" tvg-logo="https://images.pluto.tv/channels/5f1212ad1728050007a523b8/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", Retrô
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212ad1728050007a523b8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=101&deviceId=5f121262a189a800076b9386&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
-#EXTINF:-1 group-title="◆Pluto | 🇧🇷" tvg-logo="https://images.pluto.tv/channels/5f99ac4fded33000078f29ab/colorLogoPNG.png?w=117", Star Trek
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99ac4fded33000078f29ab/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=101&deviceId=5f121262a189a800076b9386&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
-#EXTINF:-1 group-title="◆Pluto | 🇧🇷" tvg-logo="https://images.pluto.tv/channels/5f515ebac01c0f00080e8439/colorLogoPNG.png", The Pet Collective
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=505&deviceId=5f515ebac01c0f00080e8439&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
-#EXTINF:-1 group-title="◆Pluto | 🇧🇷" tvg-logo="https://images.pluto.tv/channels/5f997e44949bc70007a6941e/colorLogoPNG.png", Turma da Mônica
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f997e44949bc70007a6941e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=719&deviceId=5f997e44949bc70007a6941e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:-1 tvg-logo="http://a5.vc/aDZ" group-title="Variedades", Arte 1 FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/71777.ts
 
+#EXTINF:-1 tvg-logo="http://a5.vc/aDZ" group-title="Variedades", Arte 1 FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/71778.ts
 
+#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Variedades", A&E FHD
+http://dnsx.co:80/7885037935/fireurl.co/71760
 
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" ,88 FM
-http://svrstream1.svreua.com:8188/;stream.mp3
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" ,93 FM
-https://18133.live.streamtheworld.com/FM93_SC
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" ,98 FM
-http://streaming13.hstbr.net:8072/live
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" ,A COR DA VIDA FM
-http://cast.midiaip.com.br:7102/1;
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://i.imgur.com/OjuByVQ.jpg" ,ANTENA
-http://108.61.43.2:8232/stream2?sid=2/stream
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://2.bp.blogspot.com/-n6jrftLBkns/T-5QghdGrLI/AAAAAAAAGKc/86f4QMz5i-A/s1600/RADIO_ARAPUAN_FM_CAJAZEIRAS.jpg" ,ARAPUAN - CAJAZEIRAS
-http://centova6.ciclanohost.com.br:9346/stream/1/
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://2.bp.blogspot.com/-n6jrftLBkns/T-5QghdGrLI/AAAAAAAAGKc/86f4QMz5i-A/s1600/RADIO_ARAPUAN_FM_CAJAZEIRAS.jpg" ,ARAPUAN - CAMPINA GRANDE
-http://centova6.ciclanohost.com.br:9518/;stream.nsv
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://2.bp.blogspot.com/-n6jrftLBkns/T-5QghdGrLI/AAAAAAAAGKc/86f4QMz5i-A/s1600/RADIO_ARAPUAN_FM_CAJAZEIRAS.jpg" ,ARAPUAN - JOÂO PESSOA
-http://centova6.ciclanohost.com.br:9104/;stream.nsv
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://2.bp.blogspot.com/-n6jrftLBkns/T-5QghdGrLI/AAAAAAAAGKc/86f4QMz5i-A/s1600/RADIO_ARAPUAN_FM_CAJAZEIRAS.jpg" ,ARAPUAN - PATOS
-http://centova6.ciclanohost.com.br:9312/;stream.nsv
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://lh3.ggpht.com/n1PDg6D2bXMdh-K4BYvUyZIYBwjfXTuAqkrftPlXnBZv9tJYgY3fQoD1solJ8guwOqaf=w300" ,Araras FM 107.7*
-http://radio1.suaradionanet.net:10841/stream?type=.flv
-#EXTINF:0 group-title="◆Rádio | 📻" tvg-logo="https://goo.gl/v8VHQh" ,ATLANTIDA FM
-http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8?wowzasessionid=1838501070
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" ,Atlantida FM
-http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8?wowzasessionid=960888114
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://i.imgur.com/AoOo7LR.png" , BAND FM (Vale)
-http://162.244.80.106:11011/;stream/1
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://i.imgur.com/DncbaSr.jpg" , BH FM
-https://medias.sgr.globo.com/hls/aBHFM/aBHFM.m3u8
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://i.imgur.com/kVcjkXc.png" , Bossa Nova
-http://6d9a.webradio.upx.net.br:9974/stream
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://127.0.0.1/" , CABO BRANCO FM - JOÃO PESSOA
-http://audio.cabobranco.tv.br:8000/cbfm
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" , Cana da Galileia
-http://servidor28.brlogic.com:8336/live
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" , Capital 1040AM
-http://audio.capitalcomvoce.com.br/capital
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://127.0.0.1/" , CBN - CAMPINA GRANDE
-http://audio.cabobranco.tv.br:8000/cbncg
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://i.imgur.com/Vs3B9Ie.png" , CBN RJ 1
-http://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://i.imgur.com/Vs3B9Ie.png" , CBN RJ 2
-https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://i.imgur.com/Vs3B9Ie.png" , CBN SP 1
-https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://i.imgur.com/Vs3B9Ie.png" , CBN SP 2
-http://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://i.imgur.com/NeJf46K.jpg" , COCA COLA FM
-http://listen.181fm.com:7080/181-power_128k.mp3
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://127.0.0.1/" , CPAD - JOÃO PESSOA
-http://server3.webradios.com.br:9404/;
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="BFTV ( ).PNG" , CRUZEIRO AM
-http://radio2.suaradionanet.net:10534/stream?type=.flv
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://img.radios.com.br/radio/lg/radio12826_1439401446.jpg" , Disney 91.3 FM*
-http://disneyradiohds-lh.akamaihd.net/i/LTM_Radio_Disney_HDS_1@92327/master.m3u8
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://img.radios.com.br/radio/xl/radio37419_1466427950.jpg" , ESTAÁO JC - POMBAL
-http://streaming15.hstbr.net:8224/live
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" , Fanatica FM
-http://noasrv.caster.fm:10156/live
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" , Feliz FM SP
-http://felizfm.sateg.com.br:11520/stream/1/
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" , FESTA
-http://6d9a.webradio.upx.net.br:9070/stream?
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" , FM O DIA
-http://c2901-slbps-sambavideos.akamaized.net/radio/FMoDiaAudio_14d480346fa04ebcb4f03173f2dae707/livestream/chunklist_w1559633248.m3u8
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://listaiptv.gratis/logos/imagens/fm-o-dia-foto.jpg" , FM O DIA 100.5 - ESTÚDIO AO VIVO
-http://c2901-slbps-sambavideos.akamaized.net/radio/FMoDiaAudio_14d480346fa04ebcb4f03173f2dae707/livestream/chunklist.m3u8
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://i.imgur.com/nOwUE00.jpg" , GLOBO FM
-https://medias.sgr.globo.com/hls/aRGloboRJ/aRGloboRJ.m3u8
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" , Gospel Campinas
-http://centova.nardele.com.br:4343/stream
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" , Guaiba FM
-http://cast4.audiostream.com.br:8007/app
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" , Hunter FM
-http://live.hunterfm.com/live
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" ,Itapoan FM
-http://streaming.livecenter.com.br:9300/stream/1/
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" ,JB FM
-https://20823.live.streamtheworld.com/JBFM.mp3?pname=TdPlayerApi&pversion=2.5&banners=&sbmid=e190d544-81ad-44ce-f431-bef4877dbe80
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://i1.wp.com/radiosonlinesp.com.br/wp-content/uploads/2018/07/radio-jovem-pan-fm.png" ,JOVEM PAN FM
-http://hts02.kshost.com.br:8732/;stream/1
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://i.imgur.com/oRYDaYf.png" ,JOVEM PAN NEWS
-http://hts03.kshost.com.br:8466/live
-#EXTINF:0 group-title="◆Rádio | 📻" tvg-logo="https://img.radios.com.br/radio/lg/radio14474_1535454461.jpg" ,Jovem Pan Seridó
-http://wz3.dnip.com.br/93seridohd/93seridohd.stream/chunklist_w173503393.m3u8
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://i.imgur.com/9TjxK8W.jpg" ,KISS FM
-http://cloud2.cdnseguro.com:23538/stream
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="BFTV ( ).PNG" ,LIBERDADE 95.9 FM
-http://streaming11.hstbr.net:8060/live?type=.flv
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://img.radios.com.br/radio/lg/radio13666_1506082366.jpg" ,LIDER 97 FM - SOUSA
-http://wz3.dnip.com.br/lider97/lider97.stream/playlist.m3u8
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" ,LOUNGE
-http://6d9a.webradio.upx.net.br:9064/stream?
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://i.imgur.com/Lzr3U9H.png" , MAGIC FM
-http://argentina.republicahosting.com:8158/;
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="BFTV ( ).PNG" , MELODIA GOSPEL FM
-http://radio.pangeiaservice.com:9980
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://goo.gl/TBKbAm" , Metal
-http://6d9a.webradio.upx.net.br:9898/stream
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" , Mundial Music Brasil
-http://162.243.197.147:80/mp3-128k
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="BFTV ( ).PNG" , NAFTALINA
-http://paineldj5.com.br:8003/stream?type=.mp3
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://seeklogo.com/images/N/New_Rock-logo-DC4CC87A2F-seeklogo.com.gif" , New Rock
-http://6d9a.webradio.upx.net.br:8028/stream
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="◆Rádio | 📻.png" , Novo Tempo Curitiba
-http://stream.novotempo.com:1935/radio/smil:rntCuritibaPR.smil/playlist.m3u8
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://127.0.0.1/" , Pagode
-http://6d9a.webradio.upx.net.br:9061/stream
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://127.0.0.1/" ,RADIO 101 FM - CAMPINA GRANDE
-http://radioapp.agenciaellis.com.br/Cariri1160
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/FM_93_logo_2018.png" ,Radio 93 Fm (Fortaleza)
-http://verdesmares.zoeweb.tv:1935/fm93/stream/chunklist_w1982398385.m3u8
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://i.imgur.com/Ivdf27M.png" ,RADIO Alegria FM
-http://stream.ouveai.com.br:8061/;
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://i.imgur.com/MmJBR9j.png" ,RADIO Anos 2000
-https://stream.vagalume.fm/hls/147396460892793/aac.m3u8
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://i.imgur.com/MmJBR9j.png" ,RADIO Anos 80
-https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://i.imgur.com/MmJBR9j.png" ,RADIO Anos 90
-https://stream.vagalume.fm/hls/1478022035646498/aac.m3u8
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" ,Radio Atlanta
-http://143.208.11.104:8064/stream
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://www.nsccomunicacao.com.br/wp-content/uploads/2017/07/170801_Logos_Veiculos_NSC_0010_Atlantida_White.png" ,Radio Atlantida Fm
-http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8?wowzasessionid=491854855
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://i.imgur.com/dT8ZOeg.png" ,RADIO AtlÃ¢ntida FM
-http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" ,Radio Beat 98
-http://s23.hstbr.net:8072/live
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="085.png" ,Radio Deejay
-http://radiodeejay-lh.akamaihd.net/i/RadioDeejay_Live_1@189857/master.m3u8
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://i.imgur.com/TKZ90g5.png" ,RADIO Eldorado FM
-http://noasrv.caster.fm:10136/stream
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://i67.tinypic.com/vykuw8.png" ,Radio Eldorado FM 107.3
-https://estadaohls-lh.akamaihd.net/i/estadaohls_1@301351/index_200_a-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://i.imgur.com/MmJBR9j.png" ,RADIO EletrÃ´nica
-https://stream.vagalume.fm/hls/146411300413492499/aac.m3u8
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://i.imgur.com/MmJBR9j.png" ,RADIO Folk
-https://stream.vagalume.fm/hls/1470155259220668/aac.m3u8
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://i.imgur.com/MmJBR9j.png" ,RADIO ForrÃ³
-https://stream.vagalume.fm/hls/147015501223418/aac.m3u8
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://i.imgur.com/MmJBR9j.png" ,RADIO Funk
-https://stream.vagalume.fm/hls/1470154922349875/aac.m3u8
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://i.imgur.com/MmJBR9j.png" ,RADIO Gospel
-https://stream.vagalume.fm/hls/14658544132100453351/aac.m3u8
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://i.imgur.com/MmJBR9j.png" ,RADIO Gospel Internacional
-https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://i.imgur.com/MmJBR9j.png" ,RADIO Hip-Hop
-https://stream.vagalume.fm/hls/1470155107337444/aac.m3u8
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://i.imgur.com/MmJBR9j.png" ,RADIO J-Pop
-https://stream.vagalume.fm/hls/1475776167864381/aac.m3u8
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://i.imgur.com/oRYDaYf.png" ,RADIO Jovem Pan FM
-http://centova6.ciclanohost.com.br:9256/;
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://i.imgur.com/MmJBR9j.png" ,RADIO K-Pop
-https://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://i.imgur.com/MmJBR9j.png" ,RADIO Latina
-https://stream.vagalume.fm/hls/1478199774246251/aac.m3u8
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://i.imgur.com/MmJBR9j.png" ,RADIO MPB
-https://stream.vagalume.fm/hls/1470154983100588/aac.m3u8
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://i.imgur.com/ClakDxW.png" ,RADIO Novo Tempo FM
-http://stream.novotempo.com:1935/radio/smil:rntPortoAlegreRS.smil/playlist.m3u8
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://i.imgur.com/MmJBR9j.png" ,RADIO Pagode
-https://stream.vagalume.fm/hls/147015499779090/aac.m3u8
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://i.imgur.com/kVcjkXc.png" ,RADIO PETROLINA FM
-http://hd4.matutos.com.br:8324/;stream.mp3
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://i.imgur.com/MmJBR9j.png" ,RADIO Pop
-https://stream.vagalume.fm/hls/14660050141766497579/aac.m3u8
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://i.imgur.com/MmJBR9j.png" ,RADIO Pop Nacional
-https://stream.vagalume.fm/hls/1470169276225492/aac.m3u8
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://i.imgur.com/MmJBR9j.png" ,RADIO Pop Rock
-https://stream.vagalume.fm/hls/1506975770142563/aac.m3u8
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://i.imgur.com/MmJBR9j.png" ,RADIO Pop Rock Nacional
-https://stream.vagalume.fm/hls/14671417541091220806/aac.m3u8
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://i.imgur.com/I5y8DaH.png" ,RADIO Princesa FM
-http://noasrv.caster.fm:10124/stream
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://i.imgur.com/MmJBR9j.png" ,RADIO R&B
-https://stream.vagalume.fm/hls/1467745876337223/aac.m3u8
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://i.imgur.com/MmJBR9j.png" ,RADIO Reggae
-https://stream.vagalume.fm/hls/1465840912218182609/aac.m3u8
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://i63.tinypic.com/6ifiti.jpg" ,Radio Relogio Musical AM 1120*
-http://streaming09.maxcast.com.br:8060/live?type=.flv
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://i.imgur.com/MmJBR9j.png" ,RADIO Rock
-https://stream.vagalume.fm/hls/1464201608479108132/aac.m3u8
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://i.imgur.com/MmJBR9j.png" ,RADIO RomÃ¢nticas
-https://stream.vagalume.fm/hls/1470155219129532/aac.m3u8
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://i.imgur.com/MmJBR9j.png" ,RADIO Sertanejo
-https://stream.vagalume.fm/hls/14619606471054026608/aac.m3u8
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://i.imgur.com/MmJBR9j.png" ,RADIO Sertanejo RomÃ¢ntico
-https://stream.vagalume.fm/hls/1499715905423293/aac.m3u8
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://www.eflow.com.br/wp-content/uploads/2016/09/radio-sociedade-logo-300x220.png" ,Radio Sociedade Bahia
-http://cdn.srv.br:8088/RDSociedadeAM/rdsociedadeaac/chunks.m3u8
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://i.imgur.com/O9dknve.png" ,RADIO Transamerica FM
-http://transamerica.crossradio.com.br:9114/live.mp3
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://i.imgur.com/kVcjkXc.png" ,RADIO TRANSAMERICA SALVADOR
-http://transamerica.crossradio.com.br:9128/live.aac
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://i67.tinypic.com/33p62ao.png" ,Radio Verdes Mares
-http://srv4.zoeweb.tv:1935/z18-live/stream/chunklist_w1559224649.m3u8
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="BFTV ( ).PNG" ,REDE MENSAGEM FM
-http://108.163.250.202:9936
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://i.imgur.com/TDcokvr.png" ,RFI
-http://live02.rfi.fr/rfibrasil-64K [FHDR].mp3
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="BFTV ( ).PNG" ,RIO PRETO GOSPEL
-http://streaming09.hstbr.net:8078/live?type=.flv
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" ,RÁDIO 104 FM
-http://cast4.audiostream.com.br:8651/mp3
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://www.massivevibes.ca/uploads/3/4/9/1/34911258/2271410_orig.png" ,RÁDIO ATLÂNTIDA FM
-http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/http-live/atl_poa.sdp/playlist.m3u8
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" ,RÁDIO CAIÇARA FM/AM
-http://cast4.audiostream.com.br:8654/mp3
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" ,RÁDIO CAPÃO FM
-http://cast4.audiostream.com.br:8656/mp3
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" ,RÁDIO CONTINENTAL FM
-http://cast4.audiostream.com.br:8650/mp3
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://i.imgur.com/rJE9SvV.png" ,RÁDIO DISNEY
-https://us-b4-p-e-by2-audio.cdn.mdstrm.com/live-audio/5b7dcf9b7f880d076b1ed74d/5ddfc57f4bee0054b9b3f511/icecast.audio
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" ,RÁDIO ELDORADO FM
-http://cast4.audiostream.com.br:8652/mp3
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://www.radioevangelicafm.com.br/public/imgs/logo.png" ,RÁDIO EVANGELICA FM PE
-http://directradios.net:8343/stream2
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" ,RÁDIO FM CIDREIRA
-http://cast4.audiostream.com.br:8657/mp3
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" ,RÁDIO FM EXPRESS
-http://cast4.audiostream.com.br:8648/mp3
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://i.imgur.com/dbzCxqq.jpg" ,RÁDIO FM O DIA
-http://c2901-slbps-sambavideos.akamaized.net/radio/FMoDiaAudio_14d480346fa04ebcb4f03173f2dae707/livestream/playlist.m3u8
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" ,RÁDIO FM PREMIUM
-http://cast4.audiostream.com.br:8663/mp3
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" ,RÁDIO FM TORRES
-http://cast4.audiostream.com.br:8661/mp3
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" ,RÁDIO FM TRAMANDAÍ
-http://cast4.audiostream.com.br:8658/mp3
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" ,RÁDIO FM XANGRI-LÁ
-http://cast4.audiostream.com.br:8659/mp3
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://3.bp.blogspot.com/-eA-8xVX0us8/VomtHnE_65I/AAAAAAAAfSU/JuhrUpj8B9Q/s1600/RADIO_GOSPEL_FM_GOIANIA_GO%2B.jpg" ,RÁDIO GOSPEL - LOUVOR E ADORAÁO
-http://216.245.204.229:8018/live
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" ,RÁDIO GRENAL FM
-http://cast4.audiostream.com.br:8649/mp3
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" ,RÁDIO IMBÉ FM
-http://cast4.audiostream.com.br:8660/mp3
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" ,RÁDIO LIBERDADE FM
-http://cast4.audiostream.com.br:8655/mp3
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://i.imgur.com/VZerEiN.jpg" ,RÁDIO MANIA
-http://shout35.crossradio.com.br:8086/1/;stream/1
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" ,RÁDIO PAMPA FM
-http://cast4.audiostream.com.br:8653/mp3
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" ,RÁDIO PRINCESA FM
-http://cast4.audiostream.com.br:8662/mp3
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://i.imgur.com/COH52eu.png" ,RÁDIO VERDE MARES
-http://srv4.zoeweb.tv:1935/z18-live/stream/playlist.m3u8
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://www.vibe89fm.com/sites/all/themes/vibe/images/logo.png" ,RÁDIO VIBE FM
-http://servidor36.brlogic.com:8180/live
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" ,Rádio Energia
-http://audio.97fm.com.br/energia
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" ,Rádio Gaúcha
-https://722747t.ha.azioncdn.net/2747t/_definst_/gaucha_rbs.sdp/chunklist_3c6a89e5-243e-4091-b0b9-9493c9e8136a.m3u8
-#EXTINF:0 group-title="◆Rádio | 📻" tvg-logo="https://img.radios.com.br/radio/lg/radio13176_1484822550.jpg" ,Rádio Gaúcha AM 600 FM 93.7
-https://722747t.ha.azioncdn.net/2747t/_definst_/gaucha_rbs.sdp/chunklist_fa6b8cff-486f-42e1-8242-bf0823275256.m3u8
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://img.radios.com.br/radio/xl/radio13488_1558098324.jpg" ,Rádio Jornal
-https://evpp.mm.uol.com.br/ne10/radiojornal-recife-avra-video-web.sdp/playlist.m3u8
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://truckers.fm/Assets/Images/Logos/logo.jpg" ,Rádio Truckers FM
-http://radio.truckers.fm
-#EXTINF:0 group-title="◆Rádio | 📻" tvg-logo="https://img.radios.com.br/radio/lg/radio14216_1493299107.png" ,Rádio Verdes Mares AM 810
-http://srv4.zoeweb.tv:1935/z18-live/stream/chunklist_w483075415.m3u8
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" , S30 MaxCast Web Rádio
-http://s30.maxcast.com.br:8190/live
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="BFTV ( ).PNG" , SARA NOSSA TERRA
-http://server01.ouvir.radio.br:8000/stream?type=.flv
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" , SulAmerica Paradiso RJ
-https://20323.live.streamtheworld.com/SULAMERICA_SC
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://img.radios.com.br/radio/lg/radio8803_1439401341.jpg" , Transamerica 100.1*
-http://transamerica.crossradio.com.br:9100/live.aac?type=.flv
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://i.imgur.com/O9dknve.png" , TRANSAMÉRICA FM
-http://transamerica.crossradio.com.br:9114/live.mp3?LISTABRBRASIL
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://i.imgur.com/9IEBKS4.png" , TRANSAMÉRICA
-http://transamerica.crossradio.com.br:9100/live.aac
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" , Truckers FM
-https://radio.truckers.fm/
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" ,USP FM
-http://flow.emm.usp.br:8007/radiousp-128.mp3
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" ,Vagalume Funk
-https://stream.vagalume.fm/hls/1470154922349875/index.m3u8
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" ,Vagalume Pagode
-https://stream.vagalume.fm/hls/14619606471054026608/index.m3u8
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" ,Vagalume Vibe
-https://stream.vagalume.fm/hls/14623883771774082279/index.m3u8
-#EXTINF:-1 group-title="◆Rádio | 📻" tvg-logo="http://i66.tinypic.com/sepuyo.jpg" ,VOX TV
-https://596639ebdd89b.streamlock.net:443/8002/8002/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Variedades", A&E FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/71761
+
+#EXTINF:-1 tvg-logo="http://a5.vc/TDh" group-title="Variedades", BIS FHD
+http://dnsx.co:80/7885037935/fireurl.co/71806
+
+#EXTINF:-1 tvg-logo="http://a5.vc/TDh" group-title="Variedades", BIS FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/71807
+
+#EXTINF:-1 tvg-logo="http://a5.vc/mT5" group-title="Variedades", Comedy Central FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/71848
+
+#EXTINF:-1 tvg-logo="http://a5.vc/CyU" group-title="Variedades", Curta FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/71855.ts
+
+#EXTINF:-1 tvg-logo="http://a5.vc/CyU" group-title="Variedades", Curta FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/71856.ts
+
+#EXTINF:-1 tvg-logo="http://a5.vc/XcV" group-title="Variedades", Discovery H&H FHD
+http://dnsx.co:80/7885037935/fireurl.co/71867
+
+#EXTINF:-1 tvg-logo="http://a5.vc/XcV" group-title="Variedades", Discovery H&H FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/71868
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9kueh1G.png" group-title="Variedades", DOGTV FHD
+http://dnsx.co:80/7885037935/fireurl.co/76922
+
+#EXTINF:-1 tvg-logo="http://a5.vc/DKx" group-title="Variedades", E! FHD
+http://dnsx.co:80/7885037935/fireurl.co/71900
+
+#EXTINF:-1 tvg-logo="http://a5.vc/DKx" group-title="Variedades", E! FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/71901
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jbJcXpR.png" group-title="Variedades", FashionTV FHD
+http://b5.vc:80/7885037935/fireurl.co/71924
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jbJcXpR.png" group-title="Variedades", FashionTV FHD [H265]
+http://b5.vc:80/7885037935/fireurl.co/71925
+
+#EXTINF:-1 tvg-logo="https://www.vippng.com/png/full/453-4535877_film-arts-logo-png-transparent-film-and-arts.png" group-title="Variedades", Film & Arts FHD
+http://vvraw.com:2082/Altair567/356738473/6728
+
+#EXTINF:-1 tvg-logo="http://a5.vc/StA" group-title="Variedades", Fish TV FHD
+http://b5.vc:80/7885037935/fireurl.co/71928
+
+#EXTINF:-1 tvg-logo="http://a5.vc/StA" group-title="Variedades", Fish TV FHD [H265]
+http://b5.vc:80/7885037935/fireurl.co/71929
+
+#EXTINF:-1 tvg-logo="http://a5.vc/ZHe" group-title="Variedades", Food Network FHD
+http://b5.vc:80/7885037935/fireurl.co/71932
+
+#EXTINF:-1 tvg-logo="http://a5.vc/ZHe" group-title="Variedades", Food Network FHD [H265]
+http://b5.vc:80/7885037935/fireurl.co/71933
+
+#EXTINF:-1 tvg-logo="http://a5.vc/scT" group-title="Variedades", GNT FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72103
+
+#EXTINF:-1 tvg-logo="http://a5.vc/ecn" group-title="Variedades", Lifetime FHD
+http://b5.vc:80/7885037935/fireurl.co/72154
+
+#EXTINF:-1 tvg-logo="http://a5.vc/ecn" group-title="Variedades", Lifetime FHD [H265]
+http://b5.vc:80/7885037935/fireurl.co/72155
+
+#EXTINF:-1 tvg-logo="http://a5.vc/e5K" group-title="Variedades", Mais na Tela FHD
+http://dnsx.co:80/7885037935/fireurl.co/72162
+
+#EXTINF:-1 tvg-logo="http://a5.vc/e5K" group-title="Variedades", Mais na Tela FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72163
+
+#EXTINF:-1 tvg-logo="http://a5.vc/Uet" group-title="Variedades", Multishow FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/72179.ts
+
+#EXTINF:-1 tvg-logo="http://a5.vc/Uet" group-title="Variedades", Multishow FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/72180.ts
+
+#EXTINF:-1 tvg-logo="http://a5.vc/deE" group-title="Variedades", MTV FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/72171.ts
+
+#EXTINF:-1 tvg-logo="http://a5.vc/deE" group-title="Variedades", MTV FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/72172.ts
+
+#EXTINF:-1 tvg-logo="http://a5.vc/wCS" group-title="Variedades", OFF FHD
+http://dnsx.co:80/7885037935/fireurl.co/72209
+
+#EXTINF:-1 tvg-logo="http://a5.vc/wCS" group-title="Variedades", OFF FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72210
+
+#EXTINF:-1 tvg-logo="http://a5.vc/Drt" group-title="Variedades", Prime Box Brazil FHD
+http://dnsx.co:80/7885037935/fireurl.co/72267
+
+#EXTINF:-1 tvg-logo="http://a5.vc/Drt" group-title="Variedades", Prime Box Brazil FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72268
+
+#EXTINF:-1 tvg-logo="http://a5.vc/Czz" group-title="Variedades", TLC FHD
+http://dnsx.co:80/7885037935/fireurl.co/72371
+
+#EXTINF:-1 tvg-logo="http://a5.vc/Czz" group-title="Variedades", TLC FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72372
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1M08c1k.png" group-title="Variedades", Trace Brazuca FHD
+http://dnsx.co:80/7885037935/fireurl.co/72386
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1M08c1k.png" group-title="Variedades", Trace Brazuca FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72387
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aHzrsmu.png" group-title="Variedades", Travel Box Brazil FHD
+http://dnsx.co:80/7885037935/fireurl.co/72390
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aHzrsmu.png" group-title="Variedades", Travel Box Brazil FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72391
+
+#EXTINF:-1 tvg-logo="http://a5.vc/i2z" group-title="Variedades", VH1 FHD
+http://dnsx.co:80/7885037935/fireurl.co/72423
+
+#EXTINF:-1 tvg-logo="http://a5.vc/i2z" group-title="Variedades", VH1 FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72424
+
+#EXTINF:-1 tvg-logo="http://a5.vc/Qin" group-title="Variedades", Viva FHD
+http://dnsx.co:80/7885037935/fireurl.co/72427
+
+#EXTINF:-1 tvg-logo="http://a5.vc/Qin" group-title="Variedades", Viva FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72428
+
+#EXTINF:-1 tvg-logo="http://a5.vc/HhI" group-title="Variedades", WooHoo FHD
+http://dnsx.co:80/7885037935/fireurl.co/72435
+
+#EXTINF:-1 tvg-logo="http://a5.vc/HhI" group-title="Variedades", WooHoo FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72436
 
 
