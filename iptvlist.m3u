@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="https://bit.ly/epglistasuprema"
 
 #EXTINF:-1 type="stream" tvg-id="A&E" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Filme",A&E
-http://lb.kstream.org/aovivo/SD_AE/video.m3u8?token=8772d0f891e806773553aa8bc9e4bc45
+http://lb.kstream.org/aovivo/SD_AE/video.m3u8
 #EXTINF:-1 type="stream" tvg-id="A&E FHD" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Filme",A&E FHD
-http://lb.kstream.org/aovivo/FHD_AE/video.m3u8?token=8772d0f891e806773553aa8bc9e4bc45
+http://lb.kstream.org/aovivo/FHD_AE/video.m3u8
 #EXTINF:-1 type="stream" tvg-id="A&E HD" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Filme",A&E HD
 http://lb.kstream.org/aovivo/HD_AE/video.m3u8?token=8772d0f891e806773553aa8bc9e4bc45
 #EXTINF:-1 type="stream" tvg-id="A&E HD [Alter]" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Filme",A&E HD [Alter]
