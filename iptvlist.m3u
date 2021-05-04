@@ -1,1590 +1,957 @@
 #EXTM3U
 
-___________________ABERTOS_________________
 
-#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Abertos", Band SP FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/420
-
-#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Abertos", Band SP HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/184
-
-#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Abertos", Band SP SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/744
-
-#EXTINF:-1 tvg-logo="http://a5.vc/dgd" group-title="Abertos", Futura FHD
-http://4p.vc:80/K7y6g34drYdn/9771144045/28198
-
-#EXTINF:-1 tvg-logo="http://a5.vc/dgd" group-title="Abertos", Futura SD
-http://4p.vc:80/K7y6g34drYdn/9771144045/18656
-
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Abertos", Globo SP FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/4
-
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Abertos", Globo SP HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/177
-
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Abertos", Globo SP SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/695
-
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Abertos", RecordTV SP FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/456
-
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Abertos", RecordTV SP HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/209
-
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Abertos", RecordTV SP SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/718
-
-#EXTINF:-1 tvg-logo="http://a5.vc/NuR" group-title="Abertos", RedeTV FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/524
-
-#EXTINF:-1 tvg-logo="http://a5.vc/NuR" group-title="Abertos", RedeTV HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/277
-
-#EXTINF:-1 tvg-logo="http://a5.vc/NuR" group-title="Abertos", RedeTV SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/634
-
-#EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Abertos", SBT SP FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/483
-
-#EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Abertos", SBT SP HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/210
-
-#EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Abertos", SBT SP SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/635
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Abertos", TV Cultura FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/223
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Abertos", TV Cultura HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/223
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Abertos", TV Cultura SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/223
-
-#EXTINF:-1 tvg-logo="http://a5.vc/QZr" group-title="Abertos", TV Gazeta SP FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/411
-
-#EXTINF:-1 tvg-logo="http://a5.vc/QZr" group-title="Abertos", TV Gazeta SP HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/224
-
-
-___________________DOCUMENTÁRIO_________________
-
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="Documentários", Animal Planet FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/418
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="Documentários", Animal Planet HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/250
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="Documentários", Animal Planet SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/556
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="Documentários", Discovery Channel FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/493
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="Documentários", Discovery Channel HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/243
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="Documentários", Discovery Channel SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/572
-
-#EXTINF:-1 tvg-logo="http://a5.vc/0gi" group-title="Documentários", Discovery Science FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/499
-
-#EXTINF:-1 tvg-logo="http://a5.vc/0gi" group-title="Documentários", Discovery Science HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/245
-
-#EXTINF:-1 tvg-logo="http://a5.vc/0gi" group-title="Documentários", Discovery Science SD 
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/686
-
-#EXTINF:-1 tvg-logo="http://a5.vc/uCQ" group-title="Documentários", Discovery Turbo FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/425
-
-#EXTINF:-1 tvg-logo="http://a5.vc/uCQ" group-title="Documentários", Discovery Turbo HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/187
-
-#EXTINF:-1 tvg-logo="http://a5.vc/uCQ" group-title="Documentários", Discovery Turbo SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/575
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Nib" group-title="Documentários", Discovery Theater FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/462
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Nib" group-title="Documentários", Discovery Theater HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/246
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Nib" group-title="Documentários", Discovery Theater SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/687
-
-#EXTINF:-1 tvg-logo="http://a5.vc/wgC" group-title="Documentários", Discovery World FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/303
-
-#EXTINF:-1 tvg-logo="http://a5.vc/wgC" group-title="Documentários", Discovery World HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/247
-
-#EXTINF:-1 tvg-logo="http://a5.vc/wgC" group-title="Documentários", Discovery World SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/688
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Zwg" group-title="Documentários", H2 FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/433
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Zwg" group-title="Documentários", H2 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/269
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Zwg" group-title="Documentários", H2 SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/601
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CyW3g9p.png" group-title="Documentários", HGTV FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/544
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CyW3g9p.png" group-title="Documentários", HGTV HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/21
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CyW3g9p.png" group-title="Documentários", HGTV SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/685
-
-#EXTINF:-1 tvg-logo="http://a5.vc/VE2" group-title="Documentários", History FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/546
-
-#EXTINF:-1 tvg-logo="http://a5.vc/VE2" group-title="Documentários", History HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/197
-
-#EXTINF:-1 tvg-logo="http://a5.vc/VE2" group-title="Documentários", History SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/651
-
-#EXTINF:-1 tvg-logo="http://a5.vc/53O" group-title="Documentários", ID - Investigation Discovery FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/547
-
-#EXTINF:-1 tvg-logo="http://a5.vc/53O" group-title="Documentários", ID - Investigation Discovery HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/267
-
-#EXTINF:-1 tvg-logo="http://a5.vc/53O" group-title="Documentários", ID - Investigation Discovery SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/608
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zt9lfNr.png" group-title="Documentários", Love Nature FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/498
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yDYuFdE.png" group-title="Documentários", Nat Geo Wild FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/477
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yDYuFdE.png" group-title="Documentários", Nat Geo Wild HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/268
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yDYuFdE.png" group-title="Documentários", Nat Geo Wild SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/619
-
-#EXTINF:-1 tvg-logo="http://a5.vc/zO2" group-title="Documentários", National Geographic FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/439
-
-#EXTINF:-1 tvg-logo="http://a5.vc/zO2" group-title="Documentários", National Geographic HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/270
-
-#EXTINF:-1 tvg-logo="http://a5.vc/zO2" group-title="Documentários", National Geographic SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/620
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/trutv.png" group-title="Documentários", TruTV FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/392
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/trutv.png" group-title="Documentários", TruTV HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/119
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/trutv.png" group-title="Documentários", TruTV SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/691
-
-
-___________________VARIEDADES_________________
-
-
-
-#EXTINF:-1 tvg-logo="http://a5.vc/aDZ" group-title="Variedades", Arte 1 FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/458
-
-#EXTINF:-1 tvg-logo="http://a5.vc/aDZ" group-title="Variedades", Arte 1 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/235
-
-#EXTINF:-1 tvg-logo="http://a5.vc/aDZ" group-title="Variedades", Arte 1 SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/682
-
-#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Variedades", A&E FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/553
-
-#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Variedades", A&E HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/281
-
-#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Variedades", A&E SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/555
-
-#EXTINF:-1 tvg-logo="http://a5.vc/mT5" group-title="Variedades", Comedy Central FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/551
-
-#EXTINF:-1 tvg-logo="http://a5.vc/mT5" group-title="Variedades", Comedy Central HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/242
-
-#EXTINF:-1 tvg-logo="http://a5.vc/mT5" group-title="Variedades", Comedy Central SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/570
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1c/LOGOCHEFTV.jpg" group-title="Variedades", CHEF TV FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/385
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1c/LOGOCHEFTV.jpg" group-title="Variedades", CHEF TV HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/117
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1c/LOGOCHEFTV.jpg" group-title="Variedades", CHEF TV SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/683
-
-#EXTINF:-1 tvg-logo="http://a5.vc/CyU" group-title="Variedades", Curta FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/382
-
-#EXTINF:-1 tvg-logo="http://a5.vc/CyU" group-title="Variedades", Curta HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/115
-
-#EXTINF:-1 tvg-logo="http://a5.vc/CyU" group-title="Variedades", Curta SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/571
-
-#EXTINF:-1 tvg-logo="http://a5.vc/XcV" group-title="Variedades", Discovery H&H FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/512
-
-#EXTINF:-1 tvg-logo="http://a5.vc/XcV" group-title="Variedades", Discovery H&H HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/244
-
-#EXTINF:-1 tvg-logo="http://a5.vc/XcV" group-title="Variedades", Discovery H&H SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/573
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9kueh1G.png" group-title="Variedades", DOGTV FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/554
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9kueh1G.png" group-title="Variedades", DOGTV HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/554
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9kueh1G.png" group-title="Variedades", DOGTV SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/554
-
-#EXTINF:-1 tvg-logo="http://a5.vc/DKx" group-title="Variedades", E! FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/552
-
-#EXTINF:-1 tvg-logo="http://a5.vc/DKx" group-title="Variedades", E! HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/73
-
-#EXTINF:-1 tvg-logo="http://a5.vc/DKx" group-title="Variedades", E! SD 
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/579
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jbJcXpR.png" group-title="Variedades", FashionTV FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/492
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jbJcXpR.png" group-title="Variedades", FashionTV HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/254
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jbJcXpR.png" group-title="Variedades", FashionTV SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/254
-
-#EXTINF:-1 tvg-logo="https://www.vippng.com/png/full/453-4535877_film-arts-logo-png-transparent-film-and-arts.png" group-title="Variedades", Film & Arts FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/491
-
-#EXTINF:-1 tvg-logo="https://www.vippng.com/png/full/453-4535877_film-arts-logo-png-transparent-film-and-arts.png" group-title="Variedades", Film & Arts HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/491
-
-#EXTINF:-1 tvg-logo="https://www.vippng.com/png/full/453-4535877_film-arts-logo-png-transparent-film-and-arts.png" group-title="Variedades", Film & Arts SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/491
-
-#EXTINF:-1 tvg-logo="http://a5.vc/StA" group-title="Variedades", Fish TV FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/496
-
-#EXTINF:-1 tvg-logo="http://a5.vc/StA" group-title="Variedades", Fish TV HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/253
-
-#EXTINF:-1 tvg-logo="http://a5.vc/StA" group-title="Variedades", Fish TV SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/583
-
-#EXTINF:-1 tvg-logo="http://a5.vc/ZHe" group-title="Variedades", Food Network FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/309
-
-#EXTINF:-1 tvg-logo="http://a5.vc/ZHe" group-title="Variedades", Food Network HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/30
-
-#EXTINF:-1 tvg-logo="http://a5.vc/ZHe" group-title="Variedades", Food Network SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/584
-
-#EXTINF:-1 tvg-logo="http://a5.vc/scT" group-title="Variedades", GNT FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/495
-
-#EXTINF:-1 tvg-logo="http://a5.vc/scT" group-title="Variedades", GNT HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/80
-
-#EXTINF:-1 tvg-logo="http://a5.vc/scT" group-title="Variedades", GNT SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/600
-
-#EXTINF:-1 tvg-logo="http://a5.vc/ecn" group-title="Variedades", Lifetime FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/473
-
-#EXTINF:-1 tvg-logo="http://a5.vc/ecn" group-title="Variedades", Lifetime HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/81
-
-#EXTINF:-1 tvg-logo="http://a5.vc/ecn" group-title="Variedades", Lifetime SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/609
-
-#EXTINF:-1 tvg-logo="http://a5.vc/e5K" group-title="Variedades", Mais na Tela FHD
-http://4p.vc:80/K7y6g34drYdn/9771144045/18754
-
-#EXTINF:-1 tvg-logo="http://a5.vc/e5K" group-title="Variedades", Mais na Tela HD
-http://4p.vc:80/K7y6g34drYdn/9771144045/18625
-
-#EXTINF:-1 tvg-logo="http://a5.vc/e5K" group-title="Variedades", Mais na Tela SD
-http://4p.vc:80/K7y6g34drYdn/9771144045/18626
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Uet" group-title="Variedades", Multishow FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/330
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Uet" group-title="Variedades", Multishow HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/49
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Uet" group-title="Variedades", Multishow SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/616
-
-#EXTINF:-1 tvg-logo="http://a5.vc/FbG" group-title="Variedades", Music Box Brazil FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/393
-
-#EXTINF:-1 tvg-logo="http://a5.vc/FbG" group-title="Variedades", Music Box Brazil HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/120
-
-#EXTINF:-1 tvg-logo="http://a5.vc/FbG" group-title="Variedades", Music Box Brazil SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/617
-
-#EXTINF:-1 tvg-logo="http://a5.vc/deE" group-title="Variedades", MTV FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/438
-
-#EXTINF:-1 tvg-logo="http://a5.vc/deE" group-title="Variedades", MTV HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/200
-
-#EXTINF:-1 tvg-logo="http://a5.vc/deE" group-title="Variedades", MTV SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/615
-
-#EXTINF:-1 tvg-logo="http://a5.vc/wCS" group-title="Variedades", OFF FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/507
-
-#EXTINF:-1 tvg-logo="http://a5.vc/wCS" group-title="Variedades", OFF HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/83
-
-#EXTINF:-1 tvg-logo="http://a5.vc/wCS" group-title="Variedades", OFF SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/623
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Drt" group-title="Variedades", Prime Box Brazil FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/384
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Drt" group-title="Variedades", Prime Box Brazil HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/116
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Drt" group-title="Variedades", Prime Box Brazil SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/684
-
-#EXTINF:-1 tvg-logo="https://images-shoptime.b2w.io/zion/manifest/icons/4d42fd86e64bca3c98f525faa6859a37.opengraph-image.png" group-title="Variedades", Shoptime SD
-http://snxt.online:80/fabricio2021/fabricio2021/207656
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Czz" group-title="Variedades", TLC FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/500
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Czz" group-title="Variedades", TLC HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/221
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Czz" group-title="Variedades", TLC SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/652
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aHzrsmu.png" group-title="Variedades", Travel Box Brazil FHD
-http://4p.vc:80/K7y6g34drYdn/9771144045/80138
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aHzrsmu.png" group-title="Variedades", Travel Box Brazil HD
-http://4p.vc:80/K7y6g34drYdn/9771144045/80139
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aHzrsmu.png" group-title="Variedades", Travel Box Brazil SD
-http://4p.vc:80/K7y6g34drYdn/9771144045/80140
-
-#EXTINF:-1 tvg-logo="http://a5.vc/i2z" group-title="Variedades", VH1 FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/490
-
-#EXTINF:-1 tvg-logo="http://a5.vc/i2z" group-title="Variedades", VH1 HD
-http://4p.vc:80/K7y6g34drYdn/9771144045/18518
-
-#EXTINF:-1 tvg-logo="http://a5.vc/i2z" group-title="Variedades", VH1 SD
-http://4p.vc:80/K7y6g34drYdn/9771144045/22252
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Qin" group-title="Variedades", Viva FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/502
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Qin" group-title="Variedades", Viva HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/92
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Qin" group-title="Variedades", Viva SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/660
-
-#EXTINF:-1 tvg-logo="http://a5.vc/HhI" group-title="Variedades", WooHoo FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/503
-
-#EXTINF:-1 tvg-logo="http://a5.vc/HhI" group-title="Variedades", WooHoo HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/503
-
-#EXTINF:-1 tvg-logo="http://a5.vc/HhI" group-title="Variedades", WooHoo SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/740
-
-
-___________________ESPORTES_________________
-
-
-
-#EXTINF:-1 tvg-logo="http://a5.vc/j8Y" group-title="Esportes", Band Sports FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/422
-
-#EXTINF:-1 tvg-logo="http://a5.vc/j8Y" group-title="Esportes", Band Sports HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/230
-
-#EXTINF:-1 tvg-logo="http://a5.vc/j8Y" group-title="Esportes", Band Sports SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/690
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Esportes", Combate FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/424
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Esportes", Combate HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/241
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Esportes", Combate SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/569
-
-#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Esportes", ESPN 2 FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/426
-
-#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Esportes", ESPN 2 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/190
-
-#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Esportes", ESPN 2 SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/689
-
-#EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="Esportes", ESPN Brasil FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/543
-
-#EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="Esportes", ESPN Brasil HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/189
-
-#EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="Esportes", ESPN Brasil SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/580
-
-#EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="Esportes", ESPN Extra FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/468
-
-#EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="Esportes", ESPN Extra HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/191
-
-#EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="Esportes", ESPN Extra SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/581
-
-#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Esportes", ESPN FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/520
-
-#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Esportes", ESPN HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/249
-
-#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Esportes", ESPN SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/582
-
-#EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Esportes", Fox Sports FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/431
-
-#EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Esportes", Fox Sports HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/228
-
-#EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Esportes", Fox Sports SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/587
-
-#EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Esportes", Fox Sports 2 FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/432
-
-#EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Esportes", Fox Sports 2 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/162
-
-#EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Esportes", Fox Sports 2 SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/586
-
-#EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Esportes", SporTV FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/448
-
-#EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Esportes", SporTV HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/212
-
-#EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Esportes", SporTV SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/640
-
-#EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="Esportes", SporTV 2 FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/450
-
-#EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="Esportes", SporTV 2 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/213
-
-#EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="Esportes", SporTV 2 SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/638
-
-#EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="Esportes", SporTV 3 FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/548
-
-#EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="Esportes", SporTV 3 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/214
-
-#EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="Esportes", SporTV 3 SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/639
-
-
-
-___________________PPV_________________
-
-
-
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 2 FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/452
-
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 2 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/203
-
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 2 SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/626
-
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 3 FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/204
-
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 3 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/453
-
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 3 SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/627
-
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 4 FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/454
-
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 4 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/205
-
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 4 SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/628
-
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 5 FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/480
-
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 5 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/206
-
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 5 SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/629
-
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 6 FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/481
-
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 6 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/207
-
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 6 SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/630
-
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 7 FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/494
-
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 7 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/107
-
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 7 SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/631
-
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 8 FHD
-http://4p.vc:80/K7y6g34drYdn/9771144045/90359
-
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 8 HD
-http://4p.vc:80/K7y6g34drYdn/9771144045/90359
-
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 8 SD
-http://4p.vc:80/K7y6g34drYdn/9771144045/72261
-
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere Clubes FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/451
-
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere Clubes HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/202
-
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere Clubes SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/632
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Auto_motor_sport_channel_logo.png" group-title="●PPV●", AUTOMOTOR SPORT HD
-http://4p.vc:80/K7y6g34drYdn/9771144045/77788
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vBDogfl.png" group-title="●PPV●", Campeonato Carioca 1 FHD
-http://4p.vc:80/K7y6g34drYdn/9771144045/96513
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vBDogfl.png" group-title="●PPV●", Campeonato Carioca 1 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/26252
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vBDogfl.png" group-title="●PPV●", Campeonato Carioca 1 SD
-http://4p.vc:80/K7y6g34drYdn/9771144045/96516
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vBDogfl.png" group-title="●PPV●", Campeonato Carioca 2 FHD
-http://4p.vc:80/K7y6g34drYdn/9771144045/96517
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vBDogfl.png" group-title="●PPV●", Campeonato Carioca 2 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/26265
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vBDogfl.png" group-title="●PPV●", Campeonato Carioca 2 SD
-http://4p.vc:80/K7y6g34drYdn/9771144045/96520
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q7PzTSJ.png" group-title="●PPV●", Conmebol TV 1 FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/20408
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q7PzTSJ.png" group-title="●PPV●", Conmebol TV 1 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/20410
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q7PzTSJ.png" group-title="●PPV●", Conmebol TV 1 SD
-http://4p.vc:80/K7y6g34drYdn/9771144045/72980
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q7PzTSJ.png" group-title="●PPV●", Conmebol TV 2 FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/20407
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q7PzTSJ.png" group-title="●PPV●", Conmebol TV 2 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/20411
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q7PzTSJ.png" group-title="●PPV●", Conmebol TV 2 SD
-http://4p.vc:80/K7y6g34drYdn/9771144045/72984
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q7PzTSJ.png" group-title="●PPV●", Conmebol TV 3 FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/20406
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q7PzTSJ.png" group-title="●PPV●", Conmebol TV 3 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/20412
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q7PzTSJ.png" group-title="●PPV●", Conmebol TV 3 SD
-http://4p.vc:80/K7y6g34drYdn/9771144045/72988
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q7PzTSJ.png" group-title="●PPV●", Conmebol TV 4 FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/20409
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q7PzTSJ.png" group-title="●PPV●", Conmebol TV 4 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/20413
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sy9Jvbh.png" group-title="●PPV●", Copa do Nordeste 1 FHD
-http://4p.vc:80/K7y6g34drYdn/9771144045/96505
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sy9Jvbh.png" group-title="●PPV●", Copa do Nordeste 1 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/158
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sy9Jvbh.png" group-title="●PPV●", Copa do Nordeste 1 SD
-http://4p.vc:80/K7y6g34drYdn/9771144045/96508
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sy9Jvbh.png" group-title="●PPV●", Copa do Nordeste 2 FHD
-http://4p.vc:80/K7y6g34drYdn/9771144045/96509
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sy9Jvbh.png" group-title="●PPV●", Copa do Nordeste 2 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/161
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sy9Jvbh.png" group-title="●PPV●", Copa do Nordeste 2 SD
-http://4p.vc:80/K7y6g34drYdn/9771144045/96512
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sy9Jvbh.png" group-title="●PPV●", Copa do Nordeste 3 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/726
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sy9Jvbh.png" group-title="●PPV●", Copa do Nordeste 4 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/729
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sy9Jvbh.png" group-title="●PPV●", Copa do Nordeste 5 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/26697
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sy9Jvbh.png" group-title="●PPV●", Copa do Nordeste 6 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/26698
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sy9Jvbh.png" group-title="●PPV●", Campeonato Catarinense 1 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/159
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sy9Jvbh.png" group-title="●PPV●", Campeonato Catarinense 1 SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/727
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sy9Jvbh.png" group-title="●PPV●", Campeonato Catarinense 2 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/160
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sy9Jvbh.png" group-title="●PPV●", Campeonato Catarinense 2 SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/728
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cfUfPXQ.png" group-title="●PPV●", DAZN FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/416
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cfUfPXQ.png" group-title="●PPV●", DAZN HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/280
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cfUfPXQ.png" group-title="●PPV●", DAZN SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/703
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CwtqFOc.png" group-title="●PPV●", Eleven Sports 1 FHD
-http://4p.vc:80/K7y6g34drYdn/9771144045/73254
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CwtqFOc.png" group-title="●PPV●", Eleven Sports 2 FHD
-http://4p.vc:80/K7y6g34drYdn/9771144045/73255
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CwtqFOc.png" group-title="●PPV●", Eleven Sports 3 FHD
-http://4p.vc:80/K7y6g34drYdn/9771144045/73256
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CwtqFOc.png" group-title="●PPV●", Eleven Sports 4 FHD
-http://4p.vc:80/K7y6g34drYdn/9771144045/73257
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CwtqFOc.png" group-title="●PPV●", Eleven Sports 5 FHD
-http://4p.vc:80/K7y6g34drYdn/9771144045/73258
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CwtqFOc.png" group-title="●PPV●", Eleven Sports 6 FHD
-http://4p.vc:80/K7y6g34drYdn/9771144045/73259
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SbPNwZQ.png" group-title="●PPV●", Estádio TNT Sports 1 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/21935
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SbPNwZQ.png" group-title="●PPV●", Estádio TNT Sports 2 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/153
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SbPNwZQ.png" group-title="●PPV●", Estádio TNT Sports 3 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/154
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SbPNwZQ.png" group-title="●PPV●", Estádio TNT Sports 4 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/155
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SbPNwZQ.png" group-title="●PPV●", Estádio TNT Sports 5 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/156
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SbPNwZQ.png" group-title="●PPV●", Estádio TNT Sports 6 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/157
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/upVGNqd.png" group-title="●PPV●", Facebook Watch
-http://4p.vc:80/K7y6g34drYdn/9771144045/73005
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/upVGNqd.png" group-title="●PPV●", Facebook Watch 2 
-http://4p.vc:80/K7y6g34drYdn/9771144045/79316
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/upVGNqd.png" group-title="●PPV●", Facebook Watch 3 
-http://4p.vc:80/K7y6g34drYdn/9771144045/79317
-
-
-
-___________________FILMES E SÉRIES_________________
-
-
-
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Filmes e Séries", AMC FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/550
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Filmes e Séries", AMC HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/234
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Filmes e Séries", AMC SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/742
-
-#EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Filmes e Séries", AXN FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/419
-
-#EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Filmes e Séries", AXN HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/233
-
-#EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Filmes e Séries", AXN SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/557
-
-#EXTINF:-1 tvg-logo="http://a5.vc/1MP" group-title="Filmes e Séries", Canal Brasil FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/460
-
-#EXTINF:-1 tvg-logo="http://a5.vc/1MP" group-title="Filmes e Séries", Canal Brasil HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/237
-
-#EXTINF:-1 tvg-logo="http://a5.vc/1MP" group-title="Filmes e Séries", Canal Brasil SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/564
-
-#EXTINF:-1 tvg-logo="http://a5.vc/j8T" group-title="Filmes e Séries", Cinemax FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/461
-
-#EXTINF:-1 tvg-logo="http://a5.vc/j8T" group-title="Filmes e Séries", Cinemax HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/240
-
-#EXTINF:-1 tvg-logo="http://a5.vc/j8T" group-title="Filmes e Séries", Cinemax SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/566
-
-#EXTINF:-1 tvg-logo="http://a5.vc/JsW" group-title="Filmes e Séries", FX FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/470
-
-#EXTINF:-1 tvg-logo="http://a5.vc/JsW" group-title="Filmes e Séries", FX HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/275
-
-#EXTINF:-1 tvg-logo="http://a5.vc/JsW" group-title="Filmes e Séries", FX SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/589
-
-#EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="Filmes e Séries", HBO FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/435
-
-#EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="Filmes e Séries", HBO HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/194
-
-#EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="Filmes e Séries", HBO SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/606
-
-#EXTINF:-1 tvg-logo="http://a5.vc/0qQ" group-title="Filmes e Séries", HBO 2 FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/434
-
-#EXTINF:-1 tvg-logo="http://a5.vc/0qQ" group-title="Filmes e Séries", HBO 2 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/195
-
-#EXTINF:-1 tvg-logo="http://a5.vc/0qQ" group-title="Filmes e Séries", HBO 2 SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/602
-
-#EXTINF:-1 tvg-logo="http://a5.vc/u4M" group-title="Filmes e Séries", HBO Family FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/497
-
-#EXTINF:-1 tvg-logo="http://a5.vc/u4M" group-title="Filmes e Séries", HBO Family HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/274
-
-#EXTINF:-1 tvg-logo="http://a5.vc/u4M" group-title="Filmes e Séries", HBO Family SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/603
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Filmes e Séries", HBO Mundi FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/325
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Filmes e Séries", HBO Mundi HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/44
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Filmes e Séries", HBO Mundi SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/613
-
-#EXTINF:-1 tvg-logo="http://a5.vc/60H" group-title="Filmes e Séries", HBO Plus FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/436
-
-#EXTINF:-1 tvg-logo="http://a5.vc/60H" group-title="Filmes e Séries", HBO Plus HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/40
-
-#EXTINF:-1 tvg-logo="http://a5.vc/60H" group-title="Filmes e Séries", HBO Plus SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/604
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Filmes e Séries", HBO Pop FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/529
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Filmes e Séries", HBO Pop HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/46
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Filmes e Séries", HBO Pop SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/612
-
-#EXTINF:-1 tvg-logo="http://a5.vc/2N4" group-title="Filmes e Séries", HBO Signature FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/472
-
-#EXTINF:-1 tvg-logo="http://a5.vc/2N4" group-title="Filmes e Séries", HBO Signature HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/265
-
-#EXTINF:-1 tvg-logo="http://a5.vc/2N4" group-title="Filmes e Séries", HBO Signature SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/605
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Filmes e Séries", HBO Xtreme FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/437
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Filmes e Séries", HBO Xtreme HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/198
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Filmes e Séries", HBO Xtreme SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/611
-
-#EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="Filmes e Séries", Megapix FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/521
-
-#EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="Filmes e Séries", Megapix HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/255
-
-#EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="Filmes e Séries", Megapix SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/614
-
-#EXTINF:-1 tvg-logo="http://a5.vc/uRn" group-title="Filmes e Séries", Paramount Channel FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/479
-
-#EXTINF:-1 tvg-logo="http://a5.vc/uRn" group-title="Filmes e Séries", Paramount Channel HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/276
-
-#EXTINF:-1 tvg-logo="http://a5.vc/uRn" group-title="Filmes e Séries", Paramount Channel SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/624
-
-#EXTINF:-1 tvg-logo="http://a5.vc/MNj" group-title="Filmes e Séries", Space FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/449
-
-#EXTINF:-1 tvg-logo="http://a5.vc/MNj" group-title="Filmes e Séries", Space HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/271
-
-#EXTINF:-1 tvg-logo="http://a5.vc/MNj" group-title="Filmes e Séries", Space SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/637
-
-#EXTINF:-1 tvg-logo="http://a5.vc/tSP" group-title="Filmes e Séries", Sony Channel FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/485
-
-#EXTINF:-1 tvg-logo="http://a5.vc/tSP" group-title="Filmes e Séries", Sony Channel HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/238
-
-#EXTINF:-1 tvg-logo="http://a5.vc/tSP" group-title="Filmes e Séries", Sony Channel SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/636
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Filmes e Séries", Star Channel FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/427
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Filmes e Séries", Star Channel HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/272
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Filmes e Séries", Star Channel SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/588
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starhits.png" group-title="Filmes e Séries", Star Hits FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/429
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starhits.png" group-title="Filmes e Séries", Star Hits HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/273
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starhits.png" group-title="Filmes e Séries", Star Hits SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/693
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starhits2.png" group-title="Filmes e Séries", Star Hits 2 FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/430
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starhits2.png" group-title="Filmes e Séries", Star Hits 2 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/193
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starhits2.png" group-title="Filmes e Séries", Star Hits 2 SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/692
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starlife.png" group-title="Filmes e Séries", Star Life FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/428
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starlife.png" group-title="Filmes e Séries", Star Life HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/192
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starlife.png" group-title="Filmes e Séries", Star Life SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/585
-
-#EXTINF:-1 tvg-logo="http://a5.vc/u7I" group-title="Filmes e Séries", Studio Universal FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/549
-
-#EXTINF:-1 tvg-logo="http://a5.vc/u7I" group-title="Filmes e Séries", Studio Universal HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/60
-
-#EXTINF:-1 tvg-logo="http://a5.vc/u7I" group-title="Filmes e Séries", Studio Universal SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/641
-
-#EXTINF:-1 tvg-logo="http://a5.vc/cts" group-title="Filmes e Séries", SyFy FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/486
-
-#EXTINF:-1 tvg-logo="http://a5.vc/cts" group-title="Filmes e Séries", SyFy HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/260
-
-#EXTINF:-1 tvg-logo="http://a5.vc/cts" group-title="Filmes e Séries", SyFy SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/642
-
-#EXTINF:-1 tvg-logo="http://a5.vc/BsL" group-title="Filmes e Séries", Telecine Action FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/447
-
-#EXTINF:-1 tvg-logo="http://a5.vc/BsL" group-title="Filmes e Séries", Telecine Action HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/216
-
-#EXTINF:-1 tvg-logo="http://a5.vc/BsL" group-title="Filmes e Séries", Telecine Action SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/644
-
-#EXTINF:-1 tvg-logo="http://a5.vc/DZP" group-title="Filmes e Séries", Telecine Cult FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/522
-
-#EXTINF:-1 tvg-logo="http://a5.vc/DZP" group-title="Filmes e Séries", Telecine Cult HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/259
-
-#EXTINF:-1 tvg-logo="http://a5.vc/DZP" group-title="Filmes e Séries", Telecine Cult SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/645
-
-#EXTINF:-1 tvg-logo="http://a5.vc/TLE" group-title="Filmes e Séries", Telecine Fun FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/446
-
-#EXTINF:-1 tvg-logo="http://a5.vc/TLE" group-title="Filmes e Séries", Telecine Fun HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/217
-
-#EXTINF:-1 tvg-logo="http://a5.vc/TLE" group-title="Filmes e Séries", Telecine Fun SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/646
-
-#EXTINF:-1 tvg-logo="http://a5.vc/mOL" group-title="Filmes e Séries", Telecine Pipoca FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/445
-
-#EXTINF:-1 tvg-logo="http://a5.vc/mOL" group-title="Filmes e Séries", Telecine Pipoca HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/218
-
-#EXTINF:-1 tvg-logo="http://a5.vc/mOL" group-title="Filmes e Séries", Telecine Pipoca SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/647
-
-#EXTINF:-1 tvg-logo="http://a5.vc/N8x" group-title="Filmes e Séries", Telecine Premium FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/444
-
-#EXTINF:-1 tvg-logo="http://a5.vc/N8x" group-title="Filmes e Séries", Telecine Premium HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/219
-
-#EXTINF:-1 tvg-logo="http://a5.vc/N8x" group-title="Filmes e Séries", Telecine Premium SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/648
-
-#EXTINF:-1 tvg-logo="http://a5.vc/rBW" group-title="Filmes e Séries", Telecine Touch FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/443
-
-#EXTINF:-1 tvg-logo="http://a5.vc/rBW" group-title="Filmes e Séries", Telecine Touch HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/220
-
-#EXTINF:-1 tvg-logo="http://a5.vc/rBW" group-title="Filmes e Séries", Telecine Touch SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/649
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Crr" group-title="Filmes e Séries", TBS FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/383
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Crr" group-title="Filmes e Séries", TBS HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/215
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Crr" group-title="Filmes e Séries", TBS SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/643
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x0uPFhs.png" group-title="Filmes e Séries", TCM FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/378
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x0uPFhs.png" group-title="Filmes e Séries", TCM HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/88
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x0uPFhs.png" group-title="Filmes e Séries", TCM SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/650
-
-#EXTINF:-1 tvg-logo="http://a5.vc/gOR" group-title="Filmes e Séries", TNT FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/501
-
-#EXTINF:-1 tvg-logo="http://a5.vc/gOR" group-title="Filmes e Séries", TNT HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/251
-
-#EXTINF:-1 tvg-logo="http://a5.vc/gOR" group-title="Filmes e Séries", TNT SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/654
-
-#EXTINF:-1 tvg-logo="http://a5.vc/oQe" group-title="Filmes e Séries", TNT Series FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/442
-
-#EXTINF:-1 tvg-logo="http://a5.vc/oQe" group-title="Filmes e Séries", TNT Series HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/222
-
-#EXTINF:-1 tvg-logo="http://a5.vc/oQe" group-title="Filmes e Séries", TNT Series SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/653
-
-#EXTINF:-1 tvg-logo="http://a5.vc/8CR" group-title="Filmes e Séries", Universal TV FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/359
-
-#EXTINF:-1 tvg-logo="http://a5.vc/8CR" group-title="Filmes e Séries", Universal TV HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/69
-
-#EXTINF:-1 tvg-logo="http://a5.vc/8CR" group-title="Filmes e Séries", Universal TV SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/658
-
-#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Filmes e Séries", Warner Channel FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/441
-
-#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Filmes e Séries", Warner Channel HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/226
-
-#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Filmes e Séries", Warner Channel SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/661
-
-
-
-___________________CINE SKY_________________
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r2Tu86N.png" group-title="●Cine SKY●", Cine SKY 1 HD
-http://4p.vc:80/K7y6g34drYdn/9771144045/50883
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r2Tu86N.png" group-title="●Cine SKY●", Cine SKY 1a HD
-http://vipeiptv.com:25461/17663190818/17663190818/956729
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r2Tu86N.png" group-title="●Cine SKY●", Cine SKY 2 HD
-http://4p.vc:80/K7y6g34drYdn/9771144045/50884
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r2Tu86N.png" group-title="●Cine SKY●", Cine SKY 2a HD
-http://vipeiptv.com:25461/17663190818/17663190818/956730
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r2Tu86N.png" group-title="●Cine SKY●", Cine SKY 3 HD
-http://4p.vc:80/K7y6g34drYdn/9771144045/52433
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r2Tu86N.png" group-title="●Cine SKY●", Cine SKY 3a HD
-http://vipeiptv.com:25461/17663190818/17663190818/956731
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r2Tu86N.png" group-title="●Cine SKY●", Cine SKY 4 HD
-http://4p.vc:80/K7y6g34drYdn/9771144045/52434
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r2Tu86N.png" group-title="●Cine SKY●", Cine SKY 4a HD
-http://vipeiptv.com:25461/17663190818/17663190818/956732
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r2Tu86N.png" group-title="●Cine SKY●", Cine SKY 5 HD
-http://4p.vc:80/K7y6g34drYdn/9771144045/52435
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r2Tu86N.png" group-title="●Cine SKY●", Cine SKY 5a HD
-http://vipeiptv.com:25461/17663190818/17663190818/956733
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r2Tu86N.png" group-title="●Cine SKY●", Cine SKY 6 HD
-http://4p.vc:80/K7y6g34drYdn/9771144045/84526
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r2Tu86N.png" group-title="●Cine SKY●", Cine SKY 6a HD
-http://vipeiptv.com:25461/17663190818/17663190818/956734
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r2Tu86N.png" group-title="●Cine SKY●", Cine SKY 7 HD
-http://4p.vc:80/K7y6g34drYdn/9771144045/84527
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r2Tu86N.png" group-title="●Cine SKY●", Cine SKY 7a HD
-http://vipeiptv.com:25461/17663190818/17663190818/956735
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r2Tu86N.png" group-title="●Cine SKY●", Cine SKY 8 HD
-http://receita.xyz:2082/live/80526339/85012989/93209.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r2Tu86N.png" group-title="●Cine SKY●", Cine SKY 8a HD
-http://vipeiptv.com:25461/17663190818/17663190818/956736
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r2Tu86N.png" group-title="●Cine SKY●", Cine SKY 9 HD
-http://receita.xyz:2082/live/80526339/85012989/93210.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r2Tu86N.png" group-title="●Cine SKY●", Cine SKY 9a HD
-http://vipeiptv.com:25461/17663190818/17663190818/956737
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r2Tu86N.png" group-title="●Cine SKY●", Cine SKY 10 HD
-http://receita.xyz:2082/live/80526339/85012989/93211.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r2Tu86N.png" group-title="●Cine SKY●", Cine SKY 10a HD
-http://vipeiptv.com:25461/17663190818/17663190818/956738
-
-
-___________________CINE PIPOCA_________________
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/94LL42q.png" group-title="●Cine Pipoca●", Cine Pipoca 1
-http://snxt.online:80/fabricio2021/fabricio2021/222401
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/94LL42q.png" group-title="●Cine Pipoca●", Cine Pipoca 2
-http://snxt.online:80/fabricio2021/fabricio2021/222402
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/94LL42q.png" group-title="●Cine Pipoca●", Cine Pipoca 3
-http://snxt.online:80/fabricio2021/fabricio2021/222403
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/94LL42q.png" group-title="●Cine Pipoca●", Cine Pipoca 4
-http://snxt.online:80/fabricio2021/fabricio2021/222404
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/94LL42q.png" group-title="●Cine Pipoca●", Cine Pipoca 5
-http://snxt.online:80/fabricio2021/fabricio2021/222405
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ca/01/21/ca0121fef5f7db31691cff0c5e8a1cc3.png" group-title="●Cine Pipoca●", Cine Pipoca Disney
-http://vipeiptv.com:25461/17663190818/17663190818/956696
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/Marvel_Comics-logo-821795DF15-seeklogo.com.png" group-title="●Cine Pipoca●", Cine Pipoca Marvel
-http://vipeiptv.com:25461/17663190818/17663190818/956698
-
-
-
-#EXTINF:-1,CINE DISNEY VIP
-http://vipeiptv.com:25461/17663190818/17663190818/956696
-
-#EXTINF:-1,CINE MARVEL VIP
-http://vipeiptv.com:25461/17663190818/17663190818/956698
-
-
-
-___________________VARIEDADES_________________
-___________________VARIEDADES_________________
-___________________VARIEDADES_________________
-___________________VARIEDADES_________________
-___________________VARIEDADES_________________
-___________________VARIEDADES_________________
-___________________VARIEDADES_________________
-
-
-
-___________________ 24 HORAS _________________
-
-
-#EXTINF:-1,24H ACUMULADORES
-http://vipeiptv.com:25461/17663190818/17663190818/925586
-#EXTINF:-1,24H CHAVES - CHAPOLI
-http://vipeiptv.com:25461/17663190818/17663190818/925591
-#EXTINF:-1,24H EU A PATROA E AS CRIANÇAS
-http://vipeiptv.com:25461/17663190818/17663190818/925592
-#EXTINF:-1,24H IRMAOS A OBRA
-http://vipeiptv.com:25461/17663190818/17663190818/925588
-#EXTINF:-1,24H LARGADOS E PELADOS BRASIL
-http://vipeiptv.com:25461/17663190818/17663190818/925598
-#EXTINF:-1,24H MYTBUSTER CAÇADORES DE MITOS
-http://vipeiptv.com:25461/17663190818/17663190818/925595
-#EXTINF:-1,24H PEGADINHA JÃO KLEBER
-http://vipeiptv.com:25461/17663190818/17663190818/925599
-#EXTINF:-1,24H PESADELO NA COZINHA
-http://vipeiptv.com:25461/17663190818/17663190818/925589
-#EXTINF:-1,24H POLICIA 24 HORAS
-http://vipeiptv.com:25461/17663190818/17663190818/925597
-#EXTINF:-1,24H PRONTO SOCORRO HISTORIAS DE EMERGENCIA
-http://vipeiptv.com:25461/17663190818/17663190818/925596
-#EXTINF:-1,24H STAND UP DANILO GENTILI
-http://vipeiptv.com:25461/17663190818/17663190818/925590
-#EXTINF:-1,24H TESTE DE FIDELIDADE
-http://vipeiptv.com:25461/17663190818/17663190818/925584
-#EXTINF:-1,24H TRAPALHOES
-http://vipeiptv.com:25461/17663190818/17663190818/925583
-#EXTINF:-1,24H TRATO FEITO
-http://vipeiptv.com:25461/17663190818/17663190818/925594
-#EXTINF:-1,24H VAI QUE COLA
-http://vipeiptv.com:25461/17663190818/17663190818/925593
-#EXTINF:-1,24H VIDEO CASSETADAS
-http://vipeiptv.com:25461/17663190818/17663190818/925587
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="3 PALAVRINHAS [24 horas] " tvg-logo="https://i.imgur.com/hO3m7fb.png" group-title="★Desenhos | 24hrs",3 PALAVRINHAS [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95331.m3u8
-#EXTINF:-1 tvg-id="0" tvg-name="44 GATOS [24 horas] " tvg-logo="https://i.imgur.com/7VoYvAh.png" group-title="★Desenhos | 24hrs",44 GATOS [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95384.m3u8
-#EXTINF:-1 tvg-id="0" tvg-name="A CASA DO MICKEY MOUSE [24 horas] " tvg-logo="https://i.imgur.com/spDtUGY.png" group-title="★Desenhos | 24hrs",A CASA DO MICKEY MOUSE [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95399.m3u8
-#EXTINF:-1 tvg-id="0" tvg-name="A LARANJA IRRITANTE [24 horas] " tvg-logo="https://i.imgur.com/daimszl.png" group-title="★Desenhos | 24hrs",A LARANJA IRRITANTE [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95539.m3u8
-#EXTINF:-1 tvg-id="0" tvg-name="A TURMA DA PANTERA COR DE ROSA [24 horas]" tvg-logo="https://i.imgur.com/ML6qhg5.png" group-title="★Desenhos | 24hrs",A TURMA DA PANTERA COR DE ROSA [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/95328.m3u8
-#EXTINF:-1 tvg-id="-InfantisEspeciais" tvg-name="A TURMA DO CHARLIE BROWN [24 horas]" tvg-logo="https://i.imgur.com/uDExYVa.png" group-title="★Desenhos | 24hrs",A TURMA DO CHARLIE BROWN [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/99182.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="A TURMA DO ZÉ COLMÉIA [24 horas]" tvg-logo="https://i.imgur.com/pjt0rFr.png" group-title="★Desenhos | 24hrs",A TURMA DO ZÉ COLMÉIA [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/95388.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="A VACA E O FRANGO [24 horas] " tvg-logo="https://i.imgur.com/RBnBuhg.png" group-title="★Desenhos | 24hrs",A VACA E O FRANGO [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95346.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="A VIDA MODERNA DE ROCKO [24 horas] " tvg-logo="https://i.imgur.com/tW0QJJM.png" group-title="★Desenhos | 24hrs",A VIDA MODERNA DE ROCKO [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95374.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="ANIMANIACS [24 horas] " tvg-logo="https://i.imgur.com/fcINo48.png" group-title="★Desenhos | 24hrs",ANIMANIACS [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95311.m3u8
-#EXTINF:-1 tvg-id="0" tvg-name="ANIMAZOO [24 horas] " tvg-logo="https://i.imgur.com/1oKfC9g.png" group-title="★Desenhos | 24hrs",ANIMAZOO [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95401.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="AS AVENTURAS DE TOM & JERRY [24 horas] " tvg-logo="https://i.imgur.com/WRQQpb5.png" group-title="★Desenhos | 24hrs",AS AVENTURAS DE TOM & JERRY [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95419.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="AS TARTARUGAS NINJAS CLASSICO [24 horas]" tvg-logo="https://i.imgur.com/zKGJ0Sx.png" group-title="★Desenhos | 24hrs",AS TARTARUGAS NINJAS CLASSICO [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/97876.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="AVATAR A LENDA DE KORA [24 horas] H265 " tvg-logo="https://i.imgur.com/jbxJ5ai.png" group-title="★Desenhos | 24hrs",AVATAR A LENDA DE KORA [24 horas] H265 
-http://receita.xyz:2082/live/80526339/85012989/95306.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="BABY LOONEY TUNES [24 horas] " tvg-logo="https://i.imgur.com/7D9xwDo.png" group-title="★Desenhos | 24hrs",BABY LOONEY TUNES [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95402.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="BANANAS DE PIJAMAS DESENHO [24 horas] " tvg-logo="https://i.imgur.com/IuovjNo.png" group-title="★Desenhos | 24hrs",BANANAS DE PIJAMAS DESENHO [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95352.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="BATMAN: A SÉRIE ANIMADA [24 horas]" tvg-logo="https://i.imgur.com/H6QGidP.png" group-title="★Desenhos | 24hrs",BATMAN: A SÉRIE ANIMADA [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/100227.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="BEN 10 [24 horas] " tvg-logo="https://i.imgur.com/v4eJcSH.png" group-title="★Desenhos | 24hrs",BEN 10 [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95406.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="BEN 10 OMNIVERSE [24 horas] " tvg-logo="https://i.imgur.com/CVwcqTd.png" group-title="★Desenhos | 24hrs",BEN 10 OMNIVERSE [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95405.m3u8
-#EXTINF:-1 tvg-id="-InfantisEspeciais" tvg-name="BLAZE E OS MONSTER MACHINES [24 horas]" tvg-logo="https://i.imgur.com/B2sbeaE.png" group-title="★Desenhos | 24hrs",BLAZE E OS MONSTER MACHINES [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/99183.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="BOB CONSTRUTOR 1999 [24 horas] " tvg-logo="https://i.imgur.com/jdvS7lx.png" group-title="★Desenhos | 24hrs",BOB CONSTRUTOR 1999 [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95364.m3u8
-#EXTINF:-1 tvg-id="EliteBobEsponja.br" tvg-name="BOB ESPONJA T01 A 04 [24 horas]" tvg-logo="https://i.imgur.com/tw7o7Rb.png" group-title="★Desenhos | 24hrs",BOB ESPONJA T01 A 04 [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/95317.m3u8
-#EXTINF:-1 tvg-id="EliteBobEsponja.br" tvg-name="BOB ESPONJA T05 A 08 [24 horas]" tvg-logo="https://i.imgur.com/tw7o7Rb.png" group-title="★Desenhos | 24hrs",BOB ESPONJA T05 A 08 [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/97919.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="BOB ZOOM [24 horas] " tvg-logo="https://i.imgur.com/SjiOg9l.png" group-title="★Desenhos | 24hrs",BOB ZOOM [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95412.m3u8
-#EXTINF:-1 tvg-id="-InfantisEspeciais" tvg-name="BOLOFOFOS  [24 horas] ¹" tvg-logo="https://i.imgur.com/eT7vV8k.png" group-title="★Desenhos | 24hrs",BOLOFOFOS  [24 horas] ¹
-http://receita.xyz:2082/live/80526339/85012989/99949.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="BOOBA [24 horas]" tvg-logo="https://i.imgur.com/hVERiqF.png" group-title="★Desenhos | 24hrs",BOOBA [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/95356.m3u8
-#EXTINF:-1 tvg-id="EliteNaruto.br" tvg-name="BORUTO NARUTO NEXT GENERATIONS [24 horas] " tvg-logo="https://i.imgur.com/VGfIZ46.png" group-title="★Desenhos | 24hrs",BORUTO NARUTO NEXT GENERATIONS [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/98106.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="BRAVESTAR [24 horas] " tvg-logo="https://i.imgur.com/lze1vO8.png" group-title="★Desenhos | 24hrs",BRAVESTAR [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95408.m3u8
-#EXTINF:-1 tvg-id="-InfantisEspeciais" tvg-name="BUBBLE GUPPIES [24 horas]" tvg-logo="https://i.imgur.com/Ck1oc07.png" group-title="★Desenhos | 24hrs",BUBBLE GUPPIES [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/99184.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="BUBU E AS CORUJINHAS [24 horas] " tvg-logo="https://i.imgur.com/e6BigoM.png" group-title="★Desenhos | 24hrs",BUBU E AS CORUJINHAS [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95299.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="CANÇÕES DE NINAR [24 horas] " tvg-logo="https://i.imgur.com/3l6EqG8.png" group-title="★Desenhos | 24hrs",CANÇÕES DE NINAR [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95307.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="CAPITÃO CAVERNA [24 horas]" tvg-logo="https://i.imgur.com/ygntFcM.png" group-title="★Desenhos | 24hrs",CAPITÃO CAVERNA [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/95358.m3u8
-#EXTINF:-1 tvg-id="-InfantisEspeciais" tvg-name="CAPITÃO PLANETA [24 horas]" tvg-logo="https://i.imgur.com/CnaWUOy.png" group-title="★Desenhos | 24hrs",CAPITÃO PLANETA [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/97920.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="CASTORES PIRADOS [24 horas]" tvg-logo="https://i.imgur.com/YftTMPj.png" group-title="★Desenhos | 24hrs",CASTORES PIRADOS [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/95347.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="CAVALO DE FOGO [24 horas] " tvg-logo="https://i.imgur.com/niDmymc.png" group-title="★Desenhos | 24hrs",CAVALO DE FOGO [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95413.m3u8
-#EXTINF:-1 tvg-id="EliteCaverna.br" tvg-name="CAVERNA DO DRAGÃO [24 horas]" tvg-logo="https://i.imgur.com/8aTWDVe.png" group-title="★Desenhos | 24hrs",CAVERNA DO DRAGÃO [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/95324.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="CLARÊNCIO O OTIMISTA [24 horas]" tvg-logo="https://i.imgur.com/EW9649l.png" group-title="★Desenhos | 24hrs",CLARÊNCIO O OTIMISTA [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/95415.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="COMANDOS EM AÇÃO [24 horas]" tvg-logo="https://4.bp.blogspot.com/-WnPrw1enGQ0/Wf9k-LmA6KI/AAAAAAAAWoA/P6DcVk31KsghtXtBnuOsz9GIAkMQst0DQCLcBGAs/s1600/gijoe.png" group-title="★Desenhos | 24hrs",COMANDOS EM AÇÃO [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/92916.m3u8
-#EXTINF:-1 tvg-id="EliteMasha.br" tvg-name="CONTOS ASSUSTADORES DA MASHA [24 horas] " tvg-logo="https://i.imgur.com/PYDkBzn.png" group-title="★Desenhos | 24hrs",CONTOS ASSUSTADORES DA MASHA [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95365.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="CORAGEM O CÃO COVARDE [24 horas] " tvg-logo="https://i.imgur.com/Te22KpX.png" group-title="★Desenhos | 24hrs",CORAGEM O CÃO COVARDE [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95416.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="DANIEL TIGRE [24 horas] " tvg-logo="https://i.imgur.com/Hb8UHW8.png" group-title="★Desenhos | 24hrs",DANIEL TIGRE [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95301.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="DE VOLTA PARA O FUTURO DESENHO [24 horas]" tvg-logo="https://i.imgur.com/5jSAQi9.png" group-title="★Desenhos | 24hrs",DE VOLTA PARA O FUTURO DESENHO [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/95417.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="DESENCANTO [24 horas]" tvg-logo="https://i.imgur.com/AwvgcYp.png" group-title="★Desenhos | 24hrs",DESENCANTO [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/95418.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="DESENHOS BIBLICOS [24 horas] " tvg-logo="https://i.imgur.com/PnEWAEH.png" group-title="★Desenhos | 24hrs",DESENHOS BIBLICOS [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95420.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="DIGIMON [24 horas] " tvg-logo="https://i.imgur.com/nXD34cb.png" group-title="★Desenhos | 24hrs",DIGIMON [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95423.m3u8
-#EXTINF:-1 tvg-id="EliteDora.br" tvg-name="DORA AVENTUREIRA [24 horas]" tvg-logo="https://i.imgur.com/ThRLKdY.png" group-title="★Desenhos | 24hrs",DORA AVENTUREIRA [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/99969.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="DOUG [24 horas]" tvg-logo="https://i.imgur.com/bG0HXkN.png" group-title="★Desenhos | 24hrs",DOUG [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/95427.m3u8
-#EXTINF:-1 tvg-id="-InfantisEspeciais" tvg-name="DOUTORA BRINQUEDOS [24 horas]" tvg-logo="https://i.imgur.com/tuGqfgz.png" group-title="★Desenhos | 24hrs",DOUTORA BRINQUEDOS [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/98087.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="DR. STONE [24 horas]" tvg-logo="https://i.imgur.com/f9WESoP.png" group-title="★Desenhos | 24hrs",DR. STONE [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/97875.m3u8
-#EXTINF:-1 tvg-id="EliteDBZ.br" tvg-name="DRAGON BALL LONGAS [24 horas] " tvg-logo="https://i.imgur.com/lDirxnj.png" group-title="★Desenhos | 24hrs",DRAGON BALL LONGAS [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95355.m3u8
-#EXTINF:-1 tvg-id="EliteDBZ.br" tvg-name="DRAGONBALL CLASSICO [24 horas] " tvg-logo="https://i.imgur.com/lDirxnj.png" group-title="★Desenhos | 24hrs",DRAGONBALL CLASSICO [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95327.m3u8
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="DRAGONBALL SUPER H265 [24 horas]" tvg-logo="https://i.imgur.com/lDirxnj.png" group-title="★Desenhos | 24hrs",DRAGONBALL SUPER H265 [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/95389.m3u8
-#EXTINF:-1 tvg-id="EliteDBZ.br" tvg-name="DRAGONBALL Z SAGA ANDROIDES [24 horas]" tvg-logo="https://i.imgur.com/lDirxnj.png" group-title="★Desenhos | 24hrs",DRAGONBALL Z SAGA ANDROIDES [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/95393.m3u8
-#EXTINF:-1 tvg-id="EliteDBZ.br" tvg-name="DRAGONBALL Z SAGA BABIDI [24 horas]" tvg-logo="https://i.imgur.com/lDirxnj.png" group-title="★Desenhos | 24hrs",DRAGONBALL Z SAGA BABIDI [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/95397.m3u8
-#EXTINF:-1 tvg-id="EliteDBZ.br" tvg-name="DRAGONBALL Z SAGA CELL [24 horas]" tvg-logo="https://i.imgur.com/lDirxnj.png" group-title="★Desenhos | 24hrs",DRAGONBALL Z SAGA CELL [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/95394.m3u8
-#EXTINF:-1 tvg-id="EliteDBZ.br" tvg-name="DRAGONBALL Z SAGA FREEZA [24 horas] " tvg-logo="https://i.imgur.com/lDirxnj.png" group-title="★Desenhos | 24hrs",DRAGONBALL Z SAGA FREEZA [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95392.m3u8
-#EXTINF:-1 tvg-id="EliteDBZ.br" tvg-name="DRAGONBALL Z SAGA MAJINBU [24 horas] " tvg-logo="https://i.imgur.com/lDirxnj.png" group-title="★Desenhos | 24hrs",DRAGONBALL Z SAGA MAJINBU [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95398.m3u8
-#EXTINF:-1 tvg-id="EliteDBZ.br" tvg-name="DRAGONBALL Z SAGA NAMEKUSEI [24 horas] " tvg-logo="https://i.imgur.com/lDirxnj.png" group-title="★Desenhos | 24hrs",DRAGONBALL Z SAGA NAMEKUSEI [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95391.m3u8
-#EXTINF:-1 tvg-id="EliteDBZ.br" tvg-name="DRAGONBALL Z SAGA SAYAJIN [24 horas] " tvg-logo="https://i.imgur.com/lDirxnj.png" group-title="★Desenhos | 24hrs",DRAGONBALL Z SAGA SAYAJIN [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95390.m3u8
-#EXTINF:-1 tvg-id="EliteDBZ.br" tvg-name="DRAGONBALL Z SAGA SAYAMAN [24 horas] " tvg-logo="https://i.imgur.com/lDirxnj.png" group-title="★Desenhos | 24hrs",DRAGONBALL Z SAGA SAYAMAN [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95396.m3u8
-#EXTINF:-1 tvg-id="EliteDBZ.br" tvg-name="DRAGONBALL Z SAGA TORNEIO DO CELL [24 horas] " tvg-logo="https://i.imgur.com/lDirxnj.png" group-title="★Desenhos | 24hrs",DRAGONBALL Z SAGA TORNEIO DO CELL [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95395.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="DUCK DODGERS [24 horas] " tvg-logo="https://i.imgur.com/unSdlqU.png" group-title="★Desenhos | 24hrs",DUCK DODGERS [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95430.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="DUCK TALES CLÁSSICO [24 horas] " tvg-logo="https://i.imgur.com/7XfAQl7.png" group-title="★Desenhos | 24hrs",DUCK TALES CLÁSSICO [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95431.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="EU SOU O MAXIMO [24 horas] " tvg-logo="https://i.imgur.com/iehY9Sq.png" group-title="★Desenhos | 24hrs",EU SOU O MAXIMO [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95348.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="FAISCA & FUMAÇA [24 horas] " tvg-logo="https://i.imgur.com/Wu2rzkz.png" group-title="★Desenhos | 24hrs",FAISCA & FUMAÇA [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95349.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="FLY O PEQUENO GUERREIRO [24 horas] " tvg-logo="https://i.imgur.com/GuuBOpP.png" group-title="★Desenhos | 24hrs",FLY O PEQUENO GUERREIRO [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95441.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="FORMIGA ATÔMICA [24 horas] " tvg-logo="https://i.imgur.com/RePOdhr.png" group-title="★Desenhos | 24hrs",FORMIGA ATÔMICA [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95433.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="FRANKSTEIN JR E OS IMPOSSIVEÍS [24 horas] " tvg-logo="https://i.imgur.com/bwoAeTr.png" group-title="★Desenhos | 24hrs",FRANKSTEIN JR E OS IMPOSSIVEÍS [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95409.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="FREAKAZOID [24 horas] " tvg-logo="https://i.imgur.com/x9L9YUF.png" group-title="★Desenhos | 24hrs",FREAKAZOID [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95344.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="FUTURAMA [24 horas]" tvg-logo="https://i.imgur.com/e3YceVh.png" group-title="★Desenhos | 24hrs",FUTURAMA [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/95345.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="FÁBULAS DA DISNEY [24 horas] " tvg-logo="https://i.imgur.com/LYKaebZ.png" group-title="★Desenhos | 24hrs",FÁBULAS DA DISNEY [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95432.m3u8
-#EXTINF:-1 tvg-id="EliteGalinhaPintadinha.br" tvg-name="GALINHA BABY [24 horas] " tvg-logo="https://i.imgur.com/Tj4l5ZK.png" group-title="★Desenhos | 24hrs",GALINHA BABY [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95434.m3u8
-#EXTINF:-1 tvg-id="EliteGalinhaPintadinha.br" tvg-name="GALINHA PINTADINHA [24 horas] " tvg-logo="https://i.imgur.com/PBxH1az.png" group-title="★Desenhos | 24hrs",GALINHA PINTADINHA [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95302.m3u8
-#EXTINF:-1 tvg-id="EliteGalinhaPintadinha.br" tvg-name="GALINHA PINTADINHA MINI [24 horas] " tvg-logo="https://i.imgur.com/arAh9n7.png" group-title="★Desenhos | 24hrs",GALINHA PINTADINHA MINI [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95308.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="GATO FELIX [24 horas] " tvg-logo="https://i.imgur.com/LfCybt2.png" group-title="★Desenhos | 24hrs",GATO FELIX [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95350.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="GRAVITY FALLS [24 horas]" tvg-logo="https://i.imgur.com/JoFwDhU.png" group-title="★Desenhos | 24hrs",GRAVITY FALLS [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/97814.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="HE-MAN [24 horas] " tvg-logo="https://i.imgur.com/wSReDFw.png" group-title="★Desenhos | 24hrs",HE-MAN [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95351.m3u8
-#EXTINF:-1 tvg-id="-InfantisEspeciais" tvg-name="INUYASHA [24 horas]" tvg-logo="https://i.imgur.com/eoqSagr.png" group-title="★Desenhos | 24hrs",INUYASHA [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/97894.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="IRMÃO DO JOREL [24 horas] " tvg-logo="https://i.imgur.com/tZyQIFc.png" group-title="★Desenhos | 24hrs",IRMÃO DO JOREL [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95325.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="JAKE E OS PIRATAS [24 horas]" tvg-logo="https://i.imgur.com/EwzHTcs.png" group-title="★Desenhos | 24hrs",JAKE E OS PIRATAS [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/95437.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="JESUS UM REINO SEM FRONTEIRA [24 horas] " tvg-logo="https://i.imgur.com/PnEWAEH.png" group-title="★Desenhos | 24hrs",JESUS UM REINO SEM FRONTEIRA [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95305.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="JONNY QUEST [24 horas] " tvg-logo="https://i.imgur.com/iKVZH6K.png" group-title="★Desenhos | 24hrs",JONNY QUEST [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95439.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="LEGO UMA AVENTURA NA CIDADE [24 horas]" tvg-logo="https://i.imgur.com/t7BXqMw.png" group-title="★Desenhos | 24hrs",LEGO UMA AVENTURA NA CIDADE [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/95429.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="LOUIE [24 horas] " tvg-logo="https://i.imgur.com/vkbhBoV.png" group-title="★Desenhos | 24hrs",LOUIE [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95304.m3u8
-#EXTINF:-1 tvg-id="-InfantisEspeciais" tvg-name="MANNY MÃOS A OBRA [24 horas]" tvg-logo="https://i.imgur.com/9EX7Z7V.png" group-title="★Desenhos | 24hrs",MANNY MÃOS A OBRA [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/98051.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="MEGAMAN CLASSICO [24 horas] " tvg-logo="https://i.imgur.com/HOAxkGd.png" group-title="★Desenhos | 24hrs",MEGAMAN CLASSICO [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95421.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="MEU AMIGÃOZÃO [24 horas] " tvg-logo="https://i.imgur.com/wRyNROI.png" group-title="★Desenhos | 24hrs",MEU AMIGÃOZÃO [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95400.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="MICKEY CLASSICO [24 horas] " tvg-logo="https://i.imgur.com/5Gcj00J.png" group-title="★Desenhos | 24hrs",MICKEY CLASSICO [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95387.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="MORANGUINHO AVENTURAS EM TUTTI FRUTI [24 horas] " tvg-logo="https://i.imgur.com/ifXDkGz.png" group-title="★Desenhos | 24hrs",MORANGUINHO AVENTURAS EM TUTTI FRUTI [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95386.m3u8
-#EXTINF:-1 tvg-id="-InfantisEspeciais" tvg-name="MUCHA LUTA [24 horas]" tvg-logo="https://i.imgur.com/zVydkFn.png" group-title="★Desenhos | 24hrs",MUCHA LUTA [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/97931.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="MUMIAS VIVAS [24 horas] " tvg-logo="https://i.imgur.com/AF9FfqM.png" group-title="★Desenhos | 24hrs",MUMIAS VIVAS [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95385.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="MUNDO BITA [24 horas] " tvg-logo="https://i.imgur.com/ju9V8MT.png" group-title="★Desenhos | 24hrs",MUNDO BITA [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95314.m3u8
-#EXTINF:-1 tvg-id="EliteNaruto.br" tvg-name="NARUTO [24 horas]" tvg-logo="https://i.imgur.com/GR9tC7m.png" group-title="★Desenhos | 24hrs",NARUTO [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/95332.m3u8
-#EXTINF:-1 tvg-id="EliteNaruto.br" tvg-name="NARUTO SHIPPUDEN T01 A 05 [24 horas]" tvg-logo="https://i.imgur.com/GR9tC7m.png" group-title="★Desenhos | 24hrs",NARUTO SHIPPUDEN T01 A 05 [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/98097.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="O INCRÍVEL MUNDO DE GUMBALL [24 horas] " tvg-logo="https://i.imgur.com/mLVsGy8.png" group-title="★Desenhos | 24hrs",O INCRÍVEL MUNDO DE GUMBALL [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95436.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="O PEQUENO SCOOBY-DOO [24 horas]" tvg-logo="https://i.imgur.com/GkGcm90.png" group-title="★Desenhos | 24hrs",O PEQUENO SCOOBY-DOO [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/95380.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="O PEQUENO URSO [24 horas] " tvg-logo="https://i.imgur.com/2KfU8qr.png" group-title="★Desenhos | 24hrs",O PEQUENO URSO [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95383.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="O PODEROSO MIGTHOR [24 horas] " tvg-logo="https://i.imgur.com/foOvv3t.png" group-title="★Desenhos | 24hrs",O PODEROSO MIGTHOR [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95330.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="O SHOW DO GARFIELD [24 horas] " tvg-logo="https://i.imgur.com/M3ezoIq.png" group-title="★Desenhos | 24hrs",O SHOW DO GARFIELD [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95300.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="O SHOW DOS LOONEY TUNES [24 horas] " tvg-logo="https://i.imgur.com/1bHA6TA.png" group-title="★Desenhos | 24hrs",O SHOW DOS LOONEY TUNES [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95435.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="OGGY E AS BARATAS TONTAS [24 horas] " tvg-logo="https://i.imgur.com/SONlFsj.png" group-title="★Desenhos | 24hrs",OGGY E AS BARATAS TONTAS [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95445.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="OQUE HÁ DE NOVO SCOOBY DOO? [24 horas] " tvg-logo="https://i.imgur.com/e3IGWUw.png" group-title="★Desenhos | 24hrs",OQUE HÁ DE NOVO SCOOBY DOO? [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95424.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="OS 7A [24 horas]" tvg-logo="https://i.imgur.com/jcnb9pV.png" group-title="★Desenhos | 24hrs",OS 7A [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/95422.m3u8
-#EXTINF:-1 tvg-id="EliteBackyardigans.br" tvg-name="OS BACKYARDIGANS [24 horas]" tvg-logo="https://i.imgur.com/J8wT0IX.png" group-title="★Desenhos | 24hrs",OS BACKYARDIGANS [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/95403.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="OS CAVALEIROS DO ZODIACO [24 horas] " tvg-logo="https://i.imgur.com/gTdIG9s.png" group-title="★Desenhos | 24hrs",OS CAVALEIROS DO ZODIACO [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95335.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="OS CAÇA FANTASMA DESENHO [24 horas] " tvg-logo="https://i.imgur.com/JQnXvRS.png" group-title="★Desenhos | 24hrs",OS CAÇA FANTASMA DESENHO [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95353.m3u8
-#EXTINF:-1 tvg-id="0" tvg-name="OS GÁRGULAS [24 horas] " tvg-logo="https://i.imgur.com/fCcAy55.png" group-title="★Desenhos | 24hrs",OS GÁRGULAS [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95342.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="OS HERCULÓIDES [24 horas] " tvg-logo="https://i.imgur.com/842Ofaj.png" group-title="★Desenhos | 24hrs",OS HERCULÓIDES [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95326.m3u8
-#EXTINF:-1 tvg-id="EliteJetsons.br" tvg-name="OS JETSONS [24 horas] " tvg-logo="https://i.imgur.com/m9whBWh.png" group-title="★Desenhos | 24hrs",OS JETSONS [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95438.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="OS JOVENS TITÃS EM AÇÃO T-01 Á 04 [24 horas]" tvg-logo="https://i.imgur.com/ltf4WRu.png" group-title="★Desenhos | 24hrs",OS JOVENS TITÃS EM AÇÃO T-01 Á 04 [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/95362.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="OS JOVENS TITÃS EM AÇÃO T05 [24 horas]  " tvg-logo="https://i.imgur.com/ltf4WRu.png" group-title="★Desenhos | 24hrs",OS JOVENS TITÃS EM AÇÃO T05 [24 horas]  
-http://receita.xyz:2082/live/80526339/85012989/95363.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="OS MISTÉRIOS DE PIU-PIU E FRAJOLA [24 horas]" tvg-logo="https://i.imgur.com/EDLwy59.png" group-title="★Desenhos | 24hrs",OS MISTÉRIOS DE PIU-PIU E FRAJOLA [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/95382.m3u8
-#EXTINF:-1 tvg-id="EliteSimpsons.br" tvg-name="OS SIMPSON 2000/2010 [24 horas]" tvg-logo="https://i.imgur.com/TkJ30a4.png" group-title="★Desenhos | 24hrs",OS SIMPSON 2000/2010 [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/95323.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="OS SIMPSONS 1989/1999 [24 horas]" tvg-logo="https://i.imgur.com/qi75zfK.png" group-title="★Desenhos | 24hrs",OS SIMPSONS 1989/1999 [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/95443.m3u8
-#EXTINF:-1 tvg-id="EliteSimpsons.br" tvg-name="OS SIMPSONS 2011-2020 [24 horas] " tvg-logo="https://i.imgur.com/TkJ30a4.png" group-title="★Desenhos | 24hrs",OS SIMPSONS 2011-2020 [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95313.m3u8
-#EXTINF:-1 tvg-id="EliteSimpsons.br" tvg-name="OS SIMPSONS T31 [24 horas]" tvg-logo="https://i.imgur.com/TkJ30a4.png" group-title="★Desenhos | 24hrs",OS SIMPSONS T31 [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/97801.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="OS SMURFS [24 horas] " tvg-logo="https://i.imgur.com/sN2u2F7.png" group-title="★Desenhos | 24hrs",OS SMURFS [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95333.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="OS SNORKS [24 horas] " tvg-logo="https://i.imgur.com/nokktfe.png" group-title="★Desenhos | 24hrs",OS SNORKS [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95315.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="OS URSINHOS CARINHOSOS [24 horas] " tvg-logo="https://i.imgur.com/v59KfeE.png" group-title="★Desenhos | 24hrs",OS URSINHOS CARINHOSOS [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95357.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="PAPA LÉGUAS [24 horas]" tvg-logo="https://i.imgur.com/9RC1k8J.png" group-title="★Desenhos | 24hrs",PAPA LÉGUAS [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/95381.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="PATO DONALD [24 horas] " tvg-logo="https://i.imgur.com/9MBpVv3.png" group-title="★Desenhos | 24hrs",PATO DONALD [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95426.m3u8
-#EXTINF:-1 tvg-id="ElitePatrulha.br" tvg-name="PATRULHA CANINA T01 [24 horas] " tvg-logo="https://i.imgur.com/40jIcCY.png" group-title="★Desenhos | 24hrs",PATRULHA CANINA T01 [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95319.m3u8
-#EXTINF:-1 tvg-id="ElitePatrulha.br" tvg-name="PATRULHA CANINA T02 [24 horas] " tvg-logo="https://i.imgur.com/40jIcCY.png" group-title="★Desenhos | 24hrs",PATRULHA CANINA T02 [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95320.m3u8
-#EXTINF:-1 tvg-id="ElitePatrulha.br" tvg-name="PATRULHA CANINA T03 [24 horas] " tvg-logo="https://i.imgur.com/40jIcCY.png" group-title="★Desenhos | 24hrs",PATRULHA CANINA T03 [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95321.m3u8
-#EXTINF:-1 tvg-id="ElitePatrulha.br" tvg-name="PATRULHA CANINA T04 [24 horas] " tvg-logo="https://i.imgur.com/40jIcCY.png" group-title="★Desenhos | 24hrs",PATRULHA CANINA T04 [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95322.m3u8
-#EXTINF:-1 tvg-id="ElitePatrulha.br" tvg-name="PATRULHA CANINA T05 [24 horas]" tvg-logo="https://i.imgur.com/HFo3Noc.png" group-title="★Desenhos | 24hrs",PATRULHA CANINA T05 [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/98086.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="PEPE LEGAL [24 horas] " tvg-logo="https://i.imgur.com/JSr3rEg.png" group-title="★Desenhos | 24hrs",PEPE LEGAL [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95309.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="PERDIDO NAS ESTRELAS [24 horas] " tvg-logo="https://i.imgur.com/ZZMUl4g.png" group-title="★Desenhos | 24hrs",PERDIDO NAS ESTRELAS [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95334.m3u8
-#EXTINF:-1 tvg-id="ElitePicapau.br" tvg-name="PICA- PAU [24 horas]" tvg-logo="https://i.imgur.com/wA6cVPK.png" group-title="★Desenhos | 24hrs",PICA- PAU [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/95379.m3u8
-#EXTINF:-1 tvg-id="ElitePicapau.br" tvg-name="PICA-PAU CLÁSSICO [24 horas] " tvg-logo="https://i.imgur.com/wA6cVPK.png" group-title="★Desenhos | 24hrs",PICA-PAU CLÁSSICO [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95442.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="PINK E O CEREBRO [24 horas] " tvg-logo="https://i.imgur.com/KMtzzGw.png" group-title="★Desenhos | 24hrs",PINK E O CEREBRO [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95378.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="PLIC & PLOC [24 horas] " tvg-logo="https://i.imgur.com/4CyQmVd.png" group-title="★Desenhos | 24hrs",PLIC & PLOC [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95336.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="POLE POSITION [24 horas] " tvg-logo="https://i.imgur.com/KGiiUUx.png" group-title="★Desenhos | 24hrs",POLE POSITION [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95377.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="POLLY POCKET [24 horas] " tvg-logo="https://i.imgur.com/I8kpJXo.png" group-title="★Desenhos | 24hrs",POLLY POCKET [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95303.m3u8
-#EXTINF:-1 tvg-id="-InfantisEspeciais" tvg-name="POPEYE [24 horas] " tvg-logo="https://i.imgur.com/qLKX3i4.png" group-title="★Desenhos | 24hrs",POPEYE [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/97890.m3u8
-#EXTINF:-1 tvg-id="ElitePowerRangers.br" tvg-name="POWER RANGERS [24 horas] ¹" tvg-logo="https://i.imgur.com/GTqr7kw.png" group-title="★Desenhos | 24hrs",POWER RANGERS [24 horas] ¹
-http://receita.xyz:2082/live/80526339/85012989/99953.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="QUE LEGAL SCOOBY DOO [24 horas] " tvg-logo="https://i.imgur.com/U3lxaCd.png" group-title="★Desenhos | 24hrs",QUE LEGAL SCOOBY DOO [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95425.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="RAMBO DESENHO [24 horas] " tvg-logo="https://i.imgur.com/tRr8noK.png" group-title="★Desenhos | 24hrs",RAMBO DESENHO [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95376.m3u8
-#EXTINF:-1 tvg-id="-InfantisEspeciais" tvg-name="RECRUTA ZERO [24 horas] ¹" tvg-logo="https://i.imgur.com/C9vDgke.png" group-title="★Desenhos | 24hrs",RECRUTA ZERO [24 horas] ¹
-http://receita.xyz:2082/live/80526339/85012989/99952.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="REN & STIMPY [24 horas] " tvg-logo="https://i.imgur.com/9gt2ux5.png" group-title="★Desenhos | 24hrs",REN & STIMPY [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95375.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="ROBOCOP DESENHO [24 horas] " tvg-logo="https://i.imgur.com/6fPl3qY.png" group-title="★Desenhos | 24hrs",ROBOCOP DESENHO [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95337.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="SAKURA CARDCAPTORS [24 horas] " tvg-logo="https://i.imgur.com/Ngols2W.png" group-title="★Desenhos | 24hrs",SAKURA CARDCAPTORS [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95404.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="SAMURAI JACK [24 horas] " tvg-logo="https://i.imgur.com/hvHh9op.png" group-title="★Desenhos | 24hrs",SAMURAI JACK [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95373.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="SCOOBY-DOO & SCOOBY-LOO [24 horas] " tvg-logo="https://i.imgur.com/E0Gb1pw.png" group-title="★Desenhos | 24hrs",SCOOBY-DOO & SCOOBY-LOO [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95338.m3u8
-#EXTINF:-1 tvg-id="-InfantisEspeciais" tvg-name="SHAMAN KING (ANIME) [24 horas]" tvg-logo="https://i.imgur.com/AalVFUP.png" group-title="★Desenhos | 24hrs",SHAMAN KING (ANIME) [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/97930.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="SHAUN O CARNEIRO [24 horas] " tvg-logo="https://i.imgur.com/E5mIRkM.png" group-title="★Desenhos | 24hrs",SHAUN O CARNEIRO [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95444.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="SHAZAAM [24 horas]" tvg-logo="https://i.imgur.com/tGaApJz.png" group-title="★Desenhos | 24hrs",SHAZAAM [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/95372.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="SHE-RA CLASSICA [24 horas] " tvg-logo="https://i.imgur.com/HpaIHyH.png" group-title="★Desenhos | 24hrs",SHE-RA CLASSICA [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95354.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="SILVERHAWKS [24 horas] " tvg-logo="https://i.imgur.com/UVLLQRO.png" group-title="★Desenhos | 24hrs",SILVERHAWKS [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95428.m3u8
-#EXTINF:-1 tvg-id="0" tvg-name="SITIO DO PICA PAU AMARELO [24 horas] " tvg-logo="https://i.imgur.com/QFIqXt7.png" group-title="★Desenhos | 24hrs",SITIO DO PICA PAU AMARELO [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95371.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="SONIC THE HEDGEHOG [24 horas] " tvg-logo="https://i.imgur.com/RYj1BEF.png" group-title="★Desenhos | 24hrs",SONIC THE HEDGEHOG [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95310.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="SOUTH PARK [24 horas] " tvg-logo="https://i.imgur.com/DVTgeUw.png" group-title="★Desenhos | 24hrs",SOUTH PARK [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95340.m3u8
-#EXTINF:-1 tvg-id="-InfantisEspeciais" tvg-name="STAR WARS GUERRA DOS CLONES T01 A 04 [24 horas] " tvg-logo="https://i.imgur.com/MzXHsuT.png" group-title="★Desenhos | 24hrs",STAR WARS GUERRA DOS CLONES T01 A 04 [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/98067.m3u8
-#EXTINF:-1 tvg-id="-InfantisEspeciais" tvg-name="STAR WARS GUERRA DOS CLONES T05 A 07 [24 horas]" tvg-logo="https://i.imgur.com/MzXHsuT.png" group-title="★Desenhos | 24hrs",STAR WARS GUERRA DOS CLONES T05 A 07 [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/98068.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="STREET FIGHTER [24 horas] " tvg-logo="https://i.imgur.com/Msqq1q9.png" group-title="★Desenhos | 24hrs",STREET FIGHTER [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95370.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="SUPER CHOQUE [24 horas] " tvg-logo="https://i.imgur.com/bK3tlTp.png" group-title="★Desenhos | 24hrs",SUPER CHOQUE [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95407.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="SUPERAMIGOS [24 horas] " tvg-logo="https://i.imgur.com/ceXzLf5.png" group-title="★Desenhos | 24hrs",SUPERAMIGOS [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95369.m3u8
-#EXTINF:-1 tvg-id="0" tvg-name="SUPERCAMPEÕES [24 horas] " tvg-logo="https://i.imgur.com/ucGVEbf.png" group-title="★Desenhos | 24hrs",SUPERCAMPEÕES [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95368.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="SURFISTA PRATEADO [24 horas] " tvg-logo="https://i.imgur.com/6Wv5vAC.png" group-title="★Desenhos | 24hrs",SURFISTA PRATEADO [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95339.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="TAZ MANIA [24 horas] " tvg-logo="https://i.imgur.com/lzdU0TQ.png" group-title="★Desenhos | 24hrs",TAZ MANIA [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95361.m3u8
-#EXTINF:-1 tvg-id="-InfantisEspeciais" tvg-name="TEAM UMIZOOMI [24 horas]" tvg-logo="https://i.imgur.com/7yZLjQg.png" group-title="★Desenhos | 24hrs",TEAM UMIZOOMI [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/99185.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="TOM & JERRY CLASSICO [24 horas] " tvg-logo="https://i.imgur.com/WRQQpb5.png" group-title="★Desenhos | 24hrs",TOM & JERRY CLASSICO [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95316.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="TRANSFORMERS [24 horas] " tvg-logo="https://i.imgur.com/sR9nmfJ.png" group-title="★Desenhos | 24hrs",TRANSFORMERS [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95367.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="TRÊS ESPIÃS DEMAIS [24 horas] " tvg-logo="https://i.imgur.com/NERbdcE.png" group-title="★Desenhos | 24hrs",TRÊS ESPIÃS DEMAIS [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95360.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="TURMA DO RONALDINHO GAUCHO [24 horas] " tvg-logo="https://i.imgur.com/PW1pP2n.png" group-title="★Desenhos | 24hrs",TURMA DO RONALDINHO GAUCHO [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95329.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="TV COLOSSO [24 horas] " tvg-logo="https://i.imgur.com/qXAYpUb.png" group-title="★Desenhos | 24hrs",TV COLOSSO [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95341.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="TV QUACK [24 horas] " tvg-logo="https://i.imgur.com/Mc6Ww00.png" group-title="★Desenhos | 24hrs",TV QUACK [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95366.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="TÁ CHOVENDO HAMBURGUER [24 horas] " tvg-logo="https://i.imgur.com/QC5tLd7.png" group-title="★Desenhos | 24hrs",TÁ CHOVENDO HAMBURGUER [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95414.m3u8
-#EXTINF:-1 tvg-id="-InfantisEspeciais" tvg-name="VINGADORES OS SUPER HERÓIS MAIS PODEROSOS DA TERRA [24 horas]" tvg-logo="https://i.imgur.com/UbpPSAi.png" group-title="★Desenhos | 24hrs",VINGADORES OS SUPER HERÓIS MAIS PODEROSOS DA TERRA [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/98063.m3u8
-#EXTINF:-1 tvg-id="-InfantisEspeciais" tvg-name="VINGADORES UNIDOS [24 horas]" tvg-logo="https://i.imgur.com/X6DTahp.png" group-title="★Desenhos | 24hrs",VINGADORES UNIDOS [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/98069.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="WOLVERINE E OS X-MEN [24 horas]" tvg-logo="https://i.imgur.com/FScAUMM.png" group-title="★Desenhos | 24hrs",WOLVERINE E OS X-MEN [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/95411.m3u8
-#EXTINF:-1 tvg-id="EliteXMenEvo.br" tvg-name="X-MEN CLÁSSICO [24 horas]" tvg-logo="https://i.imgur.com/DxQErsK.png" group-title="★Desenhos | 24hrs",X-MEN CLÁSSICO [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/95440.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="XODÓ DA VOVÓ [24 horas] " tvg-logo="https://i.imgur.com/iHKIrSv.png" group-title="★Desenhos | 24hrs",XODÓ DA VOVÓ [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95410.m3u8
-#EXTINF:-1 tvg-id="EliteKids.br" tvg-name="ZILLION [24 horas] " tvg-logo="https://i.imgur.com/5Tp0EFD.png" group-title="★Desenhos | 24hrs",ZILLION [24 horas] 
-http://receita.xyz:2082/live/80526339/85012989/95312.m3u8
-#EXTINF:-1 tvg-id="EliteLarva.br" tvg-name="LARVA [24 horas]" tvg-logo="https://i.imgur.com/IzGftld.png" group-title="★Desenhos | 24hrs",LARVA [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/101831.m3u8
-#EXTINF:-1 tvg-id="EliteFamiliaDino.br" tvg-name="FAMÍLIA DINOSSAURO [24 horas]" tvg-logo="https://i.imgur.com/HJZArsk.png" group-title="★Desenhos | 24hrs",FAMÍLIA DINOSSAURO [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/101832.m3u8
-#EXTINF:-1 tvg-id="EliteBobEsponja.br" tvg-name="BOB ESPOSA : KAMP KORAL [24 horas]" tvg-logo="https://i.imgur.com/MRlHlgs.png" group-title="★Desenhos | 24hrs",BOB ESPOSA : KAMP KORAL [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/101833.m3u8
-#EXTINF:-1 tvg-id="Especial[24 horas].br" tvg-name="SCOOBY DOO LONGAS [24 horas]" tvg-logo="https://i.imgur.com/e3IGWUw.png" group-title="★Desenhos | 24hrs",SCOOBY DOO LONGAS [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/101834.m3u8
-#EXTINF:-1 tvg-id="EliteFlintstones.br" tvg-name="OS FLINTSTONES [24 horas]" tvg-logo="https://i.imgur.com/V3G9ff6.png" group-title="★Desenhos | 24hrs",OS FLINTSTONES [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/102048.m3u8
-#EXTINF:-1 tvg-id="ElitePeppa.br" tvg-name="PEPPA PIG [24 horas] ¹" tvg-logo="https://i.imgur.com/dYkcR7F.png" group-title="★Desenhos | 24hrs",PEPPA PIG [24 horas] ¹
-http://receita.xyz:2082/live/80526339/85012989/102067.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24 horas] VELOZES E FURIOSOS ESPIÕES DO ASFALTO" tvg-logo="" group-title="★Desenhos | 24hrs",VELOZES E FURIOSOS ESPIÕES DO ASFALTO [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/102482.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24 horas] HORA DE AVENTURA" tvg-logo="" group-title="★Desenhos | 24hrs",HORA DE AVENTURA [24 horas]
-http://receita.xyz:2082/live/80526339/85012989/102502.m3u8
+#EXTINF:-1,A&E FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46557
+#EXTINF:-1,A&E HD
+http://login.iptvcompany.org:8080/otavio/102030/46294
+#EXTINF:-1,ADORAR TV
+http://login.iptvcompany.org:8080/otavio/102030/109815
+#EXTINF:-1,AGRO CANAL FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/89947
+#EXTINF:-1,AMC FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46558
+#EXTINF:-1,AMC HD
+http://login.iptvcompany.org:8080/otavio/102030/46296
+#EXTINF:-1,ANIMAL PLANET FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46559
+#EXTINF:-1,ANIMAL PLANET HD
+http://login.iptvcompany.org:8080/otavio/102030/46337
+#EXTINF:-1,ANIME TV HD
+http://login.iptvcompany.org:8080/otavio/102030/109830
+#EXTINF:-1,ARTE 1 FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46560
+#EXTINF:-1,ARTE 1 HD
+http://login.iptvcompany.org:8080/otavio/102030/46457
+#EXTINF:-1,AXN FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46561
+#EXTINF:-1,AXN HD
+http://login.iptvcompany.org:8080/otavio/102030/46298
+#EXTINF:-1,BAND NEWS FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46562
+#EXTINF:-1,BAND NEWS HD
+http://login.iptvcompany.org:8080/otavio/102030/46507
+#EXTINF:-1,BAND SP FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46563
+#EXTINF:-1,BAND SP HD
+http://login.iptvcompany.org:8080/otavio/102030/46425
+#EXTINF:-1,BAND SPORTS FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46564
+#EXTINF:-1,BAND SPORTS HD
+http://login.iptvcompany.org:8080/otavio/102030/46394
+#EXTINF:-1,BBB 1 FHD
+http://login.iptvcompany.org:8080/otavio/102030/104175
+#EXTINF:-1,BBB 1 HD
+http://login.iptvcompany.org:8080/otavio/102030/104174
+#EXTINF:-1,BBB 2 FHD
+http://login.iptvcompany.org:8080/otavio/102030/104181
+#EXTINF:-1,BBB 2 HD
+http://login.iptvcompany.org:8080/otavio/102030/104182
+#EXTINF:-1,BBB ACADEMIA HD
+http://login.iptvcompany.org:8080/otavio/102030/105641
+#EXTINF:-1,BBB Acompanhe a Casa 2 HD
+http://login.iptvcompany.org:8080/otavio/102030/105636
+#EXTINF:-1,BBB Acompanhe a Casa HD
+http://login.iptvcompany.org:8080/otavio/102030/105638
+#EXTINF:-1,BBB Cozinha Vip Xepa HD
+http://login.iptvcompany.org:8080/otavio/102030/105637
+#EXTINF:-1,BBB Jardim HD
+http://login.iptvcompany.org:8080/otavio/102030/105640
+#EXTINF:-1,BBB Piscina HD
+http://login.iptvcompany.org:8080/otavio/102030/105639
+#EXTINF:-1,BBB Quarto Colorido HD
+http://login.iptvcompany.org:8080/otavio/102030/105635
+#EXTINF:-1,BBB Quarto Cordel HD
+http://login.iptvcompany.org:8080/otavio/102030/105634
+#EXTINF:-1,BBB Sala de Estar HD
+http://login.iptvcompany.org:8080/otavio/102030/105642
+#EXTINF:-1,BIG BROTHER BRASIL MOSAICO FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/104185
+#EXTINF:-1,BIG BROTHER BRASIL MOSAICO HD
+http://login.iptvcompany.org:8080/otavio/102030/104186
+#EXTINF:-1,BIS FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/75772
+#EXTINF:-1,BIS HD
+http://login.iptvcompany.org:8080/otavio/102030/46459
+#EXTINF:-1,BLOOMBERG TV FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/104179
+#EXTINF:-1,BONS TEMPO TV
+http://login.iptvcompany.org:8080/otavio/102030/109893
+#EXTINF:-1,BOOMERANG FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46565
+#EXTINF:-1,BOOMERANG HD
+http://login.iptvcompany.org:8080/otavio/102030/46365
+#EXTINF:-1,CAMPEONATO CARIOCA 1 HD
+http://login.iptvcompany.org:8080/otavio/102030/105658
+#EXTINF:-1,CAMPEONATO CARIOCA 2 HD
+http://login.iptvcompany.org:8080/otavio/102030/105659
+#EXTINF:-1,CAMPEONATO CARIOCA 3 HD
+http://login.iptvcompany.org:8080/otavio/102030/106102
+#EXTINF:-1,CAMPEONATO CARIOCA 4 HD
+http://login.iptvcompany.org:8080/otavio/102030/106103
+#EXTINF:-1,CAMPEONATO CATARINENSE 1
+http://login.iptvcompany.org:8080/otavio/102030/106099
+#EXTINF:-1,CAMPEONATO CATARINENSE 2
+http://login.iptvcompany.org:8080/otavio/102030/106100
+#EXTINF:-1,CAMPEONATO CATARINENSE 3
+http://login.iptvcompany.org:8080/otavio/102030/106101
+#EXTINF:-1,CANAL BRASIL FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/47072
+#EXTINF:-1,CANAL BRASIL HD
+http://login.iptvcompany.org:8080/otavio/102030/47073
+#EXTINF:-1,CANAL DO BOI FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/100714
+#EXTINF:-1,CANAL SONY FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46566
+#EXTINF:-1,CANAL SONY HD
+http://login.iptvcompany.org:8080/otavio/102030/46300
+#EXTINF:-1,CANÇÃO NOVA FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46696
+#EXTINF:-1,CARTOON NETWORK FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46567
+#EXTINF:-1,CARTOON NETWORK HD
+http://login.iptvcompany.org:8080/otavio/102030/46367
+#EXTINF:-1,CBN NEWS FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/104243
+#EXTINF:-1,CHEFE TV HD
+http://login.iptvcompany.org:8080/otavio/102030/103611
+#EXTINF:-1,CHFE TV FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/103609
+#EXTINF:-1,CINE SKY 01 HD - O Desaparecimento
+http://login.iptvcompany.org:8080/otavio/102030/106457
+#EXTINF:-1,CINE SKY 02 HD - A Vida em um Ano
+http://login.iptvcompany.org:8080/otavio/102030/106458
+#EXTINF:-1,CINE SKY 03 HD - Trolls 2
+http://login.iptvcompany.org:8080/otavio/102030/106459
+#EXTINF:-1,CINE SKY 04 HD - Uma Ultima Vez
+http://login.iptvcompany.org:8080/otavio/102030/106451
+#EXTINF:-1,CINE SKY 05 HD - Todos os Meus Amigos Estão Mortos
+http://login.iptvcompany.org:8080/otavio/102030/106461
+#EXTINF:-1,CINE SKY 06 HD - Mulher Maravilha 1984
+http://login.iptvcompany.org:8080/otavio/102030/106462
+#EXTINF:-1,CINE SKY 07 HD - Sombras do Terror
+http://login.iptvcompany.org:8080/otavio/102030/106463
+#EXTINF:-1,CINE SKY 08 HD - Liga da Justiça de Zack Snyders
+http://login.iptvcompany.org:8080/otavio/102030/106450
+#EXTINF:-1,CINE SKY 09 HD - Justiça Brutal
+http://login.iptvcompany.org:8080/otavio/102030/106460
+#EXTINF:-1,CINE SKY 10 HD - O Caçador de Recompensas
+http://login.iptvcompany.org:8080/otavio/102030/106464
+#EXTINF:-1,CINE SKY 11 HD - A Sentinela
+http://login.iptvcompany.org:8080/otavio/102030/106465
+#EXTINF:-1,CINE SKY 12 HD - Becky
+http://login.iptvcompany.org:8080/otavio/102030/106466
+#EXTINF:-1,CINE SKY 13 HD - Freaky - No Corpo de um Assassino
+http://login.iptvcompany.org:8080/otavio/102030/106469
+#EXTINF:-1,CINE SKY 14 HD - Querência
+http://login.iptvcompany.org:8080/otavio/102030/106467
+#EXTINF:-1,CINE SKY 15 HD - Moxie - Quando as Garotas Vão à Luta
+http://login.iptvcompany.org:8080/otavio/102030/106468
+#EXTINF:-1,CINE SKY 16 HD - Raya e o Último Dragão
+http://login.iptvcompany.org:8080/otavio/102030/106452
+#EXTINF:-1,CINE SKY 17 HD - Um Príncipe em Nova York 2
+http://login.iptvcompany.org:8080/otavio/102030/106454
+#EXTINF:-1,CINE SKY 18 HD - Archive
+http://login.iptvcompany.org:8080/otavio/102030/106453
+#EXTINF:-1,CINE SKY 19 HD - Don Oscar
+http://login.iptvcompany.org:8080/otavio/102030/106455
+#EXTINF:-1,CINE SKY 20 HD - Feitiço
+http://login.iptvcompany.org:8080/otavio/102030/106456
+#EXTINF:-1,CINEMAX FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46568
+#EXTINF:-1,CINEMAX HD
+http://login.iptvcompany.org:8080/otavio/102030/46302
+#EXTINF:-1,CLASSIQUE WESTERN TV
+http://login.iptvcompany.org:8080/otavio/102030/109810
+#EXTINF:-1,CLIMA TEMPO FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/103633
+#EXTINF:-1,CLIMA TEMPO HD
+http://login.iptvcompany.org:8080/otavio/102030/103632
+#EXTINF:-1,CNN BRASIL FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/104782
+#EXTINF:-1,CNN BRASIL HD
+http://login.iptvcompany.org:8080/otavio/102030/46509
+#EXTINF:-1,COMBATE FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46569
+#EXTINF:-1,COMBATE HD
+http://login.iptvcompany.org:8080/otavio/102030/46396
+#EXTINF:-1,COMEDY CENTRAL FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46570
+#EXTINF:-1,COMEDY CENTRAL HD
+http://login.iptvcompany.org:8080/otavio/102030/46369
+#EXTINF:-1,CONMEBOL - LIBERTADORES 1 Full HD
+http://login.iptvcompany.org:8080/otavio/102030/75768
+#EXTINF:-1,CONMEBOL - LIBERTADORES 2 Full HD
+http://login.iptvcompany.org:8080/otavio/102030/75770
+#EXTINF:-1,COPA DO NORDESTE 3 SD
+http://login.iptvcompany.org:8080/otavio/102030/105949
+#EXTINF:-1,COPA DO NORDESTE FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/105434
+#EXTINF:-1,COPA DO NORDESTE FULL HD 2
+http://login.iptvcompany.org:8080/otavio/102030/105435
+#EXTINF:-1,CULTURA FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/89980
+#EXTINF:-1,CURTA!  HD
+http://login.iptvcompany.org:8080/otavio/102030/103630
+#EXTINF:-1,CURTA! FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/103631
+#EXTINF:-1,DAZN 1
+http://login.iptvcompany.org:8080/otavio/102030/46402
+#EXTINF:-1,DAZN 2
+http://login.iptvcompany.org:8080/otavio/102030/46403
+#EXTINF:-1,DISCOVERY CHANNEL FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46773
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://login.iptvcompany.org:8080/otavio/102030/46339
+#EXTINF:-1,DISCOVERY H&H FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46571
+#EXTINF:-1,DISCOVERY H&H HD
+http://login.iptvcompany.org:8080/otavio/102030/46341
+#EXTINF:-1,DISCOVERY KIDS FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46572
+#EXTINF:-1,DISCOVERY KIDS HD
+http://login.iptvcompany.org:8080/otavio/102030/46371
+#EXTINF:-1,DISCOVERY SCENCE HD
+http://login.iptvcompany.org:8080/otavio/102030/46343
+#EXTINF:-1,DISCOVERY SCIENCE FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46573
+#EXTINF:-1,DISCOVERY THEATER FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46574
+#EXTINF:-1,DISCOVERY THEATER HD
+http://login.iptvcompany.org:8080/otavio/102030/46345
+#EXTINF:-1,DISCOVERY TLC FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46575
+#EXTINF:-1,DISCOVERY TLC HD
+http://login.iptvcompany.org:8080/otavio/102030/46347
+#EXTINF:-1,DISCOVERY TURBO FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46576
+#EXTINF:-1,DISCOVERY TURBO HD
+http://login.iptvcompany.org:8080/otavio/102030/46349
+#EXTINF:-1,DISCOVERY WORLD FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46577
+#EXTINF:-1,DISCOVERY WORLD HD
+http://login.iptvcompany.org:8080/otavio/102030/46351
+#EXTINF:-1,DISNEY CHANNEL FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46578
+#EXTINF:-1,DISNEY CHANNEL HD
+http://login.iptvcompany.org:8080/otavio/102030/46373
+#EXTINF:-1,DISNEY JUNIOR FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46579
+#EXTINF:-1,DISNEY JUNIOR HD
+http://login.iptvcompany.org:8080/otavio/102030/46375
+#EXTINF:-1,DISNEY XD FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/90027
+#EXTINF:-1,DISNEY XD HD
+http://login.iptvcompany.org:8080/otavio/102030/46377
+#EXTINF:-1,DOG TV FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/80700
+#EXTINF:-1,DOG TV HD
+http://login.iptvcompany.org:8080/otavio/102030/80701
+#EXTINF:-1,DW DEUTSCH+ FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/97525
+#EXTINF:-1,E! FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46468
+#EXTINF:-1,E! HD
+http://login.iptvcompany.org:8080/otavio/102030/109840
+#EXTINF:-1,ESPN 2 FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46581
+#EXTINF:-1,ESPN 2 HD
+http://login.iptvcompany.org:8080/otavio/102030/46404
+#EXTINF:-1,ESPN BRASIL FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/104382
+#EXTINF:-1,ESPN BRASIL HD
+http://login.iptvcompany.org:8080/otavio/102030/104381
+#EXTINF:-1,ESPN EXTRA FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/47074
+#EXTINF:-1,ESPN Extra HD
+http://login.iptvcompany.org:8080/otavio/102030/46408
+#EXTINF:-1,ESPN FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46583
+#EXTINF:-1,ESPN HD
+http://login.iptvcompany.org:8080/otavio/102030/46410
+#EXTINF:-1,ESPORTE INTERATIVO HD
+http://login.iptvcompany.org:8080/otavio/102030/46412
+#EXTINF:-1,EURONEWS ESPANHOL FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/97522
+#EXTINF:-1,FASHIONTV BRASIL FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/109846
+#EXTINF:-1,FASHIONTV BRASIL HD
+http://login.iptvcompany.org:8080/otavio/102030/109847
+#EXTINF:-1,FILM & ARTS FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/77307
+#EXTINF:-1,FILM & ARTS HD
+http://login.iptvcompany.org:8080/otavio/102030/77308
+#EXTINF:-1,FISH TV FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46774
+#EXTINF:-1,FISH TV HD
+http://login.iptvcompany.org:8080/otavio/102030/46473
+#EXTINF:-1,FONTE TV
+http://login.iptvcompany.org:8080/otavio/102030/109809
+#EXTINF:-1,FOOD NETWORK FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46584
+#EXTINF:-1,FOOD NETWORK HD
+http://login.iptvcompany.org:8080/otavio/102030/46475
+#EXTINF:-1,FOX SPORTS FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46589
+#EXTINF:-1,FOX SPORTS 2 FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/49086
+#EXTINF:-1,FOX SPORTS 2 HD
+http://login.iptvcompany.org:8080/otavio/102030/46413
+#EXTINF:-1,FOX SPORTS HD
+http://login.iptvcompany.org:8080/otavio/102030/104380
+#EXTINF:-1,FRANCE 24 FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/104177
+#EXTINF:-1,FUTURA FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46313
+#EXTINF:-1,FX Full HD
+http://login.iptvcompany.org:8080/otavio/102030/46591
+#EXTINF:-1,FX HD
+http://login.iptvcompany.org:8080/otavio/102030/46315
+#EXTINF:-1,GLOBO BELO HORIZONTE Full HD
+http://login.iptvcompany.org:8080/otavio/102030/103296
+#EXTINF:-1,GLOBO BELO HORIZONTE HD
+http://login.iptvcompany.org:8080/otavio/102030/94614
+#EXTINF:-1,GLOBO BRASILIA Full HD
+http://login.iptvcompany.org:8080/otavio/102030/104955
+#EXTINF:-1,GLOBO BRASILIA HD
+http://login.iptvcompany.org:8080/otavio/102030/104956
+#EXTINF:-1,GLOBO CENTRO AMÉRICA Full HD
+http://login.iptvcompany.org:8080/otavio/102030/104621
+#EXTINF:-1,GLOBO CENTRO AMÉRICA HD
+http://login.iptvcompany.org:8080/otavio/102030/104622
+#EXTINF:-1,GLOBO EPTV CAMPINAS Full HD
+http://login.iptvcompany.org:8080/otavio/102030/103297
+#EXTINF:-1,GLOBO EPTV CAMPINAS HD
+http://login.iptvcompany.org:8080/otavio/102030/103298
+#EXTINF:-1,GLOBO EPTV RIBEIRÃO PRETO Full HD
+http://login.iptvcompany.org:8080/otavio/102030/103300
+#EXTINF:-1,GLOBO EPTV RIBEIRÃO PRETO HD
+http://login.iptvcompany.org:8080/otavio/102030/103301
+#EXTINF:-1,GLOBO EPTV SUL DE MINAS Full HD
+http://login.iptvcompany.org:8080/otavio/102030/94634
+#EXTINF:-1,GLOBO EPTV SUL DE MINAS HD
+http://login.iptvcompany.org:8080/otavio/102030/94635
+#EXTINF:-1,GLOBO INTER TV ALTO LITORAL Full HD
+http://login.iptvcompany.org:8080/otavio/102030/104967
+#EXTINF:-1,GLOBO INTER TV ALTO LITORAL HD
+http://login.iptvcompany.org:8080/otavio/102030/104968
+#EXTINF:-1,GLOBO INTER TV CABUGI Full HD
+http://login.iptvcompany.org:8080/otavio/102030/104774
+#EXTINF:-1,GLOBO INTER TV CABUGI HD
+http://login.iptvcompany.org:8080/otavio/102030/104775
+#EXTINF:-1,GLOBO INTER TV DOS VALES Full HD
+http://login.iptvcompany.org:8080/otavio/102030/94631
+#EXTINF:-1,GLOBO INTER TV DOS VALES HD
+http://login.iptvcompany.org:8080/otavio/102030/94632
+#EXTINF:-1,GLOBO INTER TV GRANDE MINAS MG Full HD
+http://login.iptvcompany.org:8080/otavio/102030/104262
+#EXTINF:-1,GLOBO INTER TV GRANDE MINAS MG HD
+http://login.iptvcompany.org:8080/otavio/102030/104263
+#EXTINF:-1,GLOBO NEWS FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46592
+#EXTINF:-1,GLOBO NEWS HD
+http://login.iptvcompany.org:8080/otavio/102030/46511
+#EXTINF:-1,GLOBO NSC BLUMENAU Full HD
+http://login.iptvcompany.org:8080/otavio/102030/104270
+#EXTINF:-1,GLOBO NSC BLUMENAU HD
+http://login.iptvcompany.org:8080/otavio/102030/104271
+#EXTINF:-1,GLOBO NSC CHAPECO Full HD
+http://login.iptvcompany.org:8080/otavio/102030/104264
+#EXTINF:-1,GLOBO NSC CHAPECO HD
+http://login.iptvcompany.org:8080/otavio/102030/104265
+#EXTINF:-1,GLOBO NSC CRICIUMA Full HD
+http://login.iptvcompany.org:8080/otavio/102030/104268
+#EXTINF:-1,GLOBO NSC CRICIUMA HD
+http://login.iptvcompany.org:8080/otavio/102030/104269
+#EXTINF:-1,GLOBO NSC JOINVILLE Full HD
+http://login.iptvcompany.org:8080/otavio/102030/104266
+#EXTINF:-1,GLOBO NSC JOINVILLE HD
+http://login.iptvcompany.org:8080/otavio/102030/104267
+#EXTINF:-1,GLOBO NSC TV FLORIANÓPOLIS Full HD
+http://login.iptvcompany.org:8080/otavio/102030/94625
+#EXTINF:-1,GLOBO NSC TV FLORIANÓPOLIS HD
+http://login.iptvcompany.org:8080/otavio/102030/94626
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE Full HD
+http://login.iptvcompany.org:8080/otavio/102030/77608
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE HD
+http://login.iptvcompany.org:8080/otavio/102030/46665
+#EXTINF:-1,GLOBO RBS TV CAXIAS DO SUL Full HD
+http://login.iptvcompany.org:8080/otavio/102030/94629
+#EXTINF:-1,GLOBO RBS TV CAXIAS DO SUL HD
+http://login.iptvcompany.org:8080/otavio/102030/94628
+#EXTINF:-1,GLOBO RBS TV PASSO FUNDO Full HD
+http://login.iptvcompany.org:8080/otavio/102030/103504
+#EXTINF:-1,GLOBO RBS TV PASSO FUNDO HD
+http://login.iptvcompany.org:8080/otavio/102030/103505
+#EXTINF:-1,GLOBO RBS TV PELOTAS Full HD
+http://login.iptvcompany.org:8080/otavio/102030/104260
+#EXTINF:-1,GLOBO RBS TV PELOTAS HD
+http://login.iptvcompany.org:8080/otavio/102030/104261
+#EXTINF:-1,GLOBO REDE AMAZONICA Full HD
+http://login.iptvcompany.org:8080/otavio/102030/104394
+#EXTINF:-1,GLOBO REDE AMAZONICA HD
+http://login.iptvcompany.org:8080/otavio/102030/104392
+#EXTINF:-1,GLOBO RIO DE JANEIRO FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46594
+#EXTINF:-1,GLOBO RIO DE JANEIRO HD
+http://login.iptvcompany.org:8080/otavio/102030/46670
+#EXTINF:-1,GLOBO RPC CURITIBA FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/97878
+#EXTINF:-1,GLOBO RPC CURITIBA HD
+http://login.iptvcompany.org:8080/otavio/102030/46672
+#EXTINF:-1,GLOBO RPC FOZ DO IGUAÇU Full HD
+http://login.iptvcompany.org:8080/otavio/102030/94622
+#EXTINF:-1,GLOBO RPC FOZ DO IGUAÇU HD
+http://login.iptvcompany.org:8080/otavio/102030/94623
+#EXTINF:-1,GLOBO RPC MARINGA Full HD
+http://login.iptvcompany.org:8080/otavio/102030/103326
+#EXTINF:-1,GLOBO RPC MARINGA HD
+http://login.iptvcompany.org:8080/otavio/102030/103327
+#EXTINF:-1,GLOBO RPC PARANAVAI Full HD
+http://login.iptvcompany.org:8080/otavio/102030/103323
+#EXTINF:-1,GLOBO RPC PARANAVAI HD
+http://login.iptvcompany.org:8080/otavio/102030/103324
+#EXTINF:-1,GLOBO RPC TV PONTA GROSSA Full HD
+http://login.iptvcompany.org:8080/otavio/102030/94616
+#EXTINF:-1,GLOBO RPC TV PONTA GROSSA HD
+http://login.iptvcompany.org:8080/otavio/102030/94617
+#EXTINF:-1,GLOBO SAO PAULO FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46595
+#EXTINF:-1,GLOBO SAO PAULO HD
+http://login.iptvcompany.org:8080/otavio/102030/46677
+#EXTINF:-1,GLOBO TV ANHANGUERA Full HD
+http://login.iptvcompany.org:8080/otavio/102030/104385
+#EXTINF:-1,GLOBO TV ANHANGUERA HD
+http://login.iptvcompany.org:8080/otavio/102030/104384
+#EXTINF:-1,Globo TV BAHIA FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46596
+#EXTINF:-1,Globo TV BAHIA HD
+http://login.iptvcompany.org:8080/otavio/102030/46679
+#EXTINF:-1,GLOBO TV DIÁRIO FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/105253
+#EXTINF:-1,GLOBO TV DIÁRIO HD
+http://login.iptvcompany.org:8080/otavio/102030/105254
+#EXTINF:-1,GLOBO TV FRONTEIRA Full HD
+http://login.iptvcompany.org:8080/otavio/102030/104776
+#EXTINF:-1,GLOBO TV FRONTEIRA HD
+http://login.iptvcompany.org:8080/otavio/102030/104777
+#EXTINF:-1,GLOBO TV GAZETA DE ALAGOAS Full HD
+http://login.iptvcompany.org:8080/otavio/102030/104954
+#EXTINF:-1,GLOBO TV GAZETA DE ALAGOAS HD
+http://login.iptvcompany.org:8080/otavio/102030/104953
+#EXTINF:-1,GLOBO TV GAZETA SUL Full HD
+http://login.iptvcompany.org:8080/otavio/102030/104959
+#EXTINF:-1,GLOBO TV GAZETA SUL HD
+http://login.iptvcompany.org:8080/otavio/102030/104960
+#EXTINF:-1,GLOBO TV GAZETA VITORIA Full HD
+http://login.iptvcompany.org:8080/otavio/102030/104961
+#EXTINF:-1,GLOBO TV GAZETA VITORIA HD
+http://login.iptvcompany.org:8080/otavio/102030/104962
+#EXTINF:-1,GLOBO TV INTEGRAÇAO JUIZ DE FORA - MG Full HD
+http://login.iptvcompany.org:8080/otavio/102030/104258
+#EXTINF:-1,GLOBO TV INTEGRAÇAO JUIZ DE FORA - MG HD
+http://login.iptvcompany.org:8080/otavio/102030/104259
+#EXTINF:-1,GLOBO TV INTEGRAÇÃO ARAXA Full HD
+http://login.iptvcompany.org:8080/otavio/102030/94619
+#EXTINF:-1,GLOBO TV INTEGRAÇÃO ARAXA HD
+http://login.iptvcompany.org:8080/otavio/102030/94620
+#EXTINF:-1,GLOBO TV LIBERAL BELEM FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/104617
+#EXTINF:-1,GLOBO TV LIBERAL BELEM HD
+http://login.iptvcompany.org:8080/otavio/102030/104618
+#EXTINF:-1,GLOBO TV MORENA Full HD
+http://login.iptvcompany.org:8080/otavio/102030/104402
+#EXTINF:-1,GLOBO TV MORENA HD
+http://login.iptvcompany.org:8080/otavio/102030/46688
+#EXTINF:-1,GLOBO TV NORDESTE  Full HD
+http://login.iptvcompany.org:8080/otavio/102030/104619
+#EXTINF:-1,GLOBO TV NORDESTE HD
+http://login.iptvcompany.org:8080/otavio/102030/104620
+#EXTINF:-1,GLOBO TV RIO SUL Full HD
+http://login.iptvcompany.org:8080/otavio/102030/104778
+#EXTINF:-1,GLOBO TV RIO SUL HD
+http://login.iptvcompany.org:8080/otavio/102030/104779
+#EXTINF:-1,GLOBO TV SERRA+MAR Full HD
+http://login.iptvcompany.org:8080/otavio/102030/104780
+#EXTINF:-1,GLOBO TV SERRA+MAR HD
+http://login.iptvcompany.org:8080/otavio/102030/104781
+#EXTINF:-1,GLOBO TV TEM BAURU Full HD
+http://login.iptvcompany.org:8080/otavio/102030/103320
+#EXTINF:-1,GLOBO TV TEM BAURU HD
+http://login.iptvcompany.org:8080/otavio/102030/103321
+#EXTINF:-1,GLOBO TV TEM SOROCABA Full HD
+http://login.iptvcompany.org:8080/otavio/102030/104957
+#EXTINF:-1,GLOBO TV TEM SOROCABA HD
+http://login.iptvcompany.org:8080/otavio/102030/104958
+#EXTINF:-1,GLOBO TV TEM SÃO JOSÉ DO RIO PRETO Full HD
+http://login.iptvcompany.org:8080/otavio/102030/104963
+#EXTINF:-1,GLOBO TV TEM SÃO JOSÉ DO RIO PRETO HD
+http://login.iptvcompany.org:8080/otavio/102030/104964
+#EXTINF:-1,GLOBO TV TRIBUNA SANTOS Full HD
+http://login.iptvcompany.org:8080/otavio/102030/103303
+#EXTINF:-1,GLOBO TV TRIBUNA SANTOS HD
+http://login.iptvcompany.org:8080/otavio/102030/103304
+#EXTINF:-1,GLOBO TV VANGUARDA S. J. CAMPOS Full HD
+http://login.iptvcompany.org:8080/otavio/102030/103306
+#EXTINF:-1,GLOBO TV VANGUARDA S. J. DOS CAMPOS HD
+http://login.iptvcompany.org:8080/otavio/102030/103307
+#EXTINF:-1,GLOBO VANGUARDA TAUBATÉ Full HD
+http://login.iptvcompany.org:8080/otavio/102030/104965
+#EXTINF:-1,GLOBO VANGUARDA TAUBATÉ HD
+http://login.iptvcompany.org:8080/otavio/102030/104966
+#EXTINF:-1,GLOBO VERDES MARES Full HD
+http://login.iptvcompany.org:8080/otavio/102030/104184
+#EXTINF:-1,GLOBO VERDES MARES HD
+http://login.iptvcompany.org:8080/otavio/102030/104183
+#EXTINF:-1,GLOOB FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46597
+#EXTINF:-1,GLOOB HD
+http://login.iptvcompany.org:8080/otavio/102030/46379
+#EXTINF:-1,GLOOBINHO FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/49734
+#EXTINF:-1,GLOOBINHO HD
+http://login.iptvcompany.org:8080/otavio/102030/49735
+#EXTINF:-1,GNT FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/74155
+#EXTINF:-1,GNT HD
+http://login.iptvcompany.org:8080/otavio/102030/46477
+#EXTINF:-1,GOSPEL CARTOON
+http://login.iptvcompany.org:8080/otavio/102030/109822
+#EXTINF:-1,GOSPEL MOVIE TV
+http://login.iptvcompany.org:8080/otavio/102030/109823
+#EXTINF:-1,GOSPEL MOVIE TV 2
+http://login.iptvcompany.org:8080/otavio/102030/109824
+#EXTINF:-1,HBO 2 FULL  HD
+http://login.iptvcompany.org:8080/otavio/102030/46599
+#EXTINF:-1,HBO 2 HD
+http://login.iptvcompany.org:8080/otavio/102030/46528
+#EXTINF:-1,HBO FAMILY FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46600
+#EXTINF:-1,HBO FAMILY HD
+http://login.iptvcompany.org:8080/otavio/102030/46530
+#EXTINF:-1,HBO FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46601
+#EXTINF:-1,HBO HD
+http://login.iptvcompany.org:8080/otavio/102030/46532
+#EXTINF:-1,HBO MUNDI FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/48237
+#EXTINF:-1,HBO MUNDI HD
+http://login.iptvcompany.org:8080/otavio/102030/46533
+#EXTINF:-1,HBO PLUS FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46602
+#EXTINF:-1,HBO PLUS HD
+http://login.iptvcompany.org:8080/otavio/102030/46535
+#EXTINF:-1,HBO POP FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/48238
+#EXTINF:-1,HBO POP HD
+http://login.iptvcompany.org:8080/otavio/102030/46539
+#EXTINF:-1,HBO SIGNATURE FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46603
+#EXTINF:-1,HBO SIGNATURE HD
+http://login.iptvcompany.org:8080/otavio/102030/46542
+#EXTINF:-1,HBO XTREME FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46604
+#EXTINF:-1,HBO XTREME HD
+http://login.iptvcompany.org:8080/otavio/102030/46544
+#EXTINF:-1,HGTV FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46605
+#EXTINF:-1,HGTV HD
+http://login.iptvcompany.org:8080/otavio/102030/46479
+#EXTINF:-1,HISTORY 2 FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/90025
+#EXTINF:-1,HISTORY 2 HD
+http://login.iptvcompany.org:8080/otavio/102030/90026
+#EXTINF:-1,HISTORY CHANNEL FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46606
+#EXTINF:-1,HISTORY CHANNEL HD
+http://login.iptvcompany.org:8080/otavio/102030/46355
+#EXTINF:-1,ID INVESTIGAÇÃO DISCOVERY FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46607
+#EXTINF:-1,ID INVESTIGAÇÃO DISCOVERY HD
+http://login.iptvcompany.org:8080/otavio/102030/46357
+#EXTINF:-1,IGREJA MUNDIAL DO PODER DE DEUS
+http://login.iptvcompany.org:8080/otavio/102030/109818
+#EXTINF:-1,LIFE TIME FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46608
+#EXTINF:-1,LIFETIME HD
+http://login.iptvcompany.org:8080/otavio/102030/46481
+#EXTINF:-1,LOADING FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/103628
+#EXTINF:-1,LOADING HD
+http://login.iptvcompany.org:8080/otavio/102030/103629
+#EXTINF:-1,LOVE NATURE FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/47057
+#EXTINF:-1,LOVE NATURE HD
+http://login.iptvcompany.org:8080/otavio/102030/47058
+#EXTINF:-1,MAIS GLOBOSAT FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46609
+#EXTINF:-1,MAIS GLOBOSAT HD
+http://login.iptvcompany.org:8080/otavio/102030/46483
+#EXTINF:-1,MEGAPIX FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46610
+#EXTINF:-1,MEGAPIX HD
+http://login.iptvcompany.org:8080/otavio/102030/46318
+#EXTINF:-1,MELHORES MOMENTOS TNT ESTADIO
+http://login.iptvcompany.org:8080/otavio/102030/106053
+#EXTINF:-1,MTV FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46611
+#EXTINF:-1,MTV HD
+http://login.iptvcompany.org:8080/otavio/102030/46485
+#EXTINF:-1,MULTISHOW FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46613
+#EXTINF:-1,MULTISHOW HD
+http://login.iptvcompany.org:8080/otavio/102030/46488
+#EXTINF:-1,MUSIC BOX BRASIL FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/47055
+#EXTINF:-1,MUSIC BOX BRASIL HD
+http://login.iptvcompany.org:8080/otavio/102030/47056
+#EXTINF:-1,NASA TV
+http://login.iptvcompany.org:8080/otavio/102030/109820
+#EXTINF:-1,NATIONAL GEOGRAPHIC FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46616
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://login.iptvcompany.org:8080/otavio/102030/46361
+#EXTINF:-1,NET GEO KIDS FULL HD 
+http://login.iptvcompany.org:8080/otavio/102030/46614
+#EXTINF:-1,NET GEO KIDS HD
+http://login.iptvcompany.org:8080/otavio/102030/46382
+#EXTINF:-1,NET GEO WILD FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46615
+#EXTINF:-1,NET GEO WILD HD
+http://login.iptvcompany.org:8080/otavio/102030/46359
+#EXTINF:-1,NHK HD
+http://login.iptvcompany.org:8080/otavio/102030/46491
+#EXTINF:-1,NICK JR FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46617
+#EXTINF:-1,NICK JR HD
+http://login.iptvcompany.org:8080/otavio/102030/46384
+#EXTINF:-1,NICKELODEON HD
+http://login.iptvcompany.org:8080/otavio/102030/46386
+#EXTINF:-1,NICKLODEON FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46618
+#EXTINF:-1,OFF FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/47070
+#EXTINF:-1,OFF HD
+http://login.iptvcompany.org:8080/otavio/102030/46493
+#EXTINF:-1,PARAMOUNT CHANNEL FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46619
+#EXTINF:-1,PARAMOUNT CHANNEL HD
+http://login.iptvcompany.org:8080/otavio/102030/46320
+#EXTINF:-1,PREMIERE 2  FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46620
+#EXTINF:-1,PREMIERE 2 HD
+http://login.iptvcompany.org:8080/otavio/102030/46514
+#EXTINF:-1,PREMIERE 3 FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46621
+#EXTINF:-1,PREMIERE 3 HD
+http://login.iptvcompany.org:8080/otavio/102030/46516
+#EXTINF:-1,PREMIERE 4 FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46622
+#EXTINF:-1,PREMIERE 4 HD
+http://login.iptvcompany.org:8080/otavio/102030/46518
+#EXTINF:-1,PREMIERE 5 FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46623
+#EXTINF:-1,PREMIERE 5 HD
+http://login.iptvcompany.org:8080/otavio/102030/46520
+#EXTINF:-1,PREMIERE CLUBES FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46624
+#EXTINF:-1,PREMIERE CLUBES HD
+http://login.iptvcompany.org:8080/otavio/102030/46526
+#EXTINF:-1,PRIME BOX BRASIL FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/109844
+#EXTINF:-1,PRIME BOX BRASIL HD
+http://login.iptvcompany.org:8080/otavio/102030/109845
+#EXTINF:-1,PROGRAMAÇÃO TNT ESTADIO
+http://login.iptvcompany.org:8080/otavio/102030/106051
+#EXTINF:-1,RAI NEWS 24 FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/104178
+#EXTINF:-1,RBTV - REDE BRASIL
+http://login.iptvcompany.org:8080/otavio/102030/109808
+#EXTINF:-1,RDC TV HD
+http://login.iptvcompany.org:8080/otavio/102030/109892
+#EXTINF:-1,RECORD BELEM DO PARÁ FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/109695
+#EXTINF:-1,RECORD BELEM DO PARÁ HD
+http://login.iptvcompany.org:8080/otavio/102030/109696
+#EXTINF:-1,RECORD CABRALIA FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/109699
+#EXTINF:-1,RECORD CABRALIA HD
+http://login.iptvcompany.org:8080/otavio/102030/109700
+#EXTINF:-1,RECORD GOIAS FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/109701
+#EXTINF:-1,RECORD GOIAS HD
+http://login.iptvcompany.org:8080/otavio/102030/109702
+#EXTINF:-1,RECORD INTERIOR SP FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/109693
+#EXTINF:-1,RECORD INTERIOR SP HD
+http://login.iptvcompany.org:8080/otavio/102030/109694
+#EXTINF:-1,RECORD NEWS FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46625
+#EXTINF:-1,RECORD NEWS HD
+http://login.iptvcompany.org:8080/otavio/102030/46434
+#EXTINF:-1,RECORD PARANAÍBA DE UBERLÂNDIA FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/109683
+#EXTINF:-1,RECORD PARANAÍBA DE UBERLÂNDIA HD
+http://login.iptvcompany.org:8080/otavio/102030/109684
+#EXTINF:-1,RECORD PAULISTA Full HD
+http://login.iptvcompany.org:8080/otavio/102030/109681
+#EXTINF:-1,RECORD PAULISTA HD
+http://login.iptvcompany.org:8080/otavio/102030/109682
+#EXTINF:-1,RECORD RIO FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/109685
+#EXTINF:-1,RECORD RIO HD
+http://login.iptvcompany.org:8080/otavio/102030/109686
+#EXTINF:-1,RECORD RIO PRETO FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/109691
+#EXTINF:-1,RECORD RIO PRETO HD
+http://login.iptvcompany.org:8080/otavio/102030/109692
+#EXTINF:-1,RECORD RJ INTERIOR FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/109697
+#EXTINF:-1,RECORD RJ INTERIOR HD
+http://login.iptvcompany.org:8080/otavio/102030/109698
+#EXTINF:-1,RECORD RS FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/105425
+#EXTINF:-1,RECORD RS HD
+http://login.iptvcompany.org:8080/otavio/102030/46437
+#EXTINF:-1,RECORD SIC TV RONDÔNIA FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/109540
+#EXTINF:-1,RECORD SIC TV RONDÔNIA HD
+http://login.iptvcompany.org:8080/otavio/102030/109541
+#EXTINF:-1,RECORD SP FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/105256
+#EXTINF:-1,RECORD SP HD
+http://login.iptvcompany.org:8080/otavio/102030/105257
+#EXTINF:-1,RECORD TV THATHI CAMPINAS FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/109689
+#EXTINF:-1,RECORD TV THATHI CAMPINAS HD
+http://login.iptvcompany.org:8080/otavio/102030/109690
+#EXTINF:-1,RECORD TV VILA REAL FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/109687
+#EXTINF:-1,RECORD TV VILA REAL HD
+http://login.iptvcompany.org:8080/otavio/102030/109688
+#EXTINF:-1,RED BULL TV FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/104176
+#EXTINF:-1,RED BULL TV HD
+http://login.iptvcompany.org:8080/otavio/102030/109816
+#EXTINF:-1,REDE FAMILIA FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/90001
+#EXTINF:-1,REDE FAMILIA HD
+http://login.iptvcompany.org:8080/otavio/102030/90028
+#EXTINF:-1,REDE GOSPEL Full HD
+http://login.iptvcompany.org:8080/otavio/102030/104157
+#EXTINF:-1,REDE MINAS
+http://login.iptvcompany.org:8080/otavio/102030/109814
+#EXTINF:-1,REDE PREMIUM TV HD
+http://login.iptvcompany.org:8080/otavio/102030/109819
+#EXTINF:-1,REDE SECULO 21 HD
+http://login.iptvcompany.org:8080/otavio/102030/89945
+#EXTINF:-1,REDE SUPER Full HD
+http://login.iptvcompany.org:8080/otavio/102030/84072
+#EXTINF:-1,REDE SUPER HD
+http://login.iptvcompany.org:8080/otavio/102030/90029
+#EXTINF:-1,REDE VIVA FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46698
+#EXTINF:-1,REDETV! FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/47071
+#EXTINF:-1,REDETV! HD
+http://login.iptvcompany.org:8080/otavio/102030/46443
+#EXTINF:-1,RETRÔ CARTOON
+http://login.iptvcompany.org:8080/otavio/102030/109821
+#EXTINF:-1,RT ESPANHOL FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/97524
+#EXTINF:-1,SBT REDE MASSA  HD
+http://login.iptvcompany.org:8080/otavio/102030/109826
+#EXTINF:-1,SBT RS FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/47059
+#EXTINF:-1,SBT RS HD
+http://login.iptvcompany.org:8080/otavio/102030/109749
+#EXTINF:-1,SBT SP FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46627
+#EXTINF:-1,SBT SP HD
+http://login.iptvcompany.org:8080/otavio/102030/46449
+#EXTINF:-1,SBT TV ALTEROSA Full HD
+http://login.iptvcompany.org:8080/otavio/102030/109538
+#EXTINF:-1,SBT TV ALTEROSA HD
+http://login.iptvcompany.org:8080/otavio/102030/109539
+#EXTINF:-1,SERIE C (MC)
+http://login.iptvcompany.org:8080/otavio/102030/106052
+#EXTINF:-1,SEXYKPOP TV
+http://login.iptvcompany.org:8080/otavio/102030/109813
+#EXTINF:-1,SPACE FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46628
+#EXTINF:-1,SPACE HD
+http://login.iptvcompany.org:8080/otavio/102030/46322
+#EXTINF:-1,SPORTTV 2 HD
+http://login.iptvcompany.org:8080/otavio/102030/46417
+#EXTINF:-1,SPORTV 2 FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46629
+#EXTINF:-1,SPORTV 3 FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46630
+#EXTINF:-1,SPORTV 3 HD
+http://login.iptvcompany.org:8080/otavio/102030/46419
+#EXTINF:-1,SPORTV FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46631
+#EXTINF:-1,SPORTV HD
+http://login.iptvcompany.org:8080/otavio/102030/46421
+#EXTINF:-1,STUDIO UNIVERSAL FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46632
+#EXTINF:-1,STUDIO UNIVERSAL HD
+http://login.iptvcompany.org:8080/otavio/102030/46324
+#EXTINF:-1,ST✩R CHANELL FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46585
+#EXTINF:-1,ST✩R CHANELL HD
+http://login.iptvcompany.org:8080/otavio/102030/46305
+#EXTINF:-1,ST✩R HITS 1 FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46587
+#EXTINF:-1,ST✩R HITS 1 HD
+http://login.iptvcompany.org:8080/otavio/102030/46308
+#EXTINF:-1,St✩r Hits 2 Full HD
+http://login.iptvcompany.org:8080/otavio/102030/46588
+#EXTINF:-1,ST✩R HITS 2 HD
+http://login.iptvcompany.org:8080/otavio/102030/46310
+#EXTINF:-1,ST✩R LIFE FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46586
+#EXTINF:-1,ST✩R LIFE HD
+http://login.iptvcompany.org:8080/otavio/102030/46306
+#EXTINF:-1,SUMMER TV
+http://login.iptvcompany.org:8080/otavio/102030/106105
+#EXTINF:-1,SYFY FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46633
+#EXTINF:-1,SYFY HD
+http://login.iptvcompany.org:8080/otavio/102030/46326
+#EXTINF:-1,TBS FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/74153
+#EXTINF:-1,TBS HD
+http://login.iptvcompany.org:8080/otavio/102030/74154
+#EXTINF:-1,TCM FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/109839
+#EXTINF:-1,TCM HD
+http://login.iptvcompany.org:8080/otavio/102030/90024
+#EXTINF:-1,TELECINE ACTION FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46634
+#EXTINF:-1,TELECINE ACTION HD
+http://login.iptvcompany.org:8080/otavio/102030/46545
+#EXTINF:-1,TELECINE CULT FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46635
+#EXTINF:-1,TELECINE CULT HD
+http://login.iptvcompany.org:8080/otavio/102030/46547
+#EXTINF:-1,TELECINE FUN FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46636
+#EXTINF:-1,TELECINE FUN HD
+http://login.iptvcompany.org:8080/otavio/102030/46549
+#EXTINF:-1,TELECINE PIPOCA FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46637
+#EXTINF:-1,TELECINE PIPOCA HD
+http://login.iptvcompany.org:8080/otavio/102030/46551
+#EXTINF:-1,TELECINE PREMIUM FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46638
+#EXTINF:-1,TELECINE PREMIUM HD
+http://login.iptvcompany.org:8080/otavio/102030/46553
+#EXTINF:-1,TELECINE TOUCH FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46639
+#EXTINF:-1,TELECINE TOUCH HD
+http://login.iptvcompany.org:8080/otavio/102030/46555
+#EXTINF:-1,TERRA VIVA FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/100713
+#EXTINF:-1,TERRA VIVA HD
+http://login.iptvcompany.org:8080/otavio/102030/100712
+#EXTINF:-1,TNT ESTADIO 1
+http://login.iptvcompany.org:8080/otavio/102030/106209
+#EXTINF:-1,TNT ESTADIO 2
+http://login.iptvcompany.org:8080/otavio/102030/106210
+#EXTINF:-1,TNT ESTADIO 3
+http://login.iptvcompany.org:8080/otavio/102030/106211
+#EXTINF:-1,TNT ESTADIO 4
+http://login.iptvcompany.org:8080/otavio/102030/106212
+#EXTINF:-1,TNT ESTADIO 5
+http://login.iptvcompany.org:8080/otavio/102030/106213
+#EXTINF:-1,TNT FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46640
+#EXTINF:-1,TNT HD
+http://login.iptvcompany.org:8080/otavio/102030/46329
+#EXTINF:-1,TNT SERIES FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46641
+#EXTINF:-1,TNT SERIES HD
+http://login.iptvcompany.org:8080/otavio/102030/46331
+#EXTINF:-1,TOONCAST FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46389
+#EXTINF:-1,TRAVEL BOX BRASIL FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/47054
+#EXTINF:-1,TRAVEL BOX BRASIL HD
+http://login.iptvcompany.org:8080/otavio/102030/109848
+#EXTINF:-1,TV APARECIDA FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46700
+#EXTINF:-1,TV ARACATI HD
+http://login.iptvcompany.org:8080/otavio/102030/109825
+#EXTINF:-1,TV ASSEMBLEIA
+http://login.iptvcompany.org:8080/otavio/102030/109850
+#EXTINF:-1,TV BRASIL FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/100717
+#EXTINF:-1,TV CAMARA FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/100716
+#EXTINF:-1,TV CANDIDÉS HD
+http://login.iptvcompany.org:8080/otavio/102030/109832
+#EXTINF:-1,TV CARIOCA NET
+http://login.iptvcompany.org:8080/otavio/102030/106104
+#EXTINF:-1,TV ESCOLA FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/47063
+#EXTINF:-1,TV GAZETA FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/90022
+#EXTINF:-1,TV GAZETA HD
+http://login.iptvcompany.org:8080/otavio/102030/90023
+#EXTINF:-1,TV GIDEÔES HD
+http://login.iptvcompany.org:8080/otavio/102030/109835
+#EXTINF:-1,TV IRACEMA HD
+http://login.iptvcompany.org:8080/otavio/102030/109833
+#EXTINF:-1,TV JAGUAR HD
+http://login.iptvcompany.org:8080/otavio/102030/109834
+#EXTINF:-1,TV JAPI
+http://login.iptvcompany.org:8080/otavio/102030/109812
+#EXTINF:-1,TV JORNAL  DO NORDESTE HD
+http://login.iptvcompany.org:8080/otavio/102030/109827
+#EXTINF:-1,TV MANCHETE
+http://login.iptvcompany.org:8080/otavio/102030/109829
+#EXTINF:-1,TV MAR
+http://login.iptvcompany.org:8080/otavio/102030/109811
+#EXTINF:-1,TV NOVO TEMPO HD
+http://login.iptvcompany.org:8080/otavio/102030/92634
+#EXTINF:-1,TV PAI ETERNO FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/105424
+#EXTINF:-1,TV PAMPA HD
+http://login.iptvcompany.org:8080/otavio/102030/97519
+#EXTINF:-1,TV PAMPA HD FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/97520
+#EXTINF:-1,TV RA TIM BUM FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46391
+#EXTINF:-1,TV RA TIM BUM HD
+http://login.iptvcompany.org:8080/otavio/102030/103214
+#EXTINF:-1,TV SENADO FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/91761
+#EXTINF:-1,TV SENADO HD
+http://login.iptvcompany.org:8080/otavio/102030/91763
+#EXTINF:-1,TV SERIES
+http://login.iptvcompany.org:8080/otavio/102030/109894
+#EXTINF:-1,TV5 MONDE
+http://login.iptvcompany.org:8080/otavio/102030/104238
+#EXTINF:-1,TVE FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/105258
+#EXTINF:-1,TVE HD
+http://login.iptvcompany.org:8080/otavio/102030/89944
+#EXTINF:-1,UNIVERSAL CHANNEL FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46643
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://login.iptvcompany.org:8080/otavio/102030/46333
+#EXTINF:-1,URSO POLAR
+http://login.iptvcompany.org:8080/otavio/102030/109828
+#EXTINF:-1,VIVA FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46644
+#EXTINF:-1,VIVA HD
+http://login.iptvcompany.org:8080/otavio/102030/46455
+#EXTINF:-1,WARNER  CHANNEL HD
+http://login.iptvcompany.org:8080/otavio/102030/46335
+#EXTINF:-1,WARNER CHANNEL FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/46645
+#EXTINF:-1,WOOHOO FULL HD
+http://login.iptvcompany.org:8080/otavio/102030/103610
+#EXTINF:-1,WOOHOO HD
+http://login.iptvcompany.org:8080/otavio/102030/46505
