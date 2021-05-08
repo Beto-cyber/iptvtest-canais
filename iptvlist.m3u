@@ -485,128 +485,159 @@ http://ptvplay.life:80/mania238/30HGE1000/101026
 #EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="Esportes", ESPN Extra SD
 http://ptvplay.life:80/mania238/30HGE1000/101025
 
+
+
+
+
 #EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Esportes", Fox Sports FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/431
+http://ptvplay.life:80/mania238/30HGE1000/101032
 
 #EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Esportes", Fox Sports HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/228
+http://ptvplay.life:80/mania238/30HGE1000/101033
 
 #EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Esportes", Fox Sports SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/587
+http://ptvplay.life:80/mania238/30HGE1000/101034
 
 #EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Esportes", Fox Sports 2 FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/432
+http://ptvplay.life:80/mania238/30HGE1000/101029
 
 #EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Esportes", Fox Sports 2 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/162
+http://ptvplay.life:80/mania238/30HGE1000/101030
 
 #EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Esportes", Fox Sports 2 SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/586
+http://ptvplay.life:80/mania238/30HGE1000/101031
+
+
+
 
 #EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Esportes", SporTV FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/448
+http://ptvplay.life:80/mania238/30HGE1000/16329
 
 #EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Esportes", SporTV HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/212
+http://ptvplay.life:80/mania238/30HGE1000/101035
 
 #EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Esportes", SporTV SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/640
+http://ptvplay.life:80/mania238/30HGE1000/101036
 
 #EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="Esportes", SporTV 2 FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/450
+http://ptvplay.life:80/mania238/30HGE1000/1645
 
 #EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="Esportes", SporTV 2 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/213
+http://ptvplay.life:80/mania238/30HGE1000/101037
 
 #EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="Esportes", SporTV 2 SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/638
+http://ptvplay.life:80/mania238/30HGE1000/101038
 
 #EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="Esportes", SporTV 3 FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/548
+http://ptvplay.life:80/mania238/30HGE1000/1649
 
 #EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="Esportes", SporTV 3 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/214
+http://ptvplay.life:80/mania238/30HGE1000/101039
 
 #EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="Esportes", SporTV 3 SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/639
+http://ptvplay.life:80/mania238/30HGE1000/101040
 
 
 
 ___________________PPV_________________
 
 
+#EXTINF:-1,Premiere 3 HD
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 2 FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/452
+#EXTINF:-1,Premiere 3 HD Alternativo
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 2 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/203
+#EXTINF:-1,Premiere 3 SD
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 2 SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/626
+#EXTINF:-1,Premiere 4 HD
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 3 FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/204
+#EXTINF:-1,Premiere 4 HD Alternativo
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 3 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/453
+#EXTINF:-1,Premiere 4 SD
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 3 SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/627
+#EXTINF:-1,Premiere 5 HD
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 4 FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/454
+#EXTINF:-1,Premiere 5 HD Alternativo
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 4 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/205
+#EXTINF:-1,Premiere 5 SD
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 4 SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/628
+#EXTINF:-1,Premiere 6 HD
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 5 FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/480
+#EXTINF:-1,Premiere 6 SD
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 5 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/206
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 5 SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/629
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 6 FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/481
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 6 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/207
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="●PPV●", Premiere 2 FHD
+http://ptvplay.life:80/mania238/30HGE1000/99386
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 6 SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/630
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="●PPV●", Premiere 2 HD
+http://ptvplay.life:80/mania238/30HGE1000/99387
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 7 FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/494
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="●PPV●", Premiere 2 SD
+http://ptvplay.life:80/mania238/30HGE1000/99388
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 7 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/107
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="●PPV●", Premiere 3 FHD
+http://ptvplay.life:80/mania238/30HGE1000/99390
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 7 SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/631
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="●PPV●", Premiere 3 HD
+http://ptvplay.life:80/mania238/30HGE1000/99389
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 8 FHD
-http://4p.vc:80/K7y6g34drYdn/9771144045/90359
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="●PPV●", Premiere 3 SD
+http://ptvplay.life:80/mania238/30HGE1000/99391
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 8 HD
-http://4p.vc:80/K7y6g34drYdn/9771144045/90359
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="●PPV●", Premiere 4 FHD
+http://ptvplay.life:80/mania238/30HGE1000/99393
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 8 SD
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="●PPV●", Premiere 4 HD
+http://ptvplay.life:80/mania238/30HGE1000/99392
+
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="●PPV●", Premiere 4 SD
+http://ptvplay.life:80/mania238/30HGE1000/99394
+
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="●PPV●", Premiere 5 FHD
+http://ptvplay.life:80/mania238/30HGE1000/99396
+
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="●PPV●", Premiere 5 HD
+http://ptvplay.life:80/mania238/30HGE1000/99395
+
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="●PPV●", Premiere 5 SD
+http://ptvplay.life:80/mania238/30HGE1000/99397
+
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="●PPV●", Premiere 6 FHD
+http://ptvplay.life:80/mania238/30HGE1000/99399
+
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="●PPV●", Premiere 6 HD
+http://ptvplay.life:80/mania238/30HGE1000/99398
+
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="●PPV●", Premiere 6 SD
+http://ptvplay.life:80/mania238/30HGE1000/99400
+
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="●PPV●", Premiere 7 FHD
+http://ptvplay.life:80/mania238/30HGE1000/99401
+
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="●PPV●", Premiere 7 HD
+http://ptvplay.life:80/mania238/30HGE1000/99401
+
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="●PPV●", Premiere 7 SD
+http://ptvplay.life:80/mania238/30HGE1000/99402
+
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="●PPV●", Premiere 8 FHD
+http://ptvplay.life:80/mania238/30HGE1000/99404
+
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="●PPV●", Premiere 8 HD
+http://ptvplay.life:80/mania238/30HGE1000/99403
+
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="●PPV●", Premiere 8 SD
 http://4p.vc:80/K7y6g34drYdn/9771144045/72261
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere Clubes FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/451
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="●PPV●", Premiere Clubes FHD
+http://ptvplay.life:80/mania238/30HGE1000/1623
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere Clubes HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/202
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="●PPV●", Premiere Clubes HD
+http://ptvplay.life:80/mania238/30HGE1000/1624
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere Clubes SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/632
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="●PPV●", Premiere Clubes SD
+http://ptvplay.life:80/mania238/30HGE1000/1624
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Auto_motor_sport_channel_logo.png" group-title="●PPV●", AUTOMOTOR SPORT HD
 http://4p.vc:80/K7y6g34drYdn/9771144045/77788
@@ -630,37 +661,40 @@ http://connecttvapp.xyz:80/hk0528377/0528377hkxx/26265
 http://4p.vc:80/K7y6g34drYdn/9771144045/96520
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q7PzTSJ.png" group-title="●PPV●", Conmebol TV 1 FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/20408
+http://ptvplay.life:80/mania238/30HGE1000/98744
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q7PzTSJ.png" group-title="●PPV●", Conmebol TV 1 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/20410
+http://ptvplay.life:80/mania238/30HGE1000/99366
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q7PzTSJ.png" group-title="●PPV●", Conmebol TV 1 SD
-http://4p.vc:80/K7y6g34drYdn/9771144045/72980
+http://ptvplay.life:80/mania238/30HGE1000/99367
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q7PzTSJ.png" group-title="●PPV●", Conmebol TV 2 FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/20407
+http://ptvplay.life:80/mania238/30HGE1000/98745
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q7PzTSJ.png" group-title="●PPV●", Conmebol TV 2 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/20411
+http://ptvplay.life:80/mania238/30HGE1000/99368
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q7PzTSJ.png" group-title="●PPV●", Conmebol TV 2 SD
-http://4p.vc:80/K7y6g34drYdn/9771144045/72984
+http://ptvplay.life:80/mania238/30HGE1000/99369
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q7PzTSJ.png" group-title="●PPV●", Conmebol TV 3 FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/20406
+http://ptvplay.life:80/mania238/30HGE1000/42110
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q7PzTSJ.png" group-title="●PPV●", Conmebol TV 3 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/20412
+http://ptvplay.life:80/mania238/30HGE1000/99370
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q7PzTSJ.png" group-title="●PPV●", Conmebol TV 3 SD
-http://4p.vc:80/K7y6g34drYdn/9771144045/72988
+http://ptvplay.life:80/mania238/30HGE1000/99371
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q7PzTSJ.png" group-title="●PPV●", Conmebol TV 4 FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/20409
+http://ptvplay.life:80/mania238/30HGE1000/42111
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q7PzTSJ.png" group-title="●PPV●", Conmebol TV 4 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/20413
+http://ptvplay.life:80/mania238/30HGE1000/99372
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q7PzTSJ.png" group-title="●PPV●", Conmebol TV 4 HD
+http://ptvplay.life:80/mania238/30HGE1000/99373
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sy9Jvbh.png" group-title="●PPV●", Copa do Nordeste 1 FHD
 http://4p.vc:80/K7y6g34drYdn/9771144045/96505
