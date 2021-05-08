@@ -2,70 +2,71 @@
 
 ___________________ABERTOS_________________
 
+
 #EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Abertos", Band SP FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/420
+http://ptvplay.life:80/mania238/30HGE1000/20278
 
 #EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Abertos", Band SP HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/184
+http://ptvplay.life:80/mania238/30HGE1000/20279
 
 #EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Abertos", Band SP SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/744
+http://ptvplay.life:80/mania238/30HGE1000/20280
 
-#EXTINF:-1 tvg-logo="http://a5.vc/dgd" group-title="Abertos", Futura FHD
+[]#EXTINF:-1 tvg-logo="http://a5.vc/dgd" group-title="Abertos", Futura FHD
 http://4p.vc:80/K7y6g34drYdn/9771144045/28198
 
-#EXTINF:-1 tvg-logo="http://a5.vc/dgd" group-title="Abertos", Futura SD
+[]#EXTINF:-1 tvg-logo="http://a5.vc/dgd" group-title="Abertos", Futura SD
 http://4p.vc:80/K7y6g34drYdn/9771144045/18656
 
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Abertos", Globo SP FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/4
+http://ptvplay.life:80/mania238/30HGE1000/99347
 
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Abertos", Globo SP HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/177
+http://ptvplay.life:80/mania238/30HGE1000/99347
 
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Abertos", Globo SP SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/695
+http://ptvplay.life:80/mania238/30HGE1000/99348
 
 #EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Abertos", RecordTV SP FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/456
+http://ptvplay.life:80/mania238/30HGE1000/98823
 
 #EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Abertos", RecordTV SP HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/209
+http://ptvplay.life:80/mania238/30HGE1000/98824
 
 #EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Abertos", RecordTV SP SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/718
+http://ptvplay.life:80/mania238/30HGE1000/98825
 
 #EXTINF:-1 tvg-logo="http://a5.vc/NuR" group-title="Abertos", RedeTV FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/524
+http://ptvplay.life:80/mania238/30HGE1000/98819
 
 #EXTINF:-1 tvg-logo="http://a5.vc/NuR" group-title="Abertos", RedeTV HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/277
+http://ptvplay.life:80/mania238/30HGE1000/98820
 
 #EXTINF:-1 tvg-logo="http://a5.vc/NuR" group-title="Abertos", RedeTV SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/634
+http://ptvplay.life:80/mania238/30HGE1000/98821
 
 #EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Abertos", SBT SP FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/483
+http://ptvplay.life:80/mania238/30HGE1000/98799
 
 #EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Abertos", SBT SP HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/210
+http://ptvplay.life:80/mania238/30HGE1000/98800
 
 #EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Abertos", SBT SP SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/635
+http://ptvplay.life:80/mania238/30HGE1000/98801
 
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Abertos", TV Cultura FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/223
+http://ptvplay.life:80/mania238/30HGE1000/12034
 
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Abertos", TV Cultura HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/223
+http://ptvplay.life:80/mania238/30HGE1000/1674
 
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Abertos", TV Cultura SD
 http://connecttvapp.xyz:80/hk0528377/0528377hkxx/223
 
-#EXTINF:-1 tvg-logo="http://a5.vc/QZr" group-title="Abertos", TV Gazeta SP FHD
+[]#EXTINF:-1 tvg-logo="http://a5.vc/QZr" group-title="Abertos", TV Gazeta SP FHD
 http://connecttvapp.xyz:80/hk0528377/0528377hkxx/411
 
-#EXTINF:-1 tvg-logo="http://a5.vc/QZr" group-title="Abertos", TV Gazeta SP HD
+[]#EXTINF:-1 tvg-logo="http://a5.vc/QZr" group-title="Abertos", TV Gazeta SP HD
 http://connecttvapp.xyz:80/hk0528377/0528377hkxx/224
 
 
@@ -431,58 +432,58 @@ ___________________ESPORTES_________________
 
 
 #EXTINF:-1 tvg-logo="http://a5.vc/j8Y" group-title="Esportes", Band Sports FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/422
+http://ptvplay.life:80/mania238/30HGE1000/1523
 
 #EXTINF:-1 tvg-logo="http://a5.vc/j8Y" group-title="Esportes", Band Sports HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/230
+http://ptvplay.life:80/mania238/30HGE1000/1524
 
 #EXTINF:-1 tvg-logo="http://a5.vc/j8Y" group-title="Esportes", Band Sports SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/690
+http://ptvplay.life:80/mania238/30HGE1000/101011
 
 #EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Esportes", Combate FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/424
+http://ptvplay.life:80/mania238/30HGE1000/101041
 
 #EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Esportes", Combate HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/241
+http://ptvplay.life:80/mania238/30HGE1000/101012
 
 #EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Esportes", Combate SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/569
-
-#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Esportes", ESPN 2 FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/426
-
-#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Esportes", ESPN 2 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/190
-
-#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Esportes", ESPN 2 SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/689
-
-#EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="Esportes", ESPN Brasil FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/543
-
-#EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="Esportes", ESPN Brasil HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/189
-
-#EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="Esportes", ESPN Brasil SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/580
-
-#EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="Esportes", ESPN Extra FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/468
-
-#EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="Esportes", ESPN Extra HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/191
-
-#EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="Esportes", ESPN Extra SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/581
+http://ptvplay.life:80/mania238/30HGE1000/101013
 
 #EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Esportes", ESPN FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/520
+http://ptvplay.life:80/mania238/30HGE1000/16339
 
 #EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Esportes", ESPN HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/249
+http://ptvplay.life:80/mania238/30HGE1000/101027
 
 #EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Esportes", ESPN SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/582
+http://ptvplay.life:80/mania238/30HGE1000/101028
+
+#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Esportes", ESPN 2 FHD
+http://ptvplay.life:80/mania238/30HGE1000/16335
+
+#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Esportes", ESPN 2 HD
+http://ptvplay.life:80/mania238/30HGE1000/101023
+
+#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Esportes", ESPN 2 SD
+http://ptvplay.life:80/mania238/30HGE1000/101024
+
+#EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="Esportes", ESPN Brasil FHD
+http://ptvplay.life:80/mania238/30HGE1000/1554
+
+#EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="Esportes", ESPN Brasil HD
+http://ptvplay.life:80/mania238/30HGE1000/99382
+
+#EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="Esportes", ESPN Brasil SD
+http://ptvplay.life:80/mania238/30HGE1000/99381
+
+#EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="Esportes", ESPN Extra FHD
+http://ptvplay.life:80/mania238/30HGE1000/1558
+
+#EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="Esportes", ESPN Extra HD
+http://ptvplay.life:80/mania238/30HGE1000/101026
+
+#EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="Esportes", ESPN Extra SD
+http://ptvplay.life:80/mania238/30HGE1000/101025
 
 #EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Esportes", Fox Sports FHD
 http://connecttvapp.xyz:80/hk0528377/0528377hkxx/431
@@ -1180,6 +1181,26 @@ http://vipeiptv.com:25461/17663190818/17663190818/956698
 
 
 ___________________VARIEDADES_________________
+
+
+#EXTINF:-1,BAND NEWS HD
+http://ptvplay.life:80/mania238/30HGE1000/1522
+#EXTINF:-1,BAND NEWS UHD
+http://ptvplay.life:80/mania238/30HGE1000/25130
+#EXTINF:-1,GLOBO NEWS SP 4K
+http://ptvplay.life:80/mania238/30HGE1000/25153
+#EXTINF:-1,GLOBO NEWS SP UHD
+http://ptvplay.life:80/mania238/30HGE1000/25154
+
+#EXTINF:-1,RECORD NEWS HD**
+http://ptvplay.life:80/mania238/30HGE1000/1635
+#EXTINF:-1,RECORD NEWS U4K
+http://ptvplay.life:80/mania238/30HGE1000/25157
+#EXTINF:-1,RECORD NEWS UHD
+http://ptvplay.life:80/mania238/30HGE1000/25158
+
+
+
 ___________________VARIEDADES_________________
 ___________________VARIEDADES_________________
 ___________________VARIEDADES_________________
