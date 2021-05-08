@@ -7,7 +7,7 @@ ___________________ABERTOS_________________
 http://ptvplay.life:80/mania238/30HGE1000/20278
 
 #EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Abertos", Band SP HD
-http://ptvplay.life:80/mania238/30HGE1000/20279
+http://www.sansat.net:25461/QgnSM9uxNSSHtFk/VyGUCX5NYvXoyyU/101858
 
 #EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Abertos", Band SP SD
 http://ptvplay.life:80/mania238/30HGE1000/20280
@@ -485,10 +485,6 @@ http://ptvplay.life:80/mania238/30HGE1000/101026
 #EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="Esportes", ESPN Extra SD
 http://ptvplay.life:80/mania238/30HGE1000/101025
 
-
-
-
-
 #EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Esportes", Fox Sports FHD
 http://ptvplay.life:80/mania238/30HGE1000/101032
 
@@ -506,9 +502,6 @@ http://ptvplay.life:80/mania238/30HGE1000/101030
 
 #EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Esportes", Fox Sports 2 SD
 http://ptvplay.life:80/mania238/30HGE1000/101031
-
-
-
 
 #EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Esportes", SporTV FHD
 http://ptvplay.life:80/mania238/30HGE1000/16329
@@ -540,30 +533,6 @@ http://ptvplay.life:80/mania238/30HGE1000/101040
 
 
 ___________________PPV_________________
-
-
-#EXTINF:-1,Premiere 3 HD
-
-#EXTINF:-1,Premiere 3 HD Alternativo
-
-#EXTINF:-1,Premiere 3 SD
-
-#EXTINF:-1,Premiere 4 HD
-
-#EXTINF:-1,Premiere 4 HD Alternativo
-
-#EXTINF:-1,Premiere 4 SD
-
-#EXTINF:-1,Premiere 5 HD
-
-#EXTINF:-1,Premiere 5 HD Alternativo
-
-#EXTINF:-1,Premiere 5 SD
-
-#EXTINF:-1,Premiere 6 HD
-
-#EXTINF:-1,Premiere 6 SD
-
 
 
 
@@ -639,26 +608,32 @@ http://ptvplay.life:80/mania238/30HGE1000/1624
 #EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="●PPV●", Premiere Clubes SD
 http://ptvplay.life:80/mania238/30HGE1000/1624
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Auto_motor_sport_channel_logo.png" group-title="●PPV●", AUTOMOTOR SPORT HD
+[]#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Auto_motor_sport_channel_logo.png" group-title="●PPV●", AUTOMOTOR SPORT HD
 http://4p.vc:80/K7y6g34drYdn/9771144045/77788
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vBDogfl.png" group-title="●PPV●", Campeonato Carioca 1 FHD
 http://4p.vc:80/K7y6g34drYdn/9771144045/96513
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vBDogfl.png" group-title="●PPV●", Campeonato Carioca 1 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/26252
+http://ptvplay.life:80/mania238/30HGE1000/99358
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vBDogfl.png" group-title="●PPV●", Campeonato Carioca 1 SD
-http://4p.vc:80/K7y6g34drYdn/9771144045/96516
+http://ptvplay.life:80/mania238/30HGE1000/99406
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vBDogfl.png" group-title="●PPV●", Campeonato Carioca 2 FHD
 http://4p.vc:80/K7y6g34drYdn/9771144045/96517
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vBDogfl.png" group-title="●PPV●", Campeonato Carioca 2 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/26265
+http://ptvplay.life:80/mania238/30HGE1000/99359
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vBDogfl.png" group-title="●PPV●", Campeonato Carioca 2 SD
-http://4p.vc:80/K7y6g34drYdn/9771144045/96520
+http://ptvplay.life:80/mania238/30HGE1000/99405
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vBDogfl.png" group-title="●PPV●", Campeonato Carioca 3 HD
+http://ptvplay.life:80/mania238/30HGE1000/99360
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vBDogfl.png" group-title="●PPV●", Campeonato Carioca 4 HD
+http://ptvplay.life:80/mania238/30HGE1000/99361
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q7PzTSJ.png" group-title="●PPV●", Conmebol TV 1 FHD
 http://ptvplay.life:80/mania238/30HGE1000/98744
@@ -697,28 +672,31 @@ http://ptvplay.life:80/mania238/30HGE1000/99372
 http://ptvplay.life:80/mania238/30HGE1000/99373
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sy9Jvbh.png" group-title="●PPV●", Copa do Nordeste 1 FHD
-http://4p.vc:80/K7y6g34drYdn/9771144045/96505
+http://ptvplay.life:80/mania238/30HGE1000/98735
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sy9Jvbh.png" group-title="●PPV●", Copa do Nordeste 1 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/158
+http://ptvplay.life:80/mania238/30HGE1000/99362
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sy9Jvbh.png" group-title="●PPV●", Copa do Nordeste 1 SD
-http://4p.vc:80/K7y6g34drYdn/9771144045/96508
+http://ptvplay.life:80/mania238/30HGE1000/99365
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sy9Jvbh.png" group-title="●PPV●", Copa do Nordeste 2 FHD
-http://4p.vc:80/K7y6g34drYdn/9771144045/96509
+http://ptvplay.life:80/mania238/30HGE1000/98736
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sy9Jvbh.png" group-title="●PPV●", Copa do Nordeste 2 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/161
+http://ptvplay.life:80/mania238/30HGE1000/99363
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sy9Jvbh.png" group-title="●PPV●", Copa do Nordeste 2 SD
-http://4p.vc:80/K7y6g34drYdn/9771144045/96512
+http://ptvplay.life:80/mania238/30HGE1000/99407
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sy9Jvbh.png" group-title="●PPV●", Copa do Nordeste 3 FHD
+http://ptvplay.life:80/mania238/30HGE1000/98737
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sy9Jvbh.png" group-title="●PPV●", Copa do Nordeste 3 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/726
+http://ptvplay.life:80/mania238/30HGE1000/99364
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sy9Jvbh.png" group-title="●PPV●", Copa do Nordeste 4 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/729
+http://ptvplay.life:80/mania238/30HGE1000/98738
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sy9Jvbh.png" group-title="●PPV●", Copa do Nordeste 5 HD
 http://connecttvapp.xyz:80/hk0528377/0528377hkxx/26697
@@ -727,25 +705,37 @@ http://connecttvapp.xyz:80/hk0528377/0528377hkxx/26697
 http://connecttvapp.xyz:80/hk0528377/0528377hkxx/26698
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sy9Jvbh.png" group-title="●PPV●", Campeonato Catarinense 1 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/159
+http://ptvplay.life:80/mania238/30HGE1000/99355
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sy9Jvbh.png" group-title="●PPV●", Campeonato Catarinense 1 SD
 http://connecttvapp.xyz:80/hk0528377/0528377hkxx/727
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sy9Jvbh.png" group-title="●PPV●", Campeonato Catarinense 2 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/160
+http://ptvplay.life:80/mania238/30HGE1000/99356
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sy9Jvbh.png" group-title="●PPV●", Campeonato Catarinense 2 SD
 http://connecttvapp.xyz:80/hk0528377/0528377hkxx/728
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cfUfPXQ.png" group-title="●PPV●", DAZN FHD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/416
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sy9Jvbh.png" group-title="●PPV●", Campeonato Catarinense 3 HD
+http://ptvplay.life:80/mania238/30HGE1000/99357
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cfUfPXQ.png" group-title="●PPV●", DAZN HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/280
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sy9Jvbh.png" group-title="●PPV●", Campeonato Catarinense 3 SD
+http://connecttvapp.xyz:80/hk0528377/0528377hkxx/728
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cfUfPXQ.png" group-title="●PPV●", DAZN SD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/703
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cfUfPXQ.png" group-title="●PPV●", DAZN 1
+http://ptvplay.life:80/mania238/30HGE1000/99374
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cfUfPXQ.png" group-title="●PPV●", DAZN 2
+http://ptvplay.life:80/mania238/30HGE1000/99375
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cfUfPXQ.png" group-title="●PPV●", DAZN 3
+http://ptvplay.life:80/mania238/30HGE1000/99376
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cfUfPXQ.png" group-title="●PPV●", DAZN 4
+http://ptvplay.life:80/mania238/30HGE1000/99377
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cfUfPXQ.png" group-title="●PPV●", DAZN 5
+http://ptvplay.life:80/mania238/30HGE1000/99378
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CwtqFOc.png" group-title="●PPV●", Eleven Sports 1 FHD
 http://4p.vc:80/K7y6g34drYdn/9771144045/73254
@@ -766,22 +756,31 @@ http://4p.vc:80/K7y6g34drYdn/9771144045/73258
 http://4p.vc:80/K7y6g34drYdn/9771144045/73259
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SbPNwZQ.png" group-title="●PPV●", Estádio TNT Sports 1 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/21935
+http://ptvplay.life:80/mania238/30HGE1000/101014
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SbPNwZQ.png" group-title="●PPV●", Estádio TNT Sports 2 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/153
+http://ptvplay.life:80/mania238/30HGE1000/101015
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SbPNwZQ.png" group-title="●PPV●", Estádio TNT Sports 3 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/154
+http://ptvplay.life:80/mania238/30HGE1000/101016
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SbPNwZQ.png" group-title="●PPV●", Estádio TNT Sports 4 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/155
+http://ptvplay.life:80/mania238/30HGE1000/101017
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SbPNwZQ.png" group-title="●PPV●", Estádio TNT Sports 5 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/156
+http://ptvplay.life:80/mania238/30HGE1000/101018
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SbPNwZQ.png" group-title="●PPV●", Estádio TNT Sports 6 HD
-http://connecttvapp.xyz:80/hk0528377/0528377hkxx/157
+http://ptvplay.life:80/mania238/30HGE1000/101019
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SbPNwZQ.png" group-title="●PPV●", Estádio TNT Sports 7 HD
+http://ptvplay.life:80/mania238/30HGE1000/101020
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SbPNwZQ.png" group-title="●PPV●", Estádio TNT Sports 8 HD
+http://ptvplay.life:80/mania238/30HGE1000/101021
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SbPNwZQ.png" group-title="●PPV●", Estádio TNT Sports 9 HD
+http://ptvplay.life:80/mania238/30HGE1000/101022
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/upVGNqd.png" group-title="●PPV●", Facebook Watch
 http://4p.vc:80/K7y6g34drYdn/9771144045/73005
