@@ -1,8 +1,8 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/homer-simpson-holding-beer-duff-logo-9172512EF9-seeklogo.com.png" group-title="♛Lista Validade 29/05/2021♛", Validade 29/05/2021
+#EXTINF:-1 tvg-id="" tvg-name="Validade 29/05/2021" tvg-logo="https://seeklogo.com/images/H/homer-simpson-holding-beer-duff-logo-9172512EF9-seeklogo.com.png" group-title="Lista Validade 29/05/2021",Validade 29/05/2021
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CGs9QKD.jpg" group-title="♛Lista Suprema♛", Lista Suprema @listasuprema (Grupo Telegram)
 
 #EXTINF:-1 tvg-id="" tvg-name="OS SIMPSONS 1989/1999" tvg-logo="" group-title="24H | DESENHOS",OS SIMPSONS 1989/1999
 http://cmsppv.life:80/Osni2020/Osni2020/567706
