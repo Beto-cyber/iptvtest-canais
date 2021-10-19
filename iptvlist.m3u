@@ -1,16 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://ccdn.so:80/images/31e32f90d2c4f9dfea80f259f7c149b4.jpg" group-title="◆Filmes | [XXX] Adultos",Oh! Rebuceteio
-http://b5.vc:80/movie/danilo10/10danilo/128892.mp4
 
 #EXTINF:-1 tvg-logo="http://ccdn.so:80/images/51eca9c50410f13cf057b909f1f70765.jpg" group-title="◆Filmes | Animacao",Os Novos Vingadores - Os Heróis do Amanhã
 http://b5.vc:80/movie/danilo10/10danilo/128852.mp4
 
 #EXTINF:-1 tvg-logo="http://ccdn.so:80/images/4e83194aad8ed53ed3d7a19c079fc570.jpg" group-title="◆Filmes | Lancamentos",Schumacher
 http://b5.vc:80/movie/danilo10/10danilo/128636.mp4
-
-#EXTINF:-1 tvg-logo="http://ccdn.so:80/images/f4bb0588799080e4cc57f7ce9dda30a3.jpg" group-title="◆Filmes | Animacao",Scooby-Doo! - O Misterio Começa
-http://b5.vc:80/movie/danilo10/10danilo/128531.mp4
 
 #EXTINF:-1 tvg-logo="http://ccdn.so:80/images/7650e4b9091c98f20afdc7326fbe4d07.jpg" group-title="◆Filmes | 4K",Batman:  O Longo Dia das Bruxas – Parte 2 4K
 http://b5.vc:80/movie/danilo10/10danilo/128501.mp4
@@ -30,16 +25,6 @@ http://b5.vc:80/movie/danilo10/10danilo/125988.mp4
 #EXTINF:-1 tvg-logo="http://ccdn.so:80/images/bdeaeb529a872343d9a7f2d23cd06ebb.jpg" group-title="◆Filmes | Comedia",O Primeiro Mentiroso
 http://b5.vc:80/movie/danilo10/10danilo/128633.mp4
 
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/qdyuyfHBSPEN6Zvicr8kM6dBYTS_big.jpg" group-title="Séries - Criminal Minds",Criminal Minds S11 E01
-http://vipeiptv.com:25461/series/17663190818/17663190818/945121.mp4
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/qdyuyfHBSPEN6Zvicr8kM6dBYTS_big.jpg" group-title="Séries - Criminal Minds",Criminal Minds S11 E02
-http://vipeiptv.com:25461/series/17663190818/17663190818/945122.mp4
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/qdyuyfHBSPEN6Zvicr8kM6dBYTS_big.jpg" group-title="Séries - Criminal Minds",Criminal Minds S11 E03
-http://vipeiptv.com:25461/series/17663190818/17663190818/945123.mp4
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/qdyuyfHBSPEN6Zvicr8kM6dBYTS_big.jpg" group-title="Séries - Criminal Minds",Criminal Minds S11 E04
-http://vipeiptv.com:25461/series/17663190818/17663190818/945124.mp4
-#EXTINF:-1 tvg-logo="http://srvx.io:80/images/qdyuyfHBSPEN6Zvicr8kM6dBYTS_big.jpg" group-title="Séries - Criminal Minds",Criminal Minds S11 E05
-http://vipeiptv.com:25461/series/17663190818/17663190818/945125.mp4
 #EXTINF:-1 tvg-logo="http://srvx.io:80/images/qdyuyfHBSPEN6Zvicr8kM6dBYTS_big.jpg" group-title="Séries - Criminal Minds",Criminal Minds S11 E06
 http://vipeiptv.com:25461/series/17663190818/17663190818/945126.mp4
 #EXTINF:-1 tvg-logo="http://srvx.io:80/images/qdyuyfHBSPEN6Zvicr8kM6dBYTS_big.jpg" group-title="Séries - Criminal Minds",Criminal Minds S11 E07
