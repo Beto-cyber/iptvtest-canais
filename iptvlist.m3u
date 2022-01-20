@@ -1,22 +1,5 @@
-#EXTM3U
+ #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://ccdn.so:80/images/51eca9c50410f13cf057b909f1f70765.jpg" group-title="◆Filmes | Animacao",Os Novos Vingadores - Os Heróis do Amanhã
-http://b5.vc:80/movie/danilo10/10danilo/128852.mp4
-
-#EXTINF:-1 tvg-logo="http://ccdn.so:80/images/4e83194aad8ed53ed3d7a19c079fc570.jpg" group-title="◆Filmes | Lancamentos",Schumacher
-http://b5.vc:80/movie/danilo10/10danilo/128636.mp4
-
-#EXTINF:-1 tvg-logo="http://ccdn.so:80/images/7650e4b9091c98f20afdc7326fbe4d07.jpg" group-title="◆Filmes | Animacao",Batman:  O Longo Dia das Bruxas – Parte 2
-http://b5.vc:80/movie/danilo10/10danilo/125990.mp4
-
-#EXTINF:-1 tvg-logo="http://ccdn.so:80/images/b26a2de7f7f8cf062d42132a4bcd1632.jpg" group-title="◆Filmes | Animacao",Batman:  O Longo Dia das Bruxas – Parte 1
-http://b5.vc:80/movie/danilo10/10danilo/114375.mp4
-
-#EXTINF:-1 tvg-logo="http://ccdn.so:80/images/c3a716650fea6760ca34e66ea82fb67c.jpg" group-title="◆Filmes | Lancamentos",O Esquadrão Suicida
-http://b5.vc:80/movie/danilo10/10danilo/117527.mp4
-
-#EXTINF:-1 tvg-logo="http://ccdn.so:80/images/86e84027c7e8744efc77760ff564bc5a.jpg" group-title="◆Filmes | Lancamentos",Mortal Kombat Legends: Batalha dos Reinos
-http://b5.vc:80/movie/danilo10/10danilo/125988.mp4
 
 #EXTINF:-1 tvg-logo="http://ccdn.so:80/images/bdeaeb529a872343d9a7f2d23cd06ebb.jpg" group-title="◆Filmes | Comedia",O Primeiro Mentiroso
 http://b5.vc:80/movie/danilo10/10danilo/128633.mp4
@@ -25,40 +8,327 @@ http://b5.vc:80/movie/danilo10/10danilo/128633.mp4
 
 
 
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S05",Lei & Ordem: Unidade de Vítimas Especiais S05E22
+http://b5.vc:80/series/danilo10/10danilo/95404.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S05",Lei & Ordem: Unidade de Vítimas Especiais S05E23
+http://b5.vc:80/series/danilo10/10danilo/95405.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S05",Lei & Ordem: Unidade de Vítimas Especiais S05E24
+http://b5.vc:80/series/danilo10/10danilo/95406.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S05",Lei & Ordem: Unidade de Vítimas Especiais S05E25
+http://b5.vc:80/series/danilo10/10danilo/95407.mp4
+
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S06",Lei & Ordem: Unidade de Vítimas Especiais S06E01
+http://b5.vc:80/series/danilo10/10danilo/95408.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S06",Lei & Ordem: Unidade de Vítimas Especiais S06E02
+http://b5.vc:80/series/danilo10/10danilo/95409.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S06",Lei & Ordem: Unidade de Vítimas Especiais S06E03
+http://b5.vc:80/series/danilo10/10danilo/95410.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S06",Lei & Ordem: Unidade de Vítimas Especiais S06E04
+http://b5.vc:80/series/danilo10/10danilo/95411.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S06",Lei & Ordem: Unidade de Vítimas Especiais S06E05
+http://b5.vc:80/series/danilo10/10danilo/95412.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S06",Lei & Ordem: Unidade de Vítimas Especiais S06E06
+http://b5.vc:80/series/danilo10/10danilo/95413.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S06",Lei & Ordem: Unidade de Vítimas Especiais S06E07
+http://b5.vc:80/series/danilo10/10danilo/95414.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S06",Lei & Ordem: Unidade de Vítimas Especiais S06E08
+http://b5.vc:80/series/danilo10/10danilo/95415.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S06",Lei & Ordem: Unidade de Vítimas Especiais S06E09
+http://b5.vc:80/series/danilo10/10danilo/95416.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S06",Lei & Ordem: Unidade de Vítimas Especiais S06E10
+http://b5.vc:80/series/danilo10/10danilo/95417.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S06",Lei & Ordem: Unidade de Vítimas Especiais S06E11
+http://b5.vc:80/series/danilo10/10danilo/95418.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S06",Lei & Ordem: Unidade de Vítimas Especiais S06E12
+http://b5.vc:80/series/danilo10/10danilo/95419.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S06",Lei & Ordem: Unidade de Vítimas Especiais S06E13
+http://b5.vc:80/series/danilo10/10danilo/95420.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S06",Lei & Ordem: Unidade de Vítimas Especiais S06E14
+http://b5.vc:80/series/danilo10/10danilo/95421.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S06",Lei & Ordem: Unidade de Vítimas Especiais S06E15
+http://b5.vc:80/series/danilo10/10danilo/95422.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S06",Lei & Ordem: Unidade de Vítimas Especiais S06E16
+http://b5.vc:80/series/danilo10/10danilo/95423.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S06",Lei & Ordem: Unidade de Vítimas Especiais S06E17
+http://b5.vc:80/series/danilo10/10danilo/95424.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S06",Lei & Ordem: Unidade de Vítimas Especiais S06E18
+http://b5.vc:80/series/danilo10/10danilo/95425.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S06",Lei & Ordem: Unidade de Vítimas Especiais S06E19
+http://b5.vc:80/series/danilo10/10danilo/95426.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S06",Lei & Ordem: Unidade de Vítimas Especiais S06E20
+http://b5.vc:80/series/danilo10/10danilo/95427.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S06",Lei & Ordem: Unidade de Vítimas Especiais S06E21
+http://b5.vc:80/series/danilo10/10danilo/95428.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S06",Lei & Ordem: Unidade de Vítimas Especiais S06E22
+http://b5.vc:80/series/danilo10/10danilo/95429.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S06",Lei & Ordem: Unidade de Vítimas Especiais S06E23
+http://b5.vc:80/series/danilo10/10danilo/95430.mp4
+
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S07",Lei & Ordem: Unidade de Vítimas Especiais S07E01
+http://b5.vc:80/series/danilo10/10danilo/95431.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S07",Lei & Ordem: Unidade de Vítimas Especiais S07E02
+http://b5.vc:80/series/danilo10/10danilo/95432.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S07",Lei & Ordem: Unidade de Vítimas Especiais S07E03
+http://b5.vc:80/series/danilo10/10danilo/95433.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S07",Lei & Ordem: Unidade de Vítimas Especiais S07E04
+http://b5.vc:80/series/danilo10/10danilo/95434.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S07",Lei & Ordem: Unidade de Vítimas Especiais S07E05
+http://b5.vc:80/series/danilo10/10danilo/95435.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S07",Lei & Ordem: Unidade de Vítimas Especiais S07E06
+http://b5.vc:80/series/danilo10/10danilo/95436.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S07",Lei & Ordem: Unidade de Vítimas Especiais S07E07
+http://b5.vc:80/series/danilo10/10danilo/95437.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S07",Lei & Ordem: Unidade de Vítimas Especiais S07E08
+http://b5.vc:80/series/danilo10/10danilo/95438.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S07",Lei & Ordem: Unidade de Vítimas Especiais S07E09
+http://b5.vc:80/series/danilo10/10danilo/95439.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S07",Lei & Ordem: Unidade de Vítimas Especiais S07E10
+http://b5.vc:80/series/danilo10/10danilo/95440.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S07",Lei & Ordem: Unidade de Vítimas Especiais S07E11
+http://b5.vc:80/series/danilo10/10danilo/95441.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S07",Lei & Ordem: Unidade de Vítimas Especiais S07E12
+http://b5.vc:80/series/danilo10/10danilo/95442.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S07",Lei & Ordem: Unidade de Vítimas Especiais S07E13
+http://b5.vc:80/series/danilo10/10danilo/95443.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S07",Lei & Ordem: Unidade de Vítimas Especiais S07E14
+http://b5.vc:80/series/danilo10/10danilo/95444.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S07",Lei & Ordem: Unidade de Vítimas Especiais S07E15
+http://b5.vc:80/series/danilo10/10danilo/95445.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S07",Lei & Ordem: Unidade de Vítimas Especiais S07E16
+http://b5.vc:80/series/danilo10/10danilo/95446.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S07",Lei & Ordem: Unidade de Vítimas Especiais S07E17
+http://b5.vc:80/series/danilo10/10danilo/95447.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S07",Lei & Ordem: Unidade de Vítimas Especiais S07E18
+http://b5.vc:80/series/danilo10/10danilo/95448.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S07",Lei & Ordem: Unidade de Vítimas Especiais S07E19
+http://b5.vc:80/series/danilo10/10danilo/95449.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S07",Lei & Ordem: Unidade de Vítimas Especiais S07E20
+http://b5.vc:80/series/danilo10/10danilo/95450.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S07",Lei & Ordem: Unidade de Vítimas Especiais S07E21
+http://b5.vc:80/series/danilo10/10danilo/95451.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S07",Lei & Ordem: Unidade de Vítimas Especiais S07E22
+http://b5.vc:80/series/danilo10/10danilo/95452.mp4
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yT9lTUkwbGV64wN0rqW7DubKp0h.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S22E01
+
+
+
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S18",Lei & Ordem: Unidade de Vítimas Especiais S18E01
+http://b5.vc:80/series/danilo10/10danilo/95775.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S18",Lei & Ordem: Unidade de Vítimas Especiais S18E02
+http://b5.vc:80/series/danilo10/10danilo/95776.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S18",Lei & Ordem: Unidade de Vítimas Especiais S18E03
+http://b5.vc:80/series/danilo10/10danilo/95777.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S18",Lei & Ordem: Unidade de Vítimas Especiais S18E04
+http://b5.vc:80/series/danilo10/10danilo/95778.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S18",Lei & Ordem: Unidade de Vítimas Especiais S18E05
+http://b5.vc:80/series/danilo10/10danilo/95779.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S18",Lei & Ordem: Unidade de Vítimas Especiais S18E06
+http://b5.vc:80/series/danilo10/10danilo/95780.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S18",Lei & Ordem: Unidade de Vítimas Especiais S18E07
+http://b5.vc:80/series/danilo10/10danilo/95781.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S18",Lei & Ordem: Unidade de Vítimas Especiais S18E08
+http://b5.vc:80/series/danilo10/10danilo/95782.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S18",Lei & Ordem: Unidade de Vítimas Especiais S18E09
+http://b5.vc:80/series/danilo10/10danilo/95783.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S18",Lei & Ordem: Unidade de Vítimas Especiais S18E10
+http://b5.vc:80/series/danilo10/10danilo/95784.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S18",Lei & Ordem: Unidade de Vítimas Especiais S18E11
+http://b5.vc:80/series/danilo10/10danilo/95785.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S18",Lei & Ordem: Unidade de Vítimas Especiais S18E12
+http://b5.vc:80/series/danilo10/10danilo/95786.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S18",Lei & Ordem: Unidade de Vítimas Especiais S18E13
+http://b5.vc:80/series/danilo10/10danilo/95787.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S18",Lei & Ordem: Unidade de Vítimas Especiais S18E14
+http://b5.vc:80/series/danilo10/10danilo/95788.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S18",Lei & Ordem: Unidade de Vítimas Especiais S18E15
+http://b5.vc:80/series/danilo10/10danilo/95789.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S18",Lei & Ordem: Unidade de Vítimas Especiais S18E16
+http://b5.vc:80/series/danilo10/10danilo/95790.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S18",Lei & Ordem: Unidade de Vítimas Especiais S18E17
+http://b5.vc:80/series/danilo10/10danilo/95791.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S18",Lei & Ordem: Unidade de Vítimas Especiais S18E18
+http://b5.vc:80/series/danilo10/10danilo/95792.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S18",Lei & Ordem: Unidade de Vítimas Especiais S18E19
+http://b5.vc:80/series/danilo10/10danilo/95793.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S18",Lei & Ordem: Unidade de Vítimas Especiais S18E20
+http://b5.vc:80/series/danilo10/10danilo/95794.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S18",Lei & Ordem: Unidade de Vítimas Especiais S18E21
+http://b5.vc:80/series/danilo10/10danilo/95795.mp4
+
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S19",Lei & Ordem: Unidade de Vítimas Especiais S19E01
+http://b5.vc:80/series/danilo10/10danilo/95796.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S19",Lei & Ordem: Unidade de Vítimas Especiais S19E02
+http://b5.vc:80/series/danilo10/10danilo/95797.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S19",Lei & Ordem: Unidade de Vítimas Especiais S19E03
+http://b5.vc:80/series/danilo10/10danilo/95798.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S19",Lei & Ordem: Unidade de Vítimas Especiais S19E04
+http://b5.vc:80/series/danilo10/10danilo/95799.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S19",Lei & Ordem: Unidade de Vítimas Especiais S19E05
+http://b5.vc:80/series/danilo10/10danilo/95800.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S19",Lei & Ordem: Unidade de Vítimas Especiais S19E06
+http://b5.vc:80/series/danilo10/10danilo/95801.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S19",Lei & Ordem: Unidade de Vítimas Especiais S19E07
+http://b5.vc:80/series/danilo10/10danilo/95802.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S19",Lei & Ordem: Unidade de Vítimas Especiais S19E08
+http://b5.vc:80/series/danilo10/10danilo/95803.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S19",Lei & Ordem: Unidade de Vítimas Especiais S19E09
+http://b5.vc:80/series/danilo10/10danilo/95804.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S19",Lei & Ordem: Unidade de Vítimas Especiais S19E10
+http://b5.vc:80/series/danilo10/10danilo/95805.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S19",Lei & Ordem: Unidade de Vítimas Especiais S19E11
+http://b5.vc:80/series/danilo10/10danilo/95806.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S19",Lei & Ordem: Unidade de Vítimas Especiais S19E12
+http://b5.vc:80/series/danilo10/10danilo/95807.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S19",Lei & Ordem: Unidade de Vítimas Especiais S19E13
+http://b5.vc:80/series/danilo10/10danilo/95808.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S19",Lei & Ordem: Unidade de Vítimas Especiais S19E14
+http://b5.vc:80/series/danilo10/10danilo/95809.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S19",Lei & Ordem: Unidade de Vítimas Especiais S19E15
+http://b5.vc:80/series/danilo10/10danilo/95810.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S19",Lei & Ordem: Unidade de Vítimas Especiais S19E16
+http://b5.vc:80/series/danilo10/10danilo/95811.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S19",Lei & Ordem: Unidade de Vítimas Especiais S19E17
+http://b5.vc:80/series/danilo10/10danilo/95812.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S19",Lei & Ordem: Unidade de Vítimas Especiais S19E18
+http://b5.vc:80/series/danilo10/10danilo/95813.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S19",Lei & Ordem: Unidade de Vítimas Especiais S19E19
+http://b5.vc:80/series/danilo10/10danilo/95814.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S19",Lei & Ordem: Unidade de Vítimas Especiais S19E20
+http://b5.vc:80/series/danilo10/10danilo/95815.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S19",Lei & Ordem: Unidade de Vítimas Especiais S19E21
+http://b5.vc:80/series/danilo10/10danilo/95816.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S19",Lei & Ordem: Unidade de Vítimas Especiais S19E22
+http://b5.vc:80/series/danilo10/10danilo/95817.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S19",Lei & Ordem: Unidade de Vítimas Especiais S19E23
+http://b5.vc:80/series/danilo10/10danilo/95818.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S19",Lei & Ordem: Unidade de Vítimas Especiais S19E24
+http://b5.vc:80/series/danilo10/10danilo/95819.mp4
+
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S20",Lei & Ordem: Unidade de Vítimas Especiais S20E01
+http://b5.vc:80/series/danilo10/10danilo/95820.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S20",Lei & Ordem: Unidade de Vítimas Especiais S20E02
+http://b5.vc:80/series/danilo10/10danilo/95821.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S20",Lei & Ordem: Unidade de Vítimas Especiais S20E03
+http://b5.vc:80/series/danilo10/10danilo/95822.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S20",Lei & Ordem: Unidade de Vítimas Especiais S20E04
+http://b5.vc:80/series/danilo10/10danilo/95823.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S20",Lei & Ordem: Unidade de Vítimas Especiais S20E05
+http://b5.vc:80/series/danilo10/10danilo/95824.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S20",Lei & Ordem: Unidade de Vítimas Especiais S20E06
+http://b5.vc:80/series/danilo10/10danilo/95825.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S20",Lei & Ordem: Unidade de Vítimas Especiais S20E07
+http://b5.vc:80/series/danilo10/10danilo/95826.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S20",Lei & Ordem: Unidade de Vítimas Especiais S20E08
+http://b5.vc:80/series/danilo10/10danilo/95827.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S20",Lei & Ordem: Unidade de Vítimas Especiais S20E09
+http://b5.vc:80/series/danilo10/10danilo/95828.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S20",Lei & Ordem: Unidade de Vítimas Especiais S20E10
+http://b5.vc:80/series/danilo10/10danilo/95829.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S20",Lei & Ordem: Unidade de Vítimas Especiais S20E11
+http://b5.vc:80/series/danilo10/10danilo/95830.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S20",Lei & Ordem: Unidade de Vítimas Especiais S20E12
+http://b5.vc:80/series/danilo10/10danilo/95831.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S20",Lei & Ordem: Unidade de Vítimas Especiais S20E13
+http://b5.vc:80/series/danilo10/10danilo/95832.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S20",Lei & Ordem: Unidade de Vítimas Especiais S20E14
+http://b5.vc:80/series/danilo10/10danilo/95833.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S20",Lei & Ordem: Unidade de Vítimas Especiais S20E15
+http://b5.vc:80/series/danilo10/10danilo/95834.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S20",Lei & Ordem: Unidade de Vítimas Especiais S20E16
+http://b5.vc:80/series/danilo10/10danilo/95835.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S20",Lei & Ordem: Unidade de Vítimas Especiais S20E17
+http://b5.vc:80/series/danilo10/10danilo/95836.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S20",Lei & Ordem: Unidade de Vítimas Especiais S20E18
+http://b5.vc:80/series/danilo10/10danilo/95837.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S20",Lei & Ordem: Unidade de Vítimas Especiais S20E19
+http://b5.vc:80/series/danilo10/10danilo/95838.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S20",Lei & Ordem: Unidade de Vítimas Especiais S20E20
+http://b5.vc:80/series/danilo10/10danilo/95839.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S20",Lei & Ordem: Unidade de Vítimas Especiais S20E21
+http://b5.vc:80/series/danilo10/10danilo/95840.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S20",Lei & Ordem: Unidade de Vítimas Especiais S20E22
+http://b5.vc:80/series/danilo10/10danilo/95841.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S20",Lei & Ordem: Unidade de Vítimas Especiais S20E23
+http://b5.vc:80/series/danilo10/10danilo/95842.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S20",Lei & Ordem: Unidade de Vítimas Especiais S20E24
+http://b5.vc:80/series/danilo10/10danilo/95843.mp4
+
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S21",Lei & Ordem: Unidade de Vítimas Especiais S21E01
+http://b5.vc:80/series/danilo10/10danilo/95844.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S21",Lei & Ordem: Unidade de Vítimas Especiais S21E02
+http://b5.vc:80/series/danilo10/10danilo/95845.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S21",Lei & Ordem: Unidade de Vítimas Especiais S21E03
+http://b5.vc:80/series/danilo10/10danilo/95846.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S21",Lei & Ordem: Unidade de Vítimas Especiais S21E04
+http://b5.vc:80/series/danilo10/10danilo/95847.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S21",Lei & Ordem: Unidade de Vítimas Especiais S21E05
+http://b5.vc:80/series/danilo10/10danilo/95848.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S21",Lei & Ordem: Unidade de Vítimas Especiais S21E06
+http://b5.vc:80/series/danilo10/10danilo/95849.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S21",Lei & Ordem: Unidade de Vítimas Especiais S21E07
+http://b5.vc:80/series/danilo10/10danilo/95850.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S21",Lei & Ordem: Unidade de Vítimas Especiais S21E08
+http://b5.vc:80/series/danilo10/10danilo/95851.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S21",Lei & Ordem: Unidade de Vítimas Especiais S21E09
+http://b5.vc:80/series/danilo10/10danilo/95852.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S21",Lei & Ordem: Unidade de Vítimas Especiais S21E10
+http://b5.vc:80/series/danilo10/10danilo/95853.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S21",Lei & Ordem: Unidade de Vítimas Especiais S21E11
+http://b5.vc:80/series/danilo10/10danilo/95854.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S21",Lei & Ordem: Unidade de Vítimas Especiais S21E12
+http://b5.vc:80/series/danilo10/10danilo/95855.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S21",Lei & Ordem: Unidade de Vítimas Especiais S21E13
+http://b5.vc:80/series/danilo10/10danilo/95856.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S21",Lei & Ordem: Unidade de Vítimas Especiais S21E14
+http://b5.vc:80/series/danilo10/10danilo/95857.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S21",Lei & Ordem: Unidade de Vítimas Especiais S21E15
+http://b5.vc:80/series/danilo10/10danilo/95858.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S21",Lei & Ordem: Unidade de Vítimas Especiais S21E16
+http://b5.vc:80/series/danilo10/10danilo/95859.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S21",Lei & Ordem: Unidade de Vítimas Especiais S21E17
+http://b5.vc:80/series/danilo10/10danilo/95860.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S21",Lei & Ordem: Unidade de Vítimas Especiais S21E18
+http://b5.vc:80/series/danilo10/10danilo/95861.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S21",Lei & Ordem: Unidade de Vítimas Especiais S21E19
+http://b5.vc:80/series/danilo10/10danilo/95862.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S21",Lei & Ordem: Unidade de Vítimas Especiais S21E20
+http://b5.vc:80/series/danilo10/10danilo/95863.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yT9lTUkwbGV64wN0rqW7DubKp0h.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S22",Lei & Ordem: Unidade de Vítimas Especiais S22E01
 http://b5.vc:80/series/danilo10/10danilo/129805.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/40YJOXudRI5E5p5I35A8IYNty1g.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S22E02
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/40YJOXudRI5E5p5I35A8IYNty1g.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S22",Lei & Ordem: Unidade de Vítimas Especiais S22E02
 http://b5.vc:80/series/danilo10/10danilo/129806.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zD4OYUctQk8IWQGY7jNgL7N9JMa.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S22E03
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zD4OYUctQk8IWQGY7jNgL7N9JMa.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S22",Lei & Ordem: Unidade de Vítimas Especiais S22E03
 http://b5.vc:80/series/danilo10/10danilo/129807.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/20JkHQlrpBEOGe3eFCmkSsV9SaP.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S22E04
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/20JkHQlrpBEOGe3eFCmkSsV9SaP.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S22",Lei & Ordem: Unidade de Vítimas Especiais S22E04
 http://b5.vc:80/series/danilo10/10danilo/129808.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8hT41fvOybnEq3dB2uL39HrSEsZ.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S22E05
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8hT41fvOybnEq3dB2uL39HrSEsZ.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S22",Lei & Ordem: Unidade de Vítimas Especiais S22E05
 http://b5.vc:80/series/danilo10/10danilo/129809.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1VqeFbb5CKrZLQMAPqwIthM3pbT.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S22E06
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1VqeFbb5CKrZLQMAPqwIthM3pbT.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S22",Lei & Ordem: Unidade de Vítimas Especiais S22E06
 http://b5.vc:80/series/danilo10/10danilo/129810.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrC1UakjhHaLq1rmPNTKB4nz0Xa.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S22E07
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrC1UakjhHaLq1rmPNTKB4nz0Xa.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S22",Lei & Ordem: Unidade de Vítimas Especiais S22E07
 http://b5.vc:80/series/danilo10/10danilo/129811.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s6Kgc2yndcpZe1hTVmvf889JFW4.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S22E08
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s6Kgc2yndcpZe1hTVmvf889JFW4.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S22",Lei & Ordem: Unidade de Vítimas Especiais S22E08
 http://b5.vc:80/series/danilo10/10danilo/129812.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Qn3hOBiHtzHVhaOEMSpxbiPdAs.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S22E09
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Qn3hOBiHtzHVhaOEMSpxbiPdAs.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S22",Lei & Ordem: Unidade de Vítimas Especiais S22E09
 http://b5.vc:80/series/danilo10/10danilo/129813.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gIj4diGJzIH75ySZK6ixxo20G7b.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S22E10
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gIj4diGJzIH75ySZK6ixxo20G7b.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S22",Lei & Ordem: Unidade de Vítimas Especiais S22E10
 http://b5.vc:80/series/danilo10/10danilo/129814.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1QYc4P26tVzkcCOcbpfj4kwIW3s.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S22E11
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1QYc4P26tVzkcCOcbpfj4kwIW3s.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S22",Lei & Ordem: Unidade de Vítimas Especiais S22E11
 http://b5.vc:80/series/danilo10/10danilo/129815.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kagsfb5PZ3OrQM3LijRAIymZFCz.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S22E12
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kagsfb5PZ3OrQM3LijRAIymZFCz.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S22",Lei & Ordem: Unidade de Vítimas Especiais S22E12
 http://b5.vc:80/series/danilo10/10danilo/129816.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhgfnlm8bYPnuLVtzVaMjNKzFg9.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S22E13
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhgfnlm8bYPnuLVtzVaMjNKzFg9.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S22",Lei & Ordem: Unidade de Vítimas Especiais S22E13
 http://b5.vc:80/series/danilo10/10danilo/129817.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hxx3vL9Mvxa3QXWUMCv1H8YYtYz.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S22E14
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hxx3vL9Mvxa3QXWUMCv1H8YYtYz.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S22",Lei & Ordem: Unidade de Vítimas Especiais S22E14
 http://b5.vc:80/series/danilo10/10danilo/129818.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/MDON3UfrSf6zauToDeQLAVohCL.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S22E15
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/MDON3UfrSf6zauToDeQLAVohCL.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S22",Lei & Ordem: Unidade de Vítimas Especiais S22E15
 http://b5.vc:80/series/danilo10/10danilo/129819.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/geMPX60gevizzBD3HN5Cs6x4Po.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S22E16
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/geMPX60gevizzBD3HN5Cs6x4Po.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais S22",Lei & Ordem: Unidade de Vítimas Especiais S22E16
 http://b5.vc:80/series/danilo10/10danilo/129820.mp4
+
+
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oKuIgaOFi3h4mW1K7pXRdRMg2ns.jpg" group-title="★Séries | As Aventuras do Batman",As Aventuras do Batman S01E01
 http://b5.vc:80/series/danilo10/10danilo/129605.mp4
@@ -97,184 +367,27 @@ http://b5.vc:80/series/danilo10/10danilo/129621.mp4
 
 
 
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S21E20
-http://b5.vc:80/series/danilo10/10danilo/95863.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S21E19
-http://b5.vc:80/series/danilo10/10danilo/95862.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S21E18
-http://b5.vc:80/series/danilo10/10danilo/95861.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S21E17
-http://b5.vc:80/series/danilo10/10danilo/95860.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S21E16
-http://b5.vc:80/series/danilo10/10danilo/95859.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S21E15
-http://b5.vc:80/series/danilo10/10danilo/95858.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S21E14
-http://b5.vc:80/series/danilo10/10danilo/95857.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S21E13
-http://b5.vc:80/series/danilo10/10danilo/95856.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S21E12
-http://b5.vc:80/series/danilo10/10danilo/95855.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S21E11
-http://b5.vc:80/series/danilo10/10danilo/95854.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S21E10
-http://b5.vc:80/series/danilo10/10danilo/95853.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S21E09
-http://b5.vc:80/series/danilo10/10danilo/95852.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S21E08
-http://b5.vc:80/series/danilo10/10danilo/95851.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S21E07
-http://b5.vc:80/series/danilo10/10danilo/95850.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S21E06
-http://b5.vc:80/series/danilo10/10danilo/95849.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S21E05
-http://b5.vc:80/series/danilo10/10danilo/95848.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S21E04
-http://b5.vc:80/series/danilo10/10danilo/95847.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S21E03
-http://b5.vc:80/series/danilo10/10danilo/95846.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S21E02
-http://b5.vc:80/series/danilo10/10danilo/95845.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S21E01
-http://b5.vc:80/series/danilo10/10danilo/95844.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S20E24
-http://b5.vc:80/series/danilo10/10danilo/95843.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S20E23
-http://b5.vc:80/series/danilo10/10danilo/95842.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S20E22
-http://b5.vc:80/series/danilo10/10danilo/95841.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S20E21
-http://b5.vc:80/series/danilo10/10danilo/95840.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S20E20
-http://b5.vc:80/series/danilo10/10danilo/95839.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S20E19
-http://b5.vc:80/series/danilo10/10danilo/95838.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S20E18
-http://b5.vc:80/series/danilo10/10danilo/95837.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S20E17
-http://b5.vc:80/series/danilo10/10danilo/95836.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S20E16
-http://b5.vc:80/series/danilo10/10danilo/95835.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S20E15
-http://b5.vc:80/series/danilo10/10danilo/95834.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S20E14
-http://b5.vc:80/series/danilo10/10danilo/95833.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S20E13
-http://b5.vc:80/series/danilo10/10danilo/95832.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S20E12
-http://b5.vc:80/series/danilo10/10danilo/95831.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S20E11
-http://b5.vc:80/series/danilo10/10danilo/95830.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S20E10
-http://b5.vc:80/series/danilo10/10danilo/95829.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S20E09
-http://b5.vc:80/series/danilo10/10danilo/95828.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S20E08
-http://b5.vc:80/series/danilo10/10danilo/95827.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S20E07
-http://b5.vc:80/series/danilo10/10danilo/95826.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S20E06
-http://b5.vc:80/series/danilo10/10danilo/95825.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S20E05
-http://b5.vc:80/series/danilo10/10danilo/95824.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S20E04
-http://b5.vc:80/series/danilo10/10danilo/95823.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S20E03
-http://b5.vc:80/series/danilo10/10danilo/95822.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S20E02
-http://b5.vc:80/series/danilo10/10danilo/95821.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S20E01
-http://b5.vc:80/series/danilo10/10danilo/95820.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S19E24
-http://b5.vc:80/series/danilo10/10danilo/95819.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S19E23
-http://b5.vc:80/series/danilo10/10danilo/95818.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S19E22
-http://b5.vc:80/series/danilo10/10danilo/95817.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S19E21
-http://b5.vc:80/series/danilo10/10danilo/95816.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S19E20
-http://b5.vc:80/series/danilo10/10danilo/95815.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S19E19
-http://b5.vc:80/series/danilo10/10danilo/95814.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S19E18
-http://b5.vc:80/series/danilo10/10danilo/95813.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S19E17
-http://b5.vc:80/series/danilo10/10danilo/95812.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S19E16
-http://b5.vc:80/series/danilo10/10danilo/95811.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S19E15
-http://b5.vc:80/series/danilo10/10danilo/95810.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S19E14
-http://b5.vc:80/series/danilo10/10danilo/95809.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S19E13
-http://b5.vc:80/series/danilo10/10danilo/95808.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S19E12
-http://b5.vc:80/series/danilo10/10danilo/95807.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S19E11
-http://b5.vc:80/series/danilo10/10danilo/95806.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S19E10
-http://b5.vc:80/series/danilo10/10danilo/95805.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S19E09
-http://b5.vc:80/series/danilo10/10danilo/95804.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S19E08
-http://b5.vc:80/series/danilo10/10danilo/95803.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S19E07
-http://b5.vc:80/series/danilo10/10danilo/95802.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S19E06
-http://b5.vc:80/series/danilo10/10danilo/95801.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S19E05
-http://b5.vc:80/series/danilo10/10danilo/95800.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S19E04
-http://b5.vc:80/series/danilo10/10danilo/95799.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S19E03
-http://b5.vc:80/series/danilo10/10danilo/95798.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S19E02
-http://b5.vc:80/series/danilo10/10danilo/95797.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S19E01
-http://b5.vc:80/series/danilo10/10danilo/95796.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S18E21
-http://b5.vc:80/series/danilo10/10danilo/95795.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S18E20
-http://b5.vc:80/series/danilo10/10danilo/95794.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S18E19
-http://b5.vc:80/series/danilo10/10danilo/95793.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S18E18
-http://b5.vc:80/series/danilo10/10danilo/95792.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S18E17
-http://b5.vc:80/series/danilo10/10danilo/95791.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S18E16
-http://b5.vc:80/series/danilo10/10danilo/95790.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S18E15
-http://b5.vc:80/series/danilo10/10danilo/95789.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S18E14
-http://b5.vc:80/series/danilo10/10danilo/95788.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S18E13
-http://b5.vc:80/series/danilo10/10danilo/95787.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S18E12
-http://b5.vc:80/series/danilo10/10danilo/95786.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S18E11
-http://b5.vc:80/series/danilo10/10danilo/95785.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S18E10
-http://b5.vc:80/series/danilo10/10danilo/95784.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S18E09
-http://b5.vc:80/series/danilo10/10danilo/95783.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S18E08
-http://b5.vc:80/series/danilo10/10danilo/95782.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S18E07
-http://b5.vc:80/series/danilo10/10danilo/95781.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S18E06
-http://b5.vc:80/series/danilo10/10danilo/95780.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S18E05
-http://b5.vc:80/series/danilo10/10danilo/95779.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S18E04
-http://b5.vc:80/series/danilo10/10danilo/95778.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S18E03
-http://b5.vc:80/series/danilo10/10danilo/95777.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S18E02
-http://b5.vc:80/series/danilo10/10danilo/95776.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S18E01
-http://b5.vc:80/series/danilo10/10danilo/95775.mp4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S17E23
 http://b5.vc:80/series/danilo10/10danilo/95774.mp4
 #EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S17E22
@@ -321,6 +434,8 @@ http://b5.vc:80/series/danilo10/10danilo/95754.mp4
 http://b5.vc:80/series/danilo10/10danilo/95753.mp4
 #EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S17E01
 http://b5.vc:80/series/danilo10/10danilo/95752.mp4
+
+
 #EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S16E23
 http://b5.vc:80/series/danilo10/10danilo/95751.mp4
 #EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S16E22
@@ -727,350 +842,9 @@ http://b5.vc:80/series/danilo10/10danilo/95455.mp4
 http://b5.vc:80/series/danilo10/10danilo/95454.mp4
 #EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S08E01
 http://b5.vc:80/series/danilo10/10danilo/95453.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S07E22
-http://b5.vc:80/series/danilo10/10danilo/95452.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S07E21
-http://b5.vc:80/series/danilo10/10danilo/95451.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S07E20
-http://b5.vc:80/series/danilo10/10danilo/95450.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S07E19
-http://b5.vc:80/series/danilo10/10danilo/95449.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S07E18
-http://b5.vc:80/series/danilo10/10danilo/95448.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S07E17
-http://b5.vc:80/series/danilo10/10danilo/95447.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S07E16
-http://b5.vc:80/series/danilo10/10danilo/95446.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S07E15
-http://b5.vc:80/series/danilo10/10danilo/95445.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S07E14
-http://b5.vc:80/series/danilo10/10danilo/95444.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S07E13
-http://b5.vc:80/series/danilo10/10danilo/95443.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S07E12
-http://b5.vc:80/series/danilo10/10danilo/95442.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S07E11
-http://b5.vc:80/series/danilo10/10danilo/95441.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S07E10
-http://b5.vc:80/series/danilo10/10danilo/95440.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S07E09
-http://b5.vc:80/series/danilo10/10danilo/95439.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S07E08
-http://b5.vc:80/series/danilo10/10danilo/95438.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S07E07
-http://b5.vc:80/series/danilo10/10danilo/95437.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S07E06
-http://b5.vc:80/series/danilo10/10danilo/95436.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S07E05
-http://b5.vc:80/series/danilo10/10danilo/95435.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S07E04
-http://b5.vc:80/series/danilo10/10danilo/95434.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S07E03
-http://b5.vc:80/series/danilo10/10danilo/95433.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S07E02
-http://b5.vc:80/series/danilo10/10danilo/95432.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S07E01
-http://b5.vc:80/series/danilo10/10danilo/95431.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S06E23
-http://b5.vc:80/series/danilo10/10danilo/95430.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S06E22
-http://b5.vc:80/series/danilo10/10danilo/95429.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S06E21
-http://b5.vc:80/series/danilo10/10danilo/95428.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S06E20
-http://b5.vc:80/series/danilo10/10danilo/95427.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S06E19
-http://b5.vc:80/series/danilo10/10danilo/95426.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S06E18
-http://b5.vc:80/series/danilo10/10danilo/95425.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S06E17
-http://b5.vc:80/series/danilo10/10danilo/95424.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S06E16
-http://b5.vc:80/series/danilo10/10danilo/95423.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S06E15
-http://b5.vc:80/series/danilo10/10danilo/95422.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S06E14
-http://b5.vc:80/series/danilo10/10danilo/95421.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S06E13
-http://b5.vc:80/series/danilo10/10danilo/95420.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S06E12
-http://b5.vc:80/series/danilo10/10danilo/95419.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S06E11
-http://b5.vc:80/series/danilo10/10danilo/95418.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S06E10
-http://b5.vc:80/series/danilo10/10danilo/95417.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S06E09
-http://b5.vc:80/series/danilo10/10danilo/95416.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S06E08
-http://b5.vc:80/series/danilo10/10danilo/95415.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S06E07
-http://b5.vc:80/series/danilo10/10danilo/95414.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S06E06
-http://b5.vc:80/series/danilo10/10danilo/95413.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S06E05
-http://b5.vc:80/series/danilo10/10danilo/95412.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S06E04
-http://b5.vc:80/series/danilo10/10danilo/95411.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S06E03
-http://b5.vc:80/series/danilo10/10danilo/95410.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S06E02
-http://b5.vc:80/series/danilo10/10danilo/95409.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S06E01
-http://b5.vc:80/series/danilo10/10danilo/95408.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S05E25
-http://b5.vc:80/series/danilo10/10danilo/95407.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S05E24
-http://b5.vc:80/series/danilo10/10danilo/95406.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S05E23
-http://b5.vc:80/series/danilo10/10danilo/95405.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S05E22
-http://b5.vc:80/series/danilo10/10danilo/95404.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S05E21
-http://b5.vc:80/series/danilo10/10danilo/95403.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S05E20
-http://b5.vc:80/series/danilo10/10danilo/95402.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S05E19
-http://b5.vc:80/series/danilo10/10danilo/95401.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S05E18
-http://b5.vc:80/series/danilo10/10danilo/95400.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S05E17
-http://b5.vc:80/series/danilo10/10danilo/95399.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S05E16
-http://b5.vc:80/series/danilo10/10danilo/95398.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S05E15
-http://b5.vc:80/series/danilo10/10danilo/95397.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S05E14
-http://b5.vc:80/series/danilo10/10danilo/95396.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S05E13
-http://b5.vc:80/series/danilo10/10danilo/95395.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S05E12
-http://b5.vc:80/series/danilo10/10danilo/95394.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S05E11
-http://b5.vc:80/series/danilo10/10danilo/95393.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S05E10
-http://b5.vc:80/series/danilo10/10danilo/95392.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S05E09
-http://b5.vc:80/series/danilo10/10danilo/95391.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S05E08
-http://b5.vc:80/series/danilo10/10danilo/95390.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S05E07
-http://b5.vc:80/series/danilo10/10danilo/95389.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S05E06
-http://b5.vc:80/series/danilo10/10danilo/95388.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S05E05
-http://b5.vc:80/series/danilo10/10danilo/95387.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S05E04
-http://b5.vc:80/series/danilo10/10danilo/95386.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S05E03
-http://b5.vc:80/series/danilo10/10danilo/95385.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S05E02
-http://b5.vc:80/series/danilo10/10danilo/95384.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S05E01
-http://b5.vc:80/series/danilo10/10danilo/95383.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S04E25
-http://b5.vc:80/series/danilo10/10danilo/95382.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S04E24
-http://b5.vc:80/series/danilo10/10danilo/95381.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S04E23
-http://b5.vc:80/series/danilo10/10danilo/95380.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S04E22
-http://b5.vc:80/series/danilo10/10danilo/95379.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S04E21
-http://b5.vc:80/series/danilo10/10danilo/95378.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S04E20
-http://b5.vc:80/series/danilo10/10danilo/95377.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S04E19
-http://b5.vc:80/series/danilo10/10danilo/95376.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S04E18
-http://b5.vc:80/series/danilo10/10danilo/95375.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S04E17
-http://b5.vc:80/series/danilo10/10danilo/95374.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S04E16
-http://b5.vc:80/series/danilo10/10danilo/95373.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S04E15
-http://b5.vc:80/series/danilo10/10danilo/95372.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S04E14
-http://b5.vc:80/series/danilo10/10danilo/95371.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S04E13
-http://b5.vc:80/series/danilo10/10danilo/95370.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S04E12
-http://b5.vc:80/series/danilo10/10danilo/95369.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S04E11
-http://b5.vc:80/series/danilo10/10danilo/95368.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S04E10
-http://b5.vc:80/series/danilo10/10danilo/95367.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S04E09
-http://b5.vc:80/series/danilo10/10danilo/95366.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S04E08
-http://b5.vc:80/series/danilo10/10danilo/95365.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S04E07
-http://b5.vc:80/series/danilo10/10danilo/95364.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S04E06
-http://b5.vc:80/series/danilo10/10danilo/95363.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S04E05
-http://b5.vc:80/series/danilo10/10danilo/95362.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S04E04
-http://b5.vc:80/series/danilo10/10danilo/95361.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S04E03
-http://b5.vc:80/series/danilo10/10danilo/95360.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S04E02
-http://b5.vc:80/series/danilo10/10danilo/95359.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S04E01
-http://b5.vc:80/series/danilo10/10danilo/95358.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S03E23
-http://b5.vc:80/series/danilo10/10danilo/95357.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S03E22
-http://b5.vc:80/series/danilo10/10danilo/95356.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S03E21
-http://b5.vc:80/series/danilo10/10danilo/95355.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S03E20
-http://b5.vc:80/series/danilo10/10danilo/95354.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S03E19
-http://b5.vc:80/series/danilo10/10danilo/95353.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S03E18
-http://b5.vc:80/series/danilo10/10danilo/95352.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S03E17
-http://b5.vc:80/series/danilo10/10danilo/95351.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S03E16
-http://b5.vc:80/series/danilo10/10danilo/95350.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S03E15
-http://b5.vc:80/series/danilo10/10danilo/95349.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S03E14
-http://b5.vc:80/series/danilo10/10danilo/95348.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S03E13
-http://b5.vc:80/series/danilo10/10danilo/95347.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S03E12
-http://b5.vc:80/series/danilo10/10danilo/95346.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S03E11
-http://b5.vc:80/series/danilo10/10danilo/95345.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S03E10
-http://b5.vc:80/series/danilo10/10danilo/95344.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S03E09
-http://b5.vc:80/series/danilo10/10danilo/95343.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S03E08
-http://b5.vc:80/series/danilo10/10danilo/95342.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S03E07
-http://b5.vc:80/series/danilo10/10danilo/95341.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S03E06
-http://b5.vc:80/series/danilo10/10danilo/95340.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S03E05
-http://b5.vc:80/series/danilo10/10danilo/95339.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S03E04
-http://b5.vc:80/series/danilo10/10danilo/95338.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S03E03
-http://b5.vc:80/series/danilo10/10danilo/95337.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S03E02
-http://b5.vc:80/series/danilo10/10danilo/95336.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S03E01
-http://b5.vc:80/series/danilo10/10danilo/95335.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S02E21
-http://b5.vc:80/series/danilo10/10danilo/95334.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S02E20
-http://b5.vc:80/series/danilo10/10danilo/95333.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S02E19
-http://b5.vc:80/series/danilo10/10danilo/95332.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S02E18
-http://b5.vc:80/series/danilo10/10danilo/95331.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S02E17
-http://b5.vc:80/series/danilo10/10danilo/95330.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S02E16
-http://b5.vc:80/series/danilo10/10danilo/95329.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S02E15
-http://b5.vc:80/series/danilo10/10danilo/95328.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S02E14
-http://b5.vc:80/series/danilo10/10danilo/95327.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S02E13
-http://b5.vc:80/series/danilo10/10danilo/95326.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S02E12
-http://b5.vc:80/series/danilo10/10danilo/95325.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S02E11
-http://b5.vc:80/series/danilo10/10danilo/95324.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S02E10
-http://b5.vc:80/series/danilo10/10danilo/95323.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S02E09
-http://b5.vc:80/series/danilo10/10danilo/95322.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S02E08
-http://b5.vc:80/series/danilo10/10danilo/95321.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S02E07
-http://b5.vc:80/series/danilo10/10danilo/95320.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S02E06
-http://b5.vc:80/series/danilo10/10danilo/95319.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S02E05
-http://b5.vc:80/series/danilo10/10danilo/95318.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S02E04
-http://b5.vc:80/series/danilo10/10danilo/95317.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S02E03
-http://b5.vc:80/series/danilo10/10danilo/95316.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S02E02
-http://b5.vc:80/series/danilo10/10danilo/95315.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S02E01
-http://b5.vc:80/series/danilo10/10danilo/95314.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S01E22
-http://b5.vc:80/series/danilo10/10danilo/95313.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S01E21
-http://b5.vc:80/series/danilo10/10danilo/95312.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S01E20
-http://b5.vc:80/series/danilo10/10danilo/95311.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S01E19
-http://b5.vc:80/series/danilo10/10danilo/95310.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S01E18
-http://b5.vc:80/series/danilo10/10danilo/95309.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S01E17
-http://b5.vc:80/series/danilo10/10danilo/95308.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S01E16
-http://b5.vc:80/series/danilo10/10danilo/95307.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S01E15
-http://b5.vc:80/series/danilo10/10danilo/95306.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S01E14
-http://b5.vc:80/series/danilo10/10danilo/95305.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S01E13
-http://b5.vc:80/series/danilo10/10danilo/95304.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S01E12
-http://b5.vc:80/series/danilo10/10danilo/95303.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S01E11
-http://b5.vc:80/series/danilo10/10danilo/95302.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S01E10
-http://b5.vc:80/series/danilo10/10danilo/95301.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S01E09
-http://b5.vc:80/series/danilo10/10danilo/95300.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S01E08
-http://b5.vc:80/series/danilo10/10danilo/95299.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S01E07
-http://b5.vc:80/series/danilo10/10danilo/95298.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S01E06
-http://b5.vc:80/series/danilo10/10danilo/95297.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S01E05
-http://b5.vc:80/series/danilo10/10danilo/95296.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S01E04
-http://b5.vc:80/series/danilo10/10danilo/95295.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S01E03
-http://b5.vc:80/series/danilo10/10danilo/95294.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S01E02
-http://b5.vc:80/series/danilo10/10danilo/95293.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBWcxrPR2SlxPyt5jMQa1vZWF66_small.jpg" group-title="★Séries | Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S01E01
-http://b5.vc:80/series/danilo10/10danilo/95292.mp4
 
 
 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vMFJS9LIUUAmQ1thq4vJ7iHKwRz.jpg" group-title="★Séries | Round 6",Round 6 S01E01
-http://b5.vc:80/series/danilo10/10danilo/129765.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uacNwki3PqXEFk9Pal9Ng5NwwAI.jpg" group-title="★Séries | Round 6",Round 6 S01E02
-http://b5.vc:80/series/danilo10/10danilo/129766.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xNtgrNEsMXvmRQQtcFuJdbXOjmP.jpg" group-title="★Séries | Round 6",Round 6 S01E03
-http://b5.vc:80/series/danilo10/10danilo/129767.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9cUGOdLN4gmnf3b9ILArnJsJI8Q.jpg" group-title="★Séries | Round 6",Round 6 S01E04
-http://b5.vc:80/series/danilo10/10danilo/129768.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2pE9f6drlF7y9rwUw6dh1w6jF5M.jpg" group-title="★Séries | Round 6",Round 6 S01E05
-http://b5.vc:80/series/danilo10/10danilo/129769.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cohCCQzTe2ncdQczJDUsO0vzxPR.jpg" group-title="★Séries | Round 6",Round 6 S01E06
-http://b5.vc:80/series/danilo10/10danilo/129770.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4pVfv4HaM5QpFJTHm19p2UI0StN.jpg" group-title="★Séries | Round 6",Round 6 S01E07
-http://b5.vc:80/series/danilo10/10danilo/129771.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lOgFVmykN9qlpAoiBSIV2lu7XCS.jpg" group-title="★Séries | Round 6",Round 6 S01E08
-http://b5.vc:80/series/danilo10/10danilo/129772.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKeQbHeEUQLyoSdopa0QXm604cz.jpg" group-title="★Séries | Round 6",Round 6 S01E09
-http://b5.vc:80/series/danilo10/10danilo/129773.mp4
 
 
 
