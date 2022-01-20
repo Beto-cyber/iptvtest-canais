@@ -1,5 +1,7 @@
  #EXTM3U
 
+#EXTINF:-1,BR | BAND HD
+http://directtv1.xyz:80/18501/18501/167068
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.jbox.com.br/wp/wp-content/uploads/2020/10/jaspionbysegnini-destacada.jpg" group-title="◆Filmes | Comedia",O Primeiro Mentiroso
 http://b5.vc:80/movie/danilo10/10danilo/128633.mp4
