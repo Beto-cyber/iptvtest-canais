@@ -1,7 +1,5 @@
  #EXTM3U
 
-#EXTINF:-1,BR | BAND HD
-http://directtv1.xyz:80/18501/18501/167068
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.jbox.com.br/wp/wp-content/uploads/2020/10/jaspionbysegnini-destacada.jpg" group-title="◆Filmes | Comedia",O Primeiro Mentiroso
 http://b5.vc:80/movie/danilo10/10danilo/128633.mp4
@@ -9,15 +7,6 @@ http://b5.vc:80/movie/danilo10/10danilo/128633.mp4
 
 
 
-
-#EXTINF:-1 tvg-logo="https://cartermatt-bgmyzuarasgpknxgxbrs.netdna-ssl.com/wp-content/uploads/2015/01/svu-logo.jpg" group-title="★Séries | S05 Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S05E22
-http://b5.vc:80/series/danilo10/10danilo/95404.mp4
-#EXTINF:-1 tvg-logo="https://cartermatt-bgmyzuarasgpknxgxbrs.netdna-ssl.com/wp-content/uploads/2015/01/svu-logo.jpg" group-title="★Séries | S05 Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S05E23
-http://b5.vc:80/series/danilo10/10danilo/95405.mp4
-#EXTINF:-1 tvg-logo="https://cartermatt-bgmyzuarasgpknxgxbrs.netdna-ssl.com/wp-content/uploads/2015/01/svu-logo.jpg" group-title="★Séries | S05 Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S05E24
-http://b5.vc:80/series/danilo10/10danilo/95406.mp4
-#EXTINF:-1 tvg-logo="https://cartermatt-bgmyzuarasgpknxgxbrs.netdna-ssl.com/wp-content/uploads/2015/01/svu-logo.jpg" group-title="★Séries | S05 Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S05E25
-http://b5.vc:80/series/danilo10/10danilo/95407.mp4
 
 #EXTINF:-1 tvg-logo="https://cartermatt-bgmyzuarasgpknxgxbrs.netdna-ssl.com/wp-content/uploads/2015/01/svu-logo.jpg" group-title="★Séries | S06 Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S06E01
 http://b5.vc:80/series/danilo10/10danilo/95408.mp4
@@ -914,156 +903,6 @@ http://xcui.vitvabc.xyz:8880/287994016257/287994016257/31583
 http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16725
 #EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/78cf91f49d0c208befeabf8ed37de67b.png" group-title="CANAIS: HD",Telecine Pipoca HD+
 http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16757
-
-
-#EXTINF:-1 tvg-id="" tvg-name="SporTV HD+ 17663190818" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ef3f48d2e548940db0f144817f1295a0.png" group-title="CANAIS: ALT HD",SporTV HD+ 17663190818
-http://vipeiptv.com:25461/17663190818/17663190818/856232
-
-
-#EXTINF:-1 tvg-id="" tvg-name="SporTV HD+ Leandro2021" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ef3f48d2e548940db0f144817f1295a0.png" group-title="CANAIS: ALT HD",SporTV HD+ Leandro2021
-http://dnsl.me:80/Leandro2021/2021leandro/11691
-
-
-#EXTINF:-1 tvg-id="" tvg-name="SporTV HD+ MAGKvHvZzDzFk" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ef3f48d2e548940db0f144817f1295a0.png" group-title="CANAIS: ALT HD",SporTV HD+ MAGKvHvZzDzFk
-http://pro.viponetv.com:25443/MAGKvHvZzDzFk/nuCKNu3hZO/103698
-
-#EXTINF:-1 tvg-id="" tvg-name="SporTV HD+ Valter20" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ef3f48d2e548940db0f144817f1295a0.png" group-title="CANAIS: ALT HD",SporTV HD+ Valter20
-http://canaishd.servidor.tv:8080/valter20/valter20/1444
-
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Abertos", Globo SP HD
-http://4p.vc:80/K7y6g34drYdn/9771144045/18410
-
-#EXTINF:-1 tvg-id="" tvg-name="Globo SP HD+ Suprema" tvg-logo="http://xcui.vitvabc.xyz:8880/images/cc47870e439055bfefe058a7ce35d4c2.png" group-title="CANAIS: ALT HD",Globo SP HD+ Suprema
-http://4p.vc:80/K7y6g34drYdn/9771144045/18410
-
-#EXTINF:-1 tvg-id="" tvg-name="Globo SP HD+ Suprema2" tvg-logo="http://xcui.vitvabc.xyz:8880/images/cc47870e439055bfefe058a7ce35d4c2.png" group-title="CANAIS: ALT HD",Globo SP HD+ Suprema2
-http://4p.vc:80/K7y6g34drYdn/9771144045/18410
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Teste 01" tvg-logo="http://xcui.vitvabc.xyz:8880/images/78cf91f49d0c208befeabf8ed37de67b.png" group-title="CANAIS:TESTE HD",Teste 01
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16759
-#EXTINF:-1 tvg-id="" tvg-name="Teste 02" tvg-logo="http://xcui.vitvabc.xyz:8880/images/78cf91f49d0c208befeabf8ed37de67b.png" group-title="CANAIS:TESTE HD",Teste 02
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16758
-#EXTINF:-1 tvg-id="" tvg-name="Teste 03 pipoca" tvg-logo="http://xcui.vitvabc.xyz:8880/images/78cf91f49d0c208befeabf8ed37de67b.png" group-title="CANAIS:TESTE HD",Teste 03 pipoca
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16757
-#EXTINF:-1 tvg-id="" tvg-name="Teste 04" tvg-logo="http://xcui.vitvabc.xyz:8880/images/78cf91f49d0c208befeabf8ed37de67b.png" group-title="CANAIS:TESTE HD",Teste 04
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16756
-#EXTINF:-1 tvg-id="" tvg-name="Teste 05" tvg-logo="http://xcui.vitvabc.xyz:8880/images/78cf91f49d0c208befeabf8ed37de67b.png" group-title="CANAIS:TESTE HD",Teste 05
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16755
-#EXTINF:-1 tvg-id="" tvg-name="Teste 06" tvg-logo="http://xcui.vitvabc.xyz:8880/images/78cf91f49d0c208befeabf8ed37de67b.png" group-title="CANAIS:TESTE HD",Teste 06
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16754
-#EXTINF:-1 tvg-id="" tvg-name="Teste 07" tvg-logo="http://xcui.vitvabc.xyz:8880/images/78cf91f49d0c208befeabf8ed37de67b.png" group-title="CANAIS:TESTE HD",Teste 07
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16753
-#EXTINF:-1 tvg-id="" tvg-name="Teste 08" tvg-logo="http://xcui.vitvabc.xyz:8880/images/78cf91f49d0c208befeabf8ed37de67b.png" group-title="CANAIS:TESTE HD",Teste 08
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16752
-#EXTINF:-1 tvg-id="" tvg-name="Teste 09" tvg-logo="http://xcui.vitvabc.xyz:8880/images/78cf91f49d0c208befeabf8ed37de67b.png" group-title="CANAIS:TESTE HD",Teste 09
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16751
-#EXTINF:-1 tvg-id="" tvg-name="Teste 10" tvg-logo="http://xcui.vitvabc.xyz:8880/images/78cf91f49d0c208befeabf8ed37de67b.png" group-title="CANAIS:TESTE HD",Teste 10
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16750
-#EXTINF:-1 tvg-id="" tvg-name="Teste 11" tvg-logo="http://xcui.vitvabc.xyz:8880/images/78cf91f49d0c208befeabf8ed37de67b.png" group-title="CANAIS:TESTE HD",Teste 11
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16749
-#EXTINF:-1 tvg-id="" tvg-name="Teste 12" tvg-logo="http://xcui.vitvabc.xyz:8880/images/78cf91f49d0c208befeabf8ed37de67b.png" group-title="CANAIS:TESTE HD",Teste 12
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16748
-#EXTINF:-1 tvg-id="" tvg-name="Teste 13" tvg-logo="http://xcui.vitvabc.xyz:8880/images/78cf91f49d0c208befeabf8ed37de67b.png" group-title="CANAIS:TESTE HD",Teste 13
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16747
-#EXTINF:-1 tvg-id="" tvg-name="Teste 14" tvg-logo="http://xcui.vitvabc.xyz:8880/images/78cf91f49d0c208befeabf8ed37de67b.png" group-title="CANAIS:TESTE HD",Teste 14
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16746
-#EXTINF:-1 tvg-id="" tvg-name="Teste 15" tvg-logo="http://xcui.vitvabc.xyz:8880/images/78cf91f49d0c208befeabf8ed37de67b.png" group-title="CANAIS:TESTE HD",Teste 15
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16745
-#EXTINF:-1 tvg-id="" tvg-name="Teste 16" tvg-logo="http://xcui.vitvabc.xyz:8880/images/78cf91f49d0c208befeabf8ed37de67b.png" group-title="CANAIS:TESTE HD",Teste 16
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16744
-#EXTINF:-1 tvg-id="" tvg-name="Teste 17" tvg-logo="http://xcui.vitvabc.xyz:8880/images/78cf91f49d0c208befeabf8ed37de67b.png" group-title="CANAIS:TESTE HD",Teste 17
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16743
-#EXTINF:-1 tvg-id="" tvg-name="Teste 18" tvg-logo="http://xcui.vitvabc.xyz:8880/images/78cf91f49d0c208befeabf8ed37de67b.png" group-title="CANAIS:TESTE HD",Teste 18
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16742
-#EXTINF:-1 tvg-id="" tvg-name="Teste 19" tvg-logo="http://xcui.vitvabc.xyz:8880/images/78cf91f49d0c208befeabf8ed37de67b.png" group-title="CANAIS:TESTE HD",Teste 19
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16741
-#EXTINF:-1 tvg-id="" tvg-name="Teste 20" tvg-logo="http://xcui.vitvabc.xyz:8880/images/78cf91f49d0c208befeabf8ed37de67b.png" group-title="CANAIS:TESTE HD",Teste 20
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16740
-#EXTINF:-1 tvg-id="" tvg-name="Teste 21" tvg-logo="http://xcui.vitvabc.xyz:8880/images/78cf91f49d0c208befeabf8ed37de67b.png" group-title="CANAIS:TESTE HD",Teste 21
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16739
-#EXTINF:-1 tvg-id="" tvg-name="Teste 22" tvg-logo="http://xcui.vitvabc.xyz:8880/images/78cf91f49d0c208befeabf8ed37de67b.png" group-title="CANAIS:TESTE HD",Teste 22
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16738
-#EXTINF:-1 tvg-id="" tvg-name="Teste 23" tvg-logo="http://xcui.vitvabc.xyz:8880/images/78cf91f49d0c208befeabf8ed37de67b.png" group-title="CANAIS:TESTE HD",Teste 23
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16737
-#EXTINF:-1 tvg-id="" tvg-name="Teste 24" tvg-logo="http://xcui.vitvabc.xyz:8880/images/78cf91f49d0c208befeabf8ed37de67b.png" group-title="CANAIS:TESTE HD",Teste 24
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16736
-#EXTINF:-1 tvg-id="" tvg-name="Teste 25" tvg-logo="http://xcui.vitvabc.xyz:8880/images/78cf91f49d0c208befeabf8ed37de67b.png" group-title="CANAIS:TESTE HD",Teste 25
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16735
-#EXTINF:-1 tvg-id="" tvg-name="Teste 26" tvg-logo="http://xcui.vitvabc.xyz:8880/images/78cf91f49d0c208befeabf8ed37de67b.png" group-title="CANAIS:TESTE HD",Teste 26
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16734
-#EXTINF:-1 tvg-id="" tvg-name="Teste 27" tvg-logo="http://xcui.vitvabc.xyz:8880/images/78cf91f49d0c208befeabf8ed37de67b.png" group-title="CANAIS:TESTE HD",Teste 27
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16733
-#EXTINF:-1 tvg-id="" tvg-name="Teste 28" tvg-logo="http://xcui.vitvabc.xyz:8880/images/78cf91f49d0c208befeabf8ed37de67b.png" group-title="CANAIS:TESTE HD",Teste 28
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16732
-#EXTINF:-1 tvg-id="" tvg-name="Teste 29" tvg-logo="http://xcui.vitvabc.xyz:8880/images/78cf91f49d0c208befeabf8ed37de67b.png" group-title="CANAIS:TESTE HD",Teste 29
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16731
-#EXTINF:-1 tvg-id="" tvg-name="Teste 30" tvg-logo="http://xcui.vitvabc.xyz:8880/images/78cf91f49d0c208befeabf8ed37de67b.png" group-title="CANAIS:TESTE HD",Teste 30
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16730
-#EXTINF:-1 tvg-id="" tvg-name="Teste 31" tvg-logo="http://xcui.vitvabc.xyz:8880/images/78cf91f49d0c208befeabf8ed37de67b.png" group-title="CANAIS:TESTE HD",Teste 31
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16729
-#EXTINF:-1 tvg-id="" tvg-name="Teste 32" tvg-logo="http://xcui.vitvabc.xyz:8880/images/78cf91f49d0c208befeabf8ed37de67b.png" group-title="CANAIS:TESTE HD",Teste 32
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16728
-#EXTINF:-1 tvg-id="" tvg-name="Teste 33" tvg-logo="http://xcui.vitvabc.xyz:8880/images/78cf91f49d0c208befeabf8ed37de67b.png" group-title="CANAIS:TESTE HD",Teste 33
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16727
-#EXTINF:-1 tvg-id="" tvg-name="Teste 34" tvg-logo="http://xcui.vitvabc.xyz:8880/images/78cf91f49d0c208befeabf8ed37de67b.png" group-title="CANAIS:TESTE HD",Teste 34
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16726
-#EXTINF:-1 tvg-id="" tvg-name="Teste 35 Fox sports" tvg-logo="http://xcui.vitvabc.xyz:8880/images/78cf91f49d0c208befeabf8ed37de67b.png" group-title="CANAIS:TESTE HD",Teste 35 Fox sports
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16725
-
-#EXTINF:-1 tvg-id="" tvg-name="SporTV HD+222" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ef3f48d2e548940db0f144817f1295a0.png" group-title="CANAIS:TESTE HD",SporTV HD+222
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16753
-#EXTINF:-1 tvg-id="" tvg-name="SporTV HD+1" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ef3f48d2e548940db0f144817f1295a0.png" group-title="CANAIS:TESTE HD",SporTV HD+1
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16753
-#EXTINF:-1 tvg-id="" tvg-name="SporTV HD+111" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ef3f48d2e548940db0f144817f1295a0.png" group-title="CANAIS:TESTE HD",SporTV HD+111
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16752
-
-
-#EXTINF:-1,24hs A Família Addams
-http://vipeiptv.com:25461/17663190818/17663190818/931298
-
-#EXTINF:-1,24hs A GRANDE FAMILIA
-http://vipeiptv.com:25461/17663190818/17663190818/931300
-
-#EXTINF:-1,24hs As Aventuras de Tintin
-http://vipeiptv.com:25461/17663190818/17663190818/931307
-
-#EXTINF:-1,24hs Capitão Caverna
-http://vipeiptv.com:25461/17663190818/17663190818/931328
-
-#EXTINF:-1,24hs Caverna do Dragão
-http://vipeiptv.com:25461/17663190818/17663190818/931332
-
-#EXTINF:-1,24hs Corrida Maluca
-http://vipeiptv.com:25461/17663190818/17663190818/931338
-
-#EXTINF:-1,24hs Ducktales
-http://vipeiptv.com:25461/17663190818/17663190818/931348
-
-#EXTINF:-1,24hs FLINTSTONES
-http://vipeiptv.com:25461/17663190818/17663190818/931352
-
-#EXTINF:-1,24hs Os Flintstones
-http://vipeiptv.com:25461/17663190818/17663190818/931380
-
-#EXTINF:-1,24hs Os Simpsons
-http://vipeiptv.com:25461/17663190818/17663190818/931382
-
-#EXTINF:-1,24hs SCOOBY DOO
-http://vipeiptv.com:25461/17663190818/17663190818/931397
-
-#EXTINF:-1,24hs Zé Colméia
-http://vipeiptv.com:25461/17663190818/17663190818/931413
-
-#EXTINF:-1,24hs Jaspion
-http://vipeiptv.com:25461/17663190818/17663190818/931414
-
-#EXTINF:-1,24hs Vai que Cola
-http://vipeiptv.com:25461/17663190818/17663190818/953394
-
-#EXTINF:-1,24H CAVERNA DO DRAGÃO VIP
-http://vipeiptv.com:25461/17663190818/17663190818/956491
 
 
 
