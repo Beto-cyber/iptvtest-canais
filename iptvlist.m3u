@@ -23,8 +23,6 @@ http://hdmais.com:80/movie/etevaldo01/etevaldo02/10027837.mp4
 http://hdmais.com:80/movie/etevaldo01/etevaldo02/10042177.mp4
 #EXTINF:-1 tvg-id="" tvg-name="BATMAN ETERNAMENTE (1995)" tvg-logo="http://br2.me:80/images/tEwd28NegRgXmZdiEJeVrclYZfX_big.jpg" group-title="ACAO",BATMAN ETERNAMENTE (1995)
 http://hdmais.com:80/movie/etevaldo01/etevaldo02/10040717.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BATMAN NINJA (2018)" tvg-logo="http://br2.me:80/images/zaw7PQ7GvTliBVmfg2o8OJfhWjU_big.jpg" group-title="ACAO",BATMAN NINJA (2018)
-http://hdmais.com:80/movie/etevaldo01/etevaldo02/6901.mp4
 #EXTINF:-1 tvg-id="" tvg-name="BATMAN O CAVALEIRO DAS TREVAS" tvg-logo="http://br2.me:80/images/iGZX91hIqM9Uu0KGhd4MUaJ0Rtm_big.jpg" group-title="ACAO",BATMAN O CAVALEIRO DAS TREVAS
 http://hdmais.com:80/movie/etevaldo01/etevaldo02/10002.mp4
 #EXTINF:-1 tvg-id="" tvg-name="BATMAN O CAVALEIRO DAS TREVAS PARTE 1" tvg-logo="http://br2.me:80/images/tnEjYpYDzeXazK3WOfCavhZAzkG_big.jpg" group-title="ANIMACAO & INFANTIL",BATMAN O CAVALEIRO DAS TREVAS PARTE 1
@@ -5508,6 +5506,27 @@ http://hdmais.com:80/etevaldo01/etevaldo02/1152
 http://hdmais.com:80/etevaldo01/etevaldo02/557
 #EXTINF:-1 tvg-id="" tvg-name="X-MEN EVOLUTION" tvg-logo="https://www.seekpng.com/png/full/277-2773281_evolution-tv-show-image-with-logo-and-character.png  " group-title="DESENHOS 24HORAS",X-MEN EVOLUTION
 http://hdmais.com:80/etevaldo01/etevaldo02/561
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn.falauniversidades.com.br/wp-content/uploads/2021/01/05135224/Modern-Love.jpg" group-title="★Amor Moderno | S01",Amor Moderno S01E01
+http://b5.vc:80/series/danilo10/10danilo/119701.mp4
+#EXTINF:-1 tvg-logo="https://cdn.falauniversidades.com.br/wp-content/uploads/2021/01/05135224/Modern-Love.jpg" group-title="★Amor Moderno | S01",Amor Moderno S01E02
+http://b5.vc:80/series/danilo10/10danilo/119702.mp4
+#EXTINF:-1 tvg-logo="https://cdn.falauniversidades.com.br/wp-content/uploads/2021/01/05135224/Modern-Love.jpg" group-title="★Amor Moderno | S01",Amor Moderno S01E03
+http://b5.vc:80/series/danilo10/10danilo/119703.mp4
+#EXTINF:-1 tvg-logo="https://cdn.falauniversidades.com.br/wp-content/uploads/2021/01/05135224/Modern-Love.jpg" group-title="★Amor Moderno | S01",Amor Moderno S01E04
+http://b5.vc:80/series/danilo10/10danilo/119704.mp4
+#EXTINF:-1 tvg-logo="https://cdn.falauniversidades.com.br/wp-content/uploads/2021/01/05135224/Modern-Love.jpg" group-title="★Amor Moderno | S01",Amor Moderno S01E05
+http://b5.vc:80/series/danilo10/10danilo/119705.mp4
+#EXTINF:-1 tvg-logo="https://cdn.falauniversidades.com.br/wp-content/uploads/2021/01/05135224/Modern-Love.jpg" group-title="★Amor Moderno | S01",Amor Moderno S01E06
+http://b5.vc:80/series/danilo10/10danilo/119706.mp4
+#EXTINF:-1 tvg-logo="https://cdn.falauniversidades.com.br/wp-content/uploads/2021/01/05135224/Modern-Love.jpg" group-title="★Amor Moderno | S01",Amor Moderno S01E07
+http://b5.vc:80/series/danilo10/10danilo/119707.mp4
+#EXTINF:-1 tvg-logo="https://cdn.falauniversidades.com.br/wp-content/uploads/2021/01/05135224/Modern-Love.jpg" group-title="★Amor Moderno | S01",Amor Moderno S01E08
+http://b5.vc:80/series/danilo10/10danilo/119708.mp4
+
+
 
 
 #EXTINF:-1 tvg-logo="https://guiadanetflix.com.br/wp-content/uploads/2016/07/gotham.png" group-title="★Gotham | S01",Gotham S01E01
