@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:-1 tvg-id="" tvg-name="MATRIX RESURRECTIONS (2022)" tvg-logo="http://viutudo.com:80/images/9DT4WVqZqBEI9Kub18gZ3m1D89m_big.jpg" group-title="LANCAMENTOS",MATRIX RESURRECTIONS (2022)
 http://hdmais.com:80/movie/etevaldo01/etevaldo02/10074119.mp4
 #EXTINF:-1 tvg-id="" tvg-name="MATRIX RESURRECTIONS (2021) LEG" tvg-logo="http://viutudo.com:80/images/6aNRxxRjLF4xH2m2bLr4aC2rDea_big.jpg" group-title="LANCAMENTOS",MATRIX RESURRECTIONS (2021) LEG
@@ -3548,8 +3547,6 @@ http://hdmais.com:80/etevaldo01/etevaldo02/561
 #EXTINF:-1 tvg-logo="http://ccdn.so:80/images/f7ee900c71c63219c738cdea996d5356.jpg" group-title="◆Filmes | Animacao",Os Simpsons: O Bem, o Bart e o Loki
 http://b5.vc:80/movie/danilo10/10danilo/112937.mp4
 
-
-
 #EXTINF:-1 tvg-logo="https://kanto.legiaodosherois.com.br/w760-h398-gnw-cfill-q80/wp-content/uploads/2015/04/Marvel-Logo.jpg.jpeg" group-title="★MARVEL",Homem-Aranha: Sem Volta a Casa - 2021
 http://cdn.canais.cc:80/movie/55115805/cliente@5805/107488.mp4
 
@@ -3705,7 +3702,7 @@ http://cdn.canais.cc:80/55115805/cliente@5805/105059
 http://cdn.canais.cc:80/55115805/cliente@5805/116334
 #EXTINF:-1 tvg-logo="https://uploads.turbologo.com/uploads/design/hq_preview_image/3155351/draw_svg20210507-22909-1o3w74o.svg.png" group-title="★Futeba",Campeonato Carioca 02
 http://cdn.canais.cc:80/55115805/cliente@5805/116335
-#EXTINF:-1 tvg-logo="https://uploads.turbologo.com/uploads/design/hq_preview_image/3155351/draw_svg20210507-22909-1o3w74o.svg.png" group-title="★Futeba",Campeonato Carioca 03
+#EXTINF:-1 tvg-logo="https://uploads.turbologo.com/uploads/design/hq_preview_image/3155351/draw_svg20210507-22909-1o3w74o.svg.png" group-title="★Futeba",Campeonato Cariocalixo 03
 http://cdn.canais.cc:80/55115805/cliente@5805/116336
 #EXTINF:-1 tvg-logo="https://uploads.turbologo.com/uploads/design/hq_preview_image/3155351/draw_svg20210507-22909-1o3w74o.svg.png" group-title="★Futeba",Copa do Nordeste 01
 http://cdn.canais.cc:80/55115805/cliente@5805/116337
