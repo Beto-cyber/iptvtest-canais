@@ -56,6 +56,183 @@ http://bolos.cteam.me:80/series/weberth/123456/883729.mp4
 #EXTINF:-1 tvg-logo="http://i.mlcdn.com.br/portaldalu/fotosconteudo/526.jpg" group-title="★TV2",Amor Moderno S02 E08
 http://bolos.cteam.me:80/series/weberth/123456/883730.mp4
 
+
+#EXTINF:-1 tvg-id="" tvg-name="Palmeiras TV HD" tvg-logo="http://brla.me/palmeirastv.jpg" group-title="Palmeiras TV",Palmeiras TV HD
+http://tbsrv.me:8880/vania01/vania02/133534
+
+
+
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV" tvg-logo="http://brla.me/SporTV.png" group-title="SporTV",SporTV FHD
+http://tbsrv.me:8880/vania01/vania02/69716
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV" tvg-logo="http://brla.me/SporTV.png" group-title="SporTV",SporTV FHD²
+http://tbsrv.me:8880/vania01/vania02/101760
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV" tvg-logo="http://brla.me/SporTV.png" group-title="SporTV",SporTV HD
+http://tbsrv.me:8880/vania01/vania02/69743
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV" tvg-logo="http://brla.me/SporTV.png" group-title="SporTV",SporTV HD²
+http://tbsrv.me:8880/vania01/vania02/160122
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV" tvg-logo="http://brla.me/SporTV.png" group-title="SporTV",SporTV SD
+http://tbsrv.me:8880/vania01/vania02/69790
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV" tvg-logo="http://brla.me/SporTV.png" group-title="SporTV",SporTV SD²
+http://tbsrv.me:8880/vania01/vania02/101762
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV" tvg-logo="http://brla.me/SporTV.png" group-title="SporTV",SporTV FHD [H265]
+http://tbsrv.me:8880/vania01/vania02/77741
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV" tvg-logo="http://brla.me/SporTV.png" group-title="SporTV",SporTV 2 FHD [H265]
+http://tbsrv.me:8880/vania01/vania02/77742
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV" tvg-logo="http://brla.me/SporTV.png" group-title="SporTV",SporTV 2 FHD
+http://tbsrv.me:8880/vania01/vania02/69717
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV" tvg-logo="http://brla.me/SporTV.png" group-title="SporTV",SporTV 2 FHD²
+http://tbsrv.me:8880/vania01/vania02/101754
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV" tvg-logo="http://brla.me/SporTV.png" group-title="SporTV",SporTV 2 HD
+http://tbsrv.me:8880/vania01/vania02/69744
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV" tvg-logo="http://brla.me/SporTV.png" group-title="SporTV",SporTV 2 HD²
+http://tbsrv.me:8880/vania01/vania02/101755
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV" tvg-logo="http://brla.me/SporTV.png" group-title="SporTV",SporTV 2 SD
+http://tbsrv.me:8880/vania01/vania02/69726
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV" tvg-logo="http://brla.me/SporTV.png" group-title="SporTV",SporTV 2 SD²
+http://tbsrv.me:8880/vania01/vania02/101756
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV" tvg-logo="http://brla.me/SporTV.png" group-title="SporTV",SporTV 3 FHD [H265]
+http://tbsrv.me:8880/vania01/vania02/77743
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV" tvg-logo="http://brla.me/SporTV.png" group-title="SporTV",SporTV 3 FHD
+http://tbsrv.me:8880/vania01/vania02/69758
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV" tvg-logo="http://brla.me/SporTV.png" group-title="SporTV",SporTV 3 FHD²
+http://tbsrv.me:8880/vania01/vania02/101757
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV" tvg-logo="http://brla.me/SporTV.png" group-title="SporTV",SporTV 3 HD
+http://tbsrv.me:8880/vania01/vania02/69745
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV" tvg-logo="http://brla.me/SporTV.png" group-title="SporTV",SporTV 3 HD²
+http://tbsrv.me:8880/vania01/vania02/101758
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV" tvg-logo="http://brla.me/SporTV.png" group-title="SporTV",SporTV 3 SD
+http://tbsrv.me:8880/vania01/vania02/69727
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV" tvg-logo="http://brla.me/SporTV.png" group-title="SporTV",SporTV 3 SD²
+http://tbsrv.me:8880/vania01/vania02/101759
+
+
+#EXTINF:-1 tvg-id="premiere.br" tvg-name="Premiere" tvg-logo="http://brla.me/Premiere%20Clubes.png" group-title="Premiere",Premiere Clubes FHD [H265]
+http://tbsrv.me:8880/vania01/vania02/77731
+#EXTINF:-1 tvg-id="premiere.br" tvg-name="Premiere" tvg-logo="http://brla.me/Premiere%20Clubes.png" group-title="Premiere",Premiere Clubes FHD
+http://tbsrv.me:8880/vania01/vania02/69718
+#EXTINF:-1 tvg-id="premiere.br" tvg-name="Premiere" tvg-logo="http://brla.me/Premiere%20Clubes.png" group-title="Premiere",Premiere Clubes FHD²
+http://tbsrv.me:8880/vania01/vania02/101811
+#EXTINF:-1 tvg-id="premiere.br" tvg-name="Premiere" tvg-logo="http://brla.me/Premiere%20Clubes.png" group-title="Premiere",Premiere Clubes HD
+http://tbsrv.me:8880/vania01/vania02/69737
+#EXTINF:-1 tvg-id="premiere.br" tvg-name="Premiere" tvg-logo="http://brla.me/Premiere%20Clubes.png" group-title="Premiere",Premiere Clubes HD²
+http://tbsrv.me:8880/vania01/vania02/101812
+#EXTINF:-1 tvg-id="premiere.br" tvg-name="Premiere" tvg-logo="http://brla.me/Premiere%20Clubes.png" group-title="Premiere",Premiere Clubes SD
+http://tbsrv.me:8880/vania01/vania02/397
+#EXTINF:-1 tvg-id="premiere.br" tvg-name="Premiere" tvg-logo="http://brla.me/Premiere%20Clubes.png" group-title="Premiere",Premiere Clubes SD²
+http://tbsrv.me:8880/vania01/vania02/101813
+#EXTINF:-1 tvg-id="premiere.br" tvg-name="Premiere" tvg-logo="http://brla.me/Premiere%202.png" group-title="Premiere",Premiere 2 FHD [H265]
+http://tbsrv.me:8880/vania01/vania02/77732
+#EXTINF:-1 tvg-id="premiere.br" tvg-name="Premiere" tvg-logo="http://brla.me/Premiere%202.png" group-title="Premiere",Premiere 2 FHD
+http://tbsrv.me:8880/vania01/vania02/69719
+#EXTINF:-1 tvg-id="premiere.br" tvg-name="Premiere" tvg-logo="http://brla.me/Premiere%202.png" group-title="Premiere",Premiere 2 HD
+http://tbsrv.me:8880/vania01/vania02/69739
+#EXTINF:-1 tvg-id="premiere.br" tvg-name="Premiere" tvg-logo="http://brla.me/Premiere%202.png" group-title="Premiere",Premiere 2 HD²
+http://tbsrv.me:8880/vania01/vania02/101799
+#EXTINF:-1 tvg-id="premiere.br" tvg-name="Premiere" tvg-logo="http://brla.me/Premiere%202.png" group-title="Premiere",Premiere 2 SD
+http://tbsrv.me:8880/vania01/vania02/69734
+#EXTINF:-1 tvg-id="premiere.br" tvg-name="Premiere" tvg-logo="http://brla.me/Premiere%202.png" group-title="Premiere",Premiere 2 SD²
+http://tbsrv.me:8880/vania01/vania02/101800
+#EXTINF:-1 tvg-id="premiere.br" tvg-name="Premiere" tvg-logo="http://brla.me/Premiere%203.png" group-title="Premiere",Premiere 3 FHD [H265]
+http://tbsrv.me:8880/vania01/vania02/77733
+#EXTINF:-1 tvg-id="premiere.br" tvg-name="Premiere" tvg-logo="http://brla.me/Premiere%203.png" group-title="Premiere",Premiere 3 FHD
+http://tbsrv.me:8880/vania01/vania02/69720
+#EXTINF:-1 tvg-id="premiere.br" tvg-name="Premiere" tvg-logo="http://brla.me/Premiere%203.png" group-title="Premiere",Premiere 3 HD
+http://tbsrv.me:8880/vania01/vania02/69740
+#EXTINF:-1 tvg-id="premiere.br" tvg-name="Premiere" tvg-logo="http://brla.me/Premiere%203.png" group-title="Premiere",Premiere 3 HD²
+http://tbsrv.me:8880/vania01/vania02/101801
+#EXTINF:-1 tvg-id="premiere.br" tvg-name="Premiere" tvg-logo="http://brla.me/Premiere%203.png" group-title="Premiere",Premiere 3 SD
+http://tbsrv.me:8880/vania01/vania02/69733
+#EXTINF:-1 tvg-id="premiere.br" tvg-name="Premiere" tvg-logo="http://brla.me/Premiere%203.png" group-title="Premiere",Premiere 3 SD²
+http://tbsrv.me:8880/vania01/vania02/101802
+#EXTINF:-1 tvg-id="premiere.br" tvg-name="Premiere" tvg-logo="http://brla.me/Premiere%204.png" group-title="Premiere",Premiere 4 FHD [H265]
+http://tbsrv.me:8880/vania01/vania02/77734
+#EXTINF:-1 tvg-id="premiere.br" tvg-name="Premiere" tvg-logo="http://brla.me/Premiere%204.png" group-title="Premiere",Premiere 4 FHD
+http://tbsrv.me:8880/vania01/vania02/69721
+#EXTINF:-1 tvg-id="premiere.br" tvg-name="Premiere" tvg-logo="http://brla.me/Premiere%204.png" group-title="Premiere",Premiere 4 HD
+http://tbsrv.me:8880/vania01/vania02/69738
+#EXTINF:-1 tvg-id="premiere.br" tvg-name="Premiere" tvg-logo="http://brla.me/Premiere%204.png" group-title="Premiere",Premiere 4 HD²
+http://tbsrv.me:8880/vania01/vania02/101803
+#EXTINF:-1 tvg-id="premiere.br" tvg-name="Premiere" tvg-logo="http://brla.me/Premiere%204.png" group-title="Premiere",Premiere 4 SD
+http://tbsrv.me:8880/vania01/vania02/69728
+#EXTINF:-1 tvg-id="premiere.br" tvg-name="Premiere" tvg-logo="http://brla.me/Premiere%204.png" group-title="Premiere",Premiere 4 SD²
+http://tbsrv.me:8880/vania01/vania02/101804
+#EXTINF:-1 tvg-id="premiere.br" tvg-name="Premiere" tvg-logo="http://brla.me/Premiere%205.png" group-title="Premiere",Premiere 5 FHD [H265]
+http://tbsrv.me:8880/vania01/vania02/69722
+#EXTINF:-1 tvg-id="premiere.br" tvg-name="Premiere" tvg-logo="http://brla.me/Premiere%205.png" group-title="Premiere",Premiere 5 FHD
+http://tbsrv.me:8880/vania01/vania02/77735
+#EXTINF:-1 tvg-id="premiere.br" tvg-name="Premiere" tvg-logo="http://brla.me/Premiere%205.png" group-title="Premiere",Premiere 5 HD
+http://tbsrv.me:8880/vania01/vania02/69741
+#EXTINF:-1 tvg-id="premiere.br" tvg-name="Premiere" tvg-logo="http://brla.me/Premiere%205.png" group-title="Premiere",Premiere 5 HD²
+http://tbsrv.me:8880/vania01/vania02/101805
+#EXTINF:-1 tvg-id="premiere.br" tvg-name="Premiere" tvg-logo="http://brla.me/Premiere%205.png" group-title="Premiere",Premiere 5 SD
+http://tbsrv.me:8880/vania01/vania02/69735
+#EXTINF:-1 tvg-id="premiere.br" tvg-name="Premiere" tvg-logo="http://brla.me/Premiere%205.png" group-title="Premiere",Premiere 5 SD²
+http://tbsrv.me:8880/vania01/vania02/101806
+#EXTINF:-1 tvg-id="premiere.br" tvg-name="Premiere" tvg-logo="http://brla.me/Premiere%206.png" group-title="Premiere",Premiere 6 FHD [H265]
+http://tbsrv.me:8880/vania01/vania02/77736
+#EXTINF:-1 tvg-id="premiere.br" tvg-name="Premiere" tvg-logo="http://brla.me/Premiere%206.png" group-title="Premiere",Premiere 6 FHD
+http://tbsrv.me:8880/vania01/vania02/69723
+#EXTINF:-1 tvg-id="premiere.br" tvg-name="Premiere" tvg-logo="http://brla.me/Premiere%206.png" group-title="Premiere",Premiere 6 HD
+http://tbsrv.me:8880/vania01/vania02/69742
+#EXTINF:-1 tvg-id="premiere.br" tvg-name="Premiere" tvg-logo="http://brla.me/Premiere%206.png" group-title="Premiere",Premiere 6 HD²
+http://tbsrv.me:8880/vania01/vania02/101807
+#EXTINF:-1 tvg-id="premiere.br" tvg-name="Premiere" tvg-logo="http://brla.me/Premiere%206.png" group-title="Premiere",Premiere 6 SD
+http://tbsrv.me:8880/vania01/vania02/69736
+#EXTINF:-1 tvg-id="premiere.br" tvg-name="Premiere" tvg-logo="http://brla.me/Premiere%206.png" group-title="Premiere",Premiere 6 SD²
+http://tbsrv.me:8880/vania01/vania02/101808
+#EXTINF:-1 tvg-id="premiere.br" tvg-name="Premiere" tvg-logo="http://brla.me/Premiere%207.png" group-title="Premiere",Premiere 7 FHD [H265]
+http://tbsrv.me:8880/vania01/vania02/77737
+#EXTINF:-1 tvg-id="premiere.br" tvg-name="Premiere" tvg-logo="http://brla.me/Premiere%207.png" group-title="Premiere",Premiere 7 FHD
+http://tbsrv.me:8880/vania01/vania02/69724
+#EXTINF:-1 tvg-id="premiere.br" tvg-name="Premiere" tvg-logo="http://brla.me/Premiere%207.png" group-title="Premiere",Premiere 7 HD
+http://tbsrv.me:8880/vania01/vania02/69729
+#EXTINF:-1 tvg-id="premiere.br" tvg-name="Premiere" tvg-logo="http://brla.me/Premiere%207.png" group-title="Premiere",Premiere 7 SD
+http://tbsrv.me:8880/vania01/vania02/69730
+#EXTINF:-1 tvg-id="premiere.br" tvg-name="Premiere" tvg-logo="http://brla.me/Premiere%207.png" group-title="Premiere",Premiere 7 SD²
+http://tbsrv.me:8880/vania01/vania02/101809
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 01 HD" tvg-logo="http://brla.me/tnt-sports.png" group-title="TNT Sports",TNT Sports 01 HD
+http://tbsrv.me:8880/vania01/vania02/133542
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 02 HD" tvg-logo="http://brla.me/tnt-sports.png" group-title="TNT Sports",TNT Sports 02 HD
+http://tbsrv.me:8880/vania01/vania02/133543
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 03 HD" tvg-logo="http://brla.me/tnt-sports.png" group-title="TNT Sports",TNT Sports 03 HD
+http://tbsrv.me:8880/vania01/vania02/133544
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 04 HD" tvg-logo="http://brla.me/tnt-sports.png" group-title="TNT Sports",TNT Sports 04 HD
+http://tbsrv.me:8880/vania01/vania02/133545
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 05 HD" tvg-logo="http://brla.me/tnt-sports.png" group-title="TNT Sports",TNT Sports 05 HD
+http://tbsrv.me:8880/vania01/vania02/133546
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 06 HD" tvg-logo="http://brla.me/tnt-sports.png" group-title="TNT Sports",TNT Sports 06 HD
+http://tbsrv.me:8880/vania01/vania02/133547
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 07 HD" tvg-logo="http://brla.me/tnt-sports.png" group-title="TNT Sports",TNT Sports 07 HD
+http://tbsrv.me:8880/vania01/vania02/133548
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 08 HD" tvg-logo="http://brla.me/tnt-sports.png" group-title="TNT Sports",TNT Sports 08 HD
+http://tbsrv.me:8880/vania01/vania02/133549
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 09 HD" tvg-logo="http://brla.me/tnt-sports.png" group-title="TNT Sports",TNT Sports 09 HD
+http://tbsrv.me:8880/vania01/vania02/133550
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 10 HD" tvg-logo="http://brla.me/tnt-sports.png" group-title="TNT Sports",TNT Sports 10 HD
+http://tbsrv.me:8880/vania01/vania02/133551
+
+
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band TV" tvg-logo="http://brla.me/Band.png" group-title="Band TV SP",Band TV SP HD²
+http://tbsrv.me:8880/vania01/vania02/99256
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band TV" tvg-logo="http://brla.me/Band.png" group-title="Band TV SP",Band TV SP SD²
+http://tbsrv.me:8880/vania01/vania02/99257
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports" tvg-logo="http://brla.me/Band%20Sports.png" group-title="Band Sports",Band Sports FHD [H265]
+http://tbsrv.me:8880/vania01/vania02/77673
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports" tvg-logo="http://brla.me/Band%20Sports.png" group-title="Band Sports",Band Sports FHD
+http://tbsrv.me:8880/vania01/vania02/70044
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports" tvg-logo="http://brla.me/Band%20Sports.png" group-title="Band Sports",Band Sports FHD²
+http://tbsrv.me:8880/vania01/vania02/103907
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports" tvg-logo="http://brla.me/Band%20Sports.png" group-title="Band Sports",Band Sports HD
+http://tbsrv.me:8880/vania01/vania02/70045
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports" tvg-logo="http://brla.me/Band%20Sports.png" group-title="Band Sports",Band Sports HD²
+http://tbsrv.me:8880/vania01/vania02/103908
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports" tvg-logo="http://brla.me/Band%20Sports.png" group-title="Band Sports",Band Sports SD
+http://tbsrv.me:8880/vania01/vania02/69789
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports" tvg-logo="http://brla.me/Band%20Sports.png" group-title="Band Sports",Band Sports SD²
+http://tbsrv.me:8880/vania01/vania02/103909
+
 #EXTINF:-1 tvg-logo="https://cartermatt-bgmyzuarasgpknxgxbrs.netdna-ssl.com/wp-content/uploads/2015/01/svu-logo.jpg" group-title="★Séries | S07 Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S07E08
 http://b5.vc:80/series/danilo10/10danilo/95438.mp4
 #EXTINF:-1 tvg-logo="https://cartermatt-bgmyzuarasgpknxgxbrs.netdna-ssl.com/wp-content/uploads/2015/01/svu-logo.jpg" group-title="★Séries | S07 Lei e Ordem Unidade de Vitimas Especiais",Lei & Ordem: Unidade de Vítimas Especiais S07E09
